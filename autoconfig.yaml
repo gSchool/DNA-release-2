@@ -29,3 +29,7 @@ Standards:
         Type: Lesson
         UID: 5a2d8f95651f2eefaf9cf4da807fb4a1
         Path: /02-Phase-1/01-emergence.md
+      -
+        Type: Lesson
+        UID: c1a49c24c650b5c464dffca90b448ac6
+        Path: /02-Phase-1/03-devops-principles.md
