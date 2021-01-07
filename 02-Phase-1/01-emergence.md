@@ -36,7 +36,7 @@ We are bringing back the timeline, and you may be asking yourself, “Why now?�
 
 **The answer:** these concepts are constantly evolving and building upon one another:
 
-![DevOps Timeline](images/01_devops_timeline.png)
+![DevOps Timeline](__images/01_devops_timeline.png)
 
 The term DevOps emerges from the combination of two related trends:
 
@@ -55,11 +55,11 @@ DevOps is a complex methodology that requires some nuance to fully understand. D
 
 Here is a graphic version of how those concepts work together:
 
-![Mindset Circles](images/02_learning_org.png)
+![Mindset Circles](__images/02_learning_org.png)
 
 Referring back to Agile methodologies, you can see there are similarities:
 
-![Mindset to Practices](images/03_mindset_practices.png)
+![Mindset to Practices](__images/03_mindset_practices.png)
 
 The final addition to this graphic is ‘Tools’, not shown. This is where Agile tools, or tools specifically created and engineered to support Agile, are used to support implementation of Agile practices (i.e. Jira).
 
