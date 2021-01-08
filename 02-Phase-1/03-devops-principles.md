@@ -12,7 +12,9 @@ By the end of this lesson you will be able to:
 ## CALMS
 
 #### !callout-info
-**Note**: To supplement this lesson, we use part of the Agile Software Training
+
+##Note
+To supplement this lesson, we use part of the Agile Software Training
 Program available on Coursera via a DAU/Coursera Partnership. **Current** DoD Acquisition
 professionals (civilian and military) can gain access and receive certificates for class/curriculum
 completion by contacting [Mr. Dave Pearson](mailto:david.pearson@dau.edu). All three videos
@@ -41,8 +43,10 @@ That being said, unfortunately:
 <br><span style="float:right">--Lloyd Taylor VP Infrastructure, Ngmoco</span>
 
 <span style="clear:both"></span>
-#### !callout-info
-**Definition**: Behavior
+#### !callout-success
+
+## Definition
+Behavior
 1. 
    1. the manner of conducting oneself
    1. anything that an organism does involving action and response to stimulation
@@ -96,6 +100,8 @@ Continuous improvement occurs when entire teams work to optimize the workflow. T
 The only true failure is not learning from your mistakes. To learn from your mistakes, you must understand the goal (intent), process (bottlenecks), and success metrics or constantly conduct and document experiments.
 
 #### !callout-warning
+
+##Reminder
 Keep in mind an important aspect of these experiments is success and failures (stumbling or roadblocks) occur to the ENTIRE team.
 #### !end-callout
 

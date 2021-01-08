@@ -166,8 +166,9 @@ Culture is undoubtedly important- but think of culture as a shadow. it is observ
 
 <span style="font-size:.8em">Source: Pflaeging, Niels. Organize for Complexity: How to Get Life Back into Work to Build the High-Performance Organization. BetaCodex Publishing, 2014.</span>
 
-### !callout-info
-DevOps consists of multiple levels:
+### !callout-warning
+
+##DevOps consists of multiple levels:
 
 Values → Principles → Methods → Practices → Tools.
 ### !end-callout
@@ -178,8 +179,9 @@ All participants creating a product or system should collaborate from the beginn
 ###5.    It’s Not (Just) a Job Title
 Implementation cannot be achieved through rebranding a team as ‘DevOps’ or an individual by changing their job title to ‘DevOps Engineer’.
 
-### !callout-info
-Again, DevOps consists of multiple levels:
+### !callout-danger
+
+##Again, DevOps consists of multiple levels:
 
 Values → Principles → Methods → Practices → Tools.
 ### !end-callout
@@ -255,7 +257,10 @@ The Program Management Office (PMO) _**is PART OF**_ the value stream.
   * Activities performed by PMO in direct support: acquisition strategy, contracting strategy, and contracts awarded
 
 ### !callout-warning
-_Real Impact_: Contracting actions performed by PMOs have large impacts. In a [2018 GAO report](https://blog.gao.gov/2019/05/28/federal-government-contracting-for-fiscal-year-2018-infographic/), the DoD contracted
+
+##Real Impact
+
+Contracting actions performed by PMOs have large impacts. In a [2018 GAO report](https://blog.gao.gov/2019/05/28/federal-government-contracting-for-fiscal-year-2018-infographic/), the DoD contracted
 $358.3M for goods and services. The FY18 DoD budget was $668M. Our contracts across the DoD represent:
 
 **<center><span style="font-family:script; font-size:3em">54% of DoD Spending</span></center>**
