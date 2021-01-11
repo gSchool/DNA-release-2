@@ -143,38 +143,6 @@ DevSecOps is a blend of practices, cultural philosophies and tools. Breaking dow
 
 [DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus)
 
-## The Seven Principles and Wastes
-
-[DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g)
-
-Now that you know what the Three ways and the Seven Principles and Wastes are, we will address how DevOps can help address each of the following areas of waste:
-
-####1. Partially Done Work
-   * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user- this shift in mindset is part of the solution. It also ensures capabilities and team structures are in place enabling people to finish what they’ve started. Reducing dependencies between teams and boosting autonomy within teams is a powerful way to address this.
-
-####2. Extra Unnecessary Features
-   * **DevSecOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘little and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
-
-####3. Relearning and Refactoring
-   * **DevSecOps solution**: Making work visible is a core tenet of DevSecOps, and one of the most effective ways to reduce relearning waste. Conversations about work become more focused and effective, as do review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
-
-####4. Handoffs
-   * **DevSecOps solution**: Small, multiskilled, product-centric teams are central to DevSecOps ways of working. This eradicates the siloed structure that necessitates multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
-
-####5. Delays
-   * **DevSecOps solution**: Many organizations have a complex web of interdependencies between different teams and departments. People are reliant on actions or input from others to complete an item of work, so it’s hard to predict – or control – how long any given task will take to complete. Mapping where those dependencies lie, then taking steps to streamline and simplify processes deliver significant improvements here.
-
-####6. Task Switching
-   * **DevSecOps solution**: Delays and unplanned work are two of the worst culprits for generating this type of waste. Taking a more sophisticated approach to operations helps here, via developer self-service, automation, reusable templates, and InnerSource models. Check out [this blog](https://www.devopsgroup.com/blog/modern-operations-five-foundational-pillars/) on the topic.
-
-####7. Defects
-   * **DevSecOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, resulting in lengthy handoffs, delays, and unplanned work.
-
-### How This Applies to Procurement
-Strategically acquiring knowledge about how DevSecOps works, especially what it is and what it is not, enables us to develop different acquisitions strategies to better serve the user and mission. If you do not currently have any of these methods employed in your acquisition strategy, consider how you might partner with the vendor to begin adopting DevSecOps methodologies.
-
-## Challenges
-
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -253,6 +221,36 @@ In the 3rd Way, we reward people for failing by introducing faults into the syst
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+## The Seven Principles and Wastes
+
+[DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g)
+
+Now that you know what the Three ways and the Seven Principles and Wastes are, we will address how DevOps can help address each of the following areas of waste:
+
+####1. Partially Done Work
+   * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user- this shift in mindset is part of the solution. It also ensures capabilities and team structures are in place enabling people to finish what they’ve started. Reducing dependencies between teams and boosting autonomy within teams is a powerful way to address this.
+
+####2. Extra Unnecessary Features
+   * **DevSecOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘little and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
+
+####3. Relearning and Refactoring
+   * **DevSecOps solution**: Making work visible is a core tenet of DevSecOps, and one of the most effective ways to reduce relearning waste. Conversations about work become more focused and effective, as do review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
+
+####4. Handoffs
+   * **DevSecOps solution**: Small, multiskilled, product-centric teams are central to DevSecOps ways of working. This eradicates the siloed structure that necessitates multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
+
+####5. Delays
+   * **DevSecOps solution**: Many organizations have a complex web of interdependencies between different teams and departments. People are reliant on actions or input from others to complete an item of work, so it’s hard to predict – or control – how long any given task will take to complete. Mapping where those dependencies lie, then taking steps to streamline and simplify processes deliver significant improvements here.
+
+####6. Task Switching
+   * **DevSecOps solution**: Delays and unplanned work are two of the worst culprits for generating this type of waste. Taking a more sophisticated approach to operations helps here, via developer self-service, automation, reusable templates, and InnerSource models. Check out [this blog](https://www.devopsgroup.com/blog/modern-operations-five-foundational-pillars/) on the topic.
+
+####7. Defects
+   * **DevSecOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, resulting in lengthy handoffs, delays, and unplanned work.
+
+### How This Applies to Procurement
+Strategically acquiring knowledge about how DevSecOps works, especially what it is and what it is not, enables us to develop different acquisitions strategies to better serve the user and mission. If you do not currently have any of these methods employed in your acquisition strategy, consider how you might partner with the vendor to begin adopting DevSecOps methodologies.
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -260,7 +258,7 @@ In the 3rd Way, we reward people for failing by introducing faults into the syst
 
 * type: checkbox
 * id: 46a87473-581c-46ae-8d01-4b32a22ea0f5
-* title: [text, a short question title]
+* title: Seven Wastes
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
