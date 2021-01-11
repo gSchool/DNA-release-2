@@ -31,5 +31,9 @@ Standards:
         Path: /02-Phase-1/01-emergence.md
       -
         Type: Lesson
+        UID: 1bde4c70867d9e3a5435b40ca414d5ce
+        Path: /02-Phase-1/02a-dso-dod.md
+      -
+        Type: Lesson
         UID: c1a49c24c650b5c464dffca90b448ac6
         Path: /02-Phase-1/03-devops-principles.md
