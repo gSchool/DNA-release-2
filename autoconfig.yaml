@@ -41,3 +41,7 @@ Standards:
         Type: Lesson
         UID: c1a49c24c650b5c464dffca90b448ac6
         Path: /02-Phase-1/03-devops-principles.md
+      -
+        Type: Lesson
+        UID: cd0263f5e7d0bd08bd69b7e62df9e812
+        Path: /02-Phase-1/04a-greenfield-brownfield.md
