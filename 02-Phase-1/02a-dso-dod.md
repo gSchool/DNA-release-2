@@ -239,7 +239,7 @@ Look for one answer that does not fit
 ### !explanation-correct:
 Even if you understand the concepts, teaching others helps you to improve your understanding!
 ### !end-explanation
-### !explanation-incorrect:
+### !explanation: Is annoying for team members that already understand
 Even if you understand the concepts, teaching others helps you to improve your understanding!
 ### !end-explanation
 
