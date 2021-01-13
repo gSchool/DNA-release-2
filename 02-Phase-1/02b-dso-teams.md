@@ -12,7 +12,7 @@ By the end of this lesson you will be able to:
 
 ## Basic DevSecOps Competency Areas
 
-First, let’s create a common language to talk about different roles, teams and organizations executing their mission using DevSecOps. 
+First, let’s create a common language to talk about different roles, teams and organizations executing their mission using DevSecOps.
 
 ### !callout-danger
 
@@ -105,12 +105,12 @@ Does it seem like they all support DevSecOps implementation?
 You may ask yourself, "Where do I find all of this new talent?" There’s good news- each organization is already composed of a talented team. Furthermore, not all teams look the same. Your DevSecOps team can be composed of some combination of organic (military or civilian) and/or contractor support. There is no perfect combination, and we all have factors that influence our decisions (assigned organic personnel, availability of funding, etc.) There is one caveat- let’s refer back to Dr. Royce’s ‘waterfall’ paper :
 
 >To give the contractor free rein between requirement definition and operation is inviting trouble.
-> 
+>
 ><span style="font-size: .8em">Source: [Managing the Development of Large Software Systems - Dr. Winston W Royce](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf) </span>
 
 To be clear, the key is that your organic support, even if limited, must still communicate often with the contractor team.
 
-**The Bottom Line:** We all have talented team members. With a little motivation and investment, teams can adapt to new roles, and when motivated people are solving the right problems, they may just surprise you. 
+**The Bottom Line:** We all have talented team members. With a little motivation and investment, teams can adapt to new roles, and when motivated people are solving the right problems, they may just surprise you.
 
 ## DevSecOps Teams
 
@@ -126,7 +126,7 @@ In our old ways of working, teams work within a system where each developer is a
 Some mistakes that can be made when standing up a DevSecOps Team is to create features or projects.  This can create issues in the following ways:
 
 * **Feature teams:** Have no ownership of the outcomes
-* **Project teams:** Will disband after the project 
+* **Project teams:** Will disband after the project
 
 However, aligning teams to work around business or mission capability enables teams to have ownership and problem solving ability. Software development teams are all about the talent of the team, and their ability to execute the process with maximum efficiency. The goal for that team is to produce working software that meets user, warfighter and mission needs.
 
@@ -149,11 +149,11 @@ Below are a few strategies acquisitions teams may use when building their DevOps
 
 ###DIGITAL SERVICES DEVELOPERS - (ORGANIC)
 
-_When an organization has already built a team_ to support digital service development, they call in seasoned product managers, engineers, and UX/UI designers to develop those services. Personnel involvement is predicated on the scope and type of digital services rendered (architects, security pros, testers, deployment engineers are all possible roles as well). 
+_When an organization has already built a team_ to support digital service development, they call in seasoned product managers, engineers, and UX/UI designers to develop those services. Personnel involvement is predicated on the scope and type of digital services rendered (architects, security pros, testers, deployment engineers are all possible roles as well).
 
 ###DIGITAL SERVICES DEVELOPERS - (Professional Service Vendors)
 
-_When an organization requires outside assistance_, acquisitions teams work in conjunction with private and/or government sector organizations to understand how to evaluate third-party technical competencies, so organization members are paired with vendors who are competent with both building and delivering effective digital services. 
+_When an organization requires outside assistance_, acquisitions teams work in conjunction with private and/or government sector organizations to understand how to evaluate third-party technical competencies, so organization members are paired with vendors who are competent with both building and delivering effective digital services.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -162,7 +162,7 @@ _When an organization requires outside assistance_, acquisitions teams work in c
 
 * type: multiple-choice
 * id: a9b0b196-af95-40c7-aa63-e3200637ea7d
-* title: [text, a short question title]
+* title: Team priorities
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -275,7 +275,7 @@ Tell us two (2) important takeaways from this lesson and the prior lesson (An In
 
 ## BONUS SECTION: A DevSecOps Organization
 
-Now that you have been introduced to basic DevSecOps competency areas and teams, we have added an **optional** bonus section for those who can't get enough, and/or want to keep learning and stay ahead of the curve! 
+Now that you have been introduced to basic DevSecOps competency areas and teams, we have added an **optional** bonus section for those who can't get enough, and/or want to keep learning and stay ahead of the curve!
 
 ### Organizing for a DevSecOps Team
 Organizations want to implement Agile and DevOps, yet want to avoid changing how they work.
@@ -293,9 +293,9 @@ The video below discusses optimal ways of organizing a DevSecOps team:
 https://www.coursera.org/lecture/devops-culture-and-mindset/organizational-models-in-devops-matrix-full-stack-and-cross-functional-J9C55
 
 ><span style="font-family: script; font-size: 1.5em">Change is the law of life and those who look only to the past or present are certain to miss the future.</span>
-> 
+>
 ><span style="float:right;font-family: script; font-size: 1.2em">- John F. Kennedy</span>
-> 
+>
 > <span style="clear:both">&nbsp;</span>
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
