@@ -18,6 +18,11 @@ Standards:
         Type: Lesson
         UID: 8f42713f2ca49717c592aee799ee00b6
         Path: /01-welcome/01-intro.md
+      -
+        Type: Checkpoint
+        DefaultVisibility: hidden
+        UID: 6c241c2d12455acd145c87573e09395c
+        Path: /01-welcome/02-pre-assessment.checkpoint.hidden.md
   -
     Title: Phase 1
     Description: Phase 1
