@@ -274,9 +274,9 @@ Which of the following are examples of wastes according to DevOps principles?
 
 ##### !answer
 
-* You support multiple teams throughout the day you often have to context switch to meet the demands of all the teams
-* A software developer begin working on features that will provide greater functionality to the system but were not requested by users or stakeholders
-* Due to scheduling conflicts you are unable to align the workflow across multiple divisions and delays capability deliver
+* You support multiple teams throughout the day and often have to context switch to meet the demands of all the teams
+* A software developer begins working on features that will provide greater functionality to the system but were not requested by users or stakeholders
+* Due to scheduling conflicts you are unable to align the workflow across multiple divisions and delays capability delivery
 
 
 ##### !end-answer
@@ -608,7 +608,7 @@ What are characteristics and examples of vanity metrics?
 ##### !answer
 
 * Metrics that can only go up (or improve)
-* The metric (data) does not change or improve your behavior
+* A metric (data) that does not change or improve your behavior
 * Number of page views
 
 ##### !end-answer
