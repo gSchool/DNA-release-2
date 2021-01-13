@@ -580,6 +580,94 @@ What are common reasons that people take on too much work than they have capacit
 
 ### !challenge
 
+* type: multiple-choice
+* id: e2ab853c-a84a-4575-b102-85866d8bad65
+* title: Roles
+* points: 3
+* topics: DevOps Implement
+* partial_credit: true
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which role represents the organization, and are responsible for working with the Development team prioritizing development of features and functionality, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders?
+
+##### !end-question
+
+##### !options
+
+* Product Owner
+* Content Developer
+* Testers
+* User Experience Designers
+* Product Manager
+
+##### !end-options
+
+##### !answer
+
+* Product Owner
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 51f5523c-66b7-49a9-a6b2-512f513b2db0
+* title: Roles 2
+* points: 3
+* topics: DevOps Implement
+* partial_credit: true
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which role focuses on making intuitive design choices relating to visual design, interaction design, and user interface design?
+
+##### !end-question
+
+##### !options
+
+* Software Developers (Engineers) – Front-End
+* Content Designers
+* Testers
+* User Experience Designers
+
+
+##### !end-options
+
+##### !answer
+
+* User Experience Designers
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
 * type: checkbox
 * id: a36b7d4d-f812-48b9-89ef-3518f5ec772d
 * title: Vanity Metrics
@@ -622,6 +710,98 @@ What are characteristics and examples of vanity metrics?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 6339c701-6b6b-45a5-bab3-441d3366382a
+* title: Metrics 1
+* points: 3
+* topics: DevOps Implement
+* partial_credit: true
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which metric shows how often you can deploy a new release into production environment and testing / QA?
+
+##### !end-question
+
+##### !options
+
+* Deployment speed
+* Average lead-time
+* Deployment frequency
+* Mean-time to production
+* Production release rate
+
+
+##### !end-options
+
+##### !answer
+
+* Deployment frequency
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 649411b6-17d3-4b86-9e47-df66bbfeb4a2
+* title: Metrics 12
+* points: 3
+* topics: DevOps Implement
+* partial_credit: true
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which metric shows shows how long it would take applications in the production stage to recover from failure?
+
+##### !end-question
+
+##### !options
+
+* Mean-time to recovery (MTTR)
+* Production failure rate
+* Deployment speed
+* Mean-time to production
+* Average lead time
+
+
+
+##### !end-options
+
+##### !answer
+
+* Mean-time to recovery (MTTR)
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -707,6 +887,52 @@ Which of the following are ways that you could incorporate DevOps implementation
 * Contract to support a specific product that will be incorporated in DevSecOps pipeline or technical stack
 * Require defined Application Programming Interfaces (APIs) as a deliverable
 * Utilize a multiple contract approach (modular contracting strategy) to diversify dependency and leverage technical skill sets
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 4e5e35eb-6b8f-4ef5-9890-7ccfbd81eecb
+* title: Understanding technology
+* points: 3
+* topics: Contracting
+* partial_credit: true
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Why is it so critical that all roles have an understanding of technology?
+
+##### !end-question
+
+##### !options
+
+* Capability is not delivered to operational users by a single person or even a single team; to be effective and efficient a common understanding is critical
+* Contracting officers need to be able inform and tailor technical components of contract structure and contract incentives
+* Technical debt needs to be planned for and mitigated by multiple roles
+* Functional responsibility mitigate the need for everyone to have an understanding
+
+
+##### !end-options
+
+##### !answer
+
+* Capability is not delivered to operational users by a single person or even a single team; to be effective and efficient a common understanding is critical
+* Technical debt needs to be planned for and mitigated by multiple roles
 
 ##### !end-answer
 
