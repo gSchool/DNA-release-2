@@ -703,7 +703,7 @@ Which of the following are ways that you could incorporate DevOps implementation
 
 ##### !answer
 
-* Contractor to augment government technical team with additional DevOps roles
+* Contract to augment government technical team with additional DevOps roles
 * Contract to support a specific product that will be incorporated in DevSecOps pipeline or technical stack
 * Require defined Application Programming Interfaces (APIs) as a deliverable
 * Utilize a multiple contract approach (modular contracting strategy) to diversify dependency and leverage technical skill sets
