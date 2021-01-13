@@ -9,7 +9,7 @@
 Standards:
   -
     Title: Welcome
-    Description: Welcome
+    Description: Information about this course
     UID: 83218ac34c1834c26781fe4bde918ee4
     SuccessCriteria:
       - success criteria
@@ -23,9 +23,11 @@ Standards:
         DefaultVisibility: hidden
         UID: 6c241c2d12455acd145c87573e09395c
         Path: /01-welcome/02-pre-assessment.checkpoint.hidden.md
+        MaxCheckpointSubmissions: 1
+        TimeLimit: 60
   -
     Title: Phase 1
-    Description: Phase 1
+    Description: Self-paced material for the first week of the class
     UID: ee4650e51426c7487977eeea8e7e6850
     SuccessCriteria:
       - success criteria
