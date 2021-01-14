@@ -52,3 +52,7 @@ Standards:
         Type: Lesson
         UID: cd0263f5e7d0bd08bd69b7e62df9e812
         Path: /02-Phase-1/04a-greenfield-brownfield.md
+      -
+        Type: Lesson
+        UID: 99c90803ea09fd22a4272d7c9cbf1efb
+        Path: /02-Phase-1/04b-architecture.md
