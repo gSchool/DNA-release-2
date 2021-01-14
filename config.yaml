@@ -56,3 +56,12 @@ Standards:
         Type: Lesson
         UID: 99c90803ea09fd22a4272d7c9cbf1efb
         Path: /02-Phase-1/04b-architecture.md
+      -
+        Type: Lesson
+        UID: 8acdee20-e430-4389-91ff-61faed9b449f
+        Path: 02-Phase-1/05-understanding-tech-role.md
+      -
+        Type: Checkpoint
+        UID: 4693c85b-5b3a-4696-bcc5-c56b8a268260
+        Path: /02-Phase-1/99-checkpoint.md
+        MaxCheckpointSubmissions: 1
