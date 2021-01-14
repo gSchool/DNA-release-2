@@ -110,7 +110,7 @@ Applications built using Cloud services may benefit from microservices, though t
 <span style="float:right; font-size:.8em">_Source: Martinfowler.com - [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)_ </span>
 <span style="clear:both">&nbsp;</span>
 
-Microservices are tremendously helpful with [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling#:~:text=GetCustomerAddress%2C%20SendLetter).-,In%20programming,is%20interpreted%20as%20encapsulation%20vs.&text=Loose%20coupling%20occurs%20when%20the,one%20or%20many%20concrete%20classes.), and building systems designed to evolve over time while changing to include new technologies and features.
+Microservices are tremendously helpful with [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling), and building systems designed to evolve over time while changing to include new technologies and features.
 
 **How this applies to acquisitions**: If your team is procuring a system and adopting a microservices approach, two best practices are:
 * Have well-defined (hopefully standardized) and well-documented Application Programming Interfaces (APIs), **and**
