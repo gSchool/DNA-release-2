@@ -192,7 +192,7 @@ As an acquisitions professional, which the following are true when considering c
 
 ##### !answer
 
-* Vendor lock-in is unavoidabe
+* Vendor lock-in is unavoidable
 * Bandwidth is critical infrastructure to support overall system architecture and availability
 * Strategies and contracts (if applicable) should require integration and testing and production (operational) environments to be the same
 
