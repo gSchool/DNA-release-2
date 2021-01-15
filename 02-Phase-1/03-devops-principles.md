@@ -47,13 +47,15 @@ That being said, unfortunately:
 
 ## Definition
 Behavior
-1. 
-   1. the manner of conducting oneself
-   1. anything that an organism does involving action and response to stimulation
-   1. the response of an individual, group, or species to its environment
-1. The way in which someone behaves; also, an instance of such behavior
-1. The way in which something functions or operates
 
+<ol><li><ol type="A"> 
+   <li>the manner of conducting oneself</li>
+   <li>anything that an organism does involving action and response to stimulation</li>
+   <li>the response of an individual, group, or species to its environment</li>
+</ol></li>
+<li>The way in which someone behaves; also, an instance of such behavior</li>
+<li>The way in which something functions or operates</li>
+</ol>
 #### !end-callout
 
 ![Culture is the #1 metric](../__images/03_02_culture.png)
