@@ -65,3 +65,14 @@ Standards:
         UID: 4693c85b-5b3a-4696-bcc5-c56b8a268260
         Path: /02-Phase-1/99-checkpoint.md
         MaxCheckpointSubmissions: 1
+  -
+    Title: Phase 2
+    Description: Self-paced material for the second week of the class
+    UID: b1d06f240dcd471fbac1b563f3b92bf2
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: b92d9d3f2823464185d88288b399bd78
+        Path: /03-Phase-2/01-five-thieves.md
