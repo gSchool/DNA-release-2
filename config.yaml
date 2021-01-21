@@ -76,3 +76,7 @@ Standards:
         Type: Lesson
         UID: b92d9d3f2823464185d88288b399bd78
         Path: /03-Phase-2/01-five-thieves.md
+      -
+        Type: Lesson
+        UID: 7c225d39cd1c4078beb846a83277e185
+        Path: /03-Phase-2/02-making-work-visible.md
