@@ -84,3 +84,7 @@ Standards:
         Type: Lesson
         UID: 7803fe06e9ad46e3a8a419646c7aa570
         Path: /03-Phase-2/03-outcomes-over-outputs.md
+      -
+        Type: Lesson
+        UID: b2211eb0e1ef40899a6ec2be682f2713
+        Path: /03-Phase-2/04a-metrics-what-are-they.md
