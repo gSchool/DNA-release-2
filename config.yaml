@@ -89,6 +89,10 @@ Standards:
         UID: b2211eb0e1ef40899a6ec2be682f2713
         Path: /03-Phase-2/04a-metrics-what-are-they.md
       -
+        Type: Lesson
+        UID: eedc733058214510811175990e197980
+        Path: /03-Phase-2/05-devopsworkflow.md
+      -
         Type: Checkpoint
         UID: 8bb370625dd9476abfc31299d4b67030
         Path: /03-Phase-2/99-checkpoint.md
