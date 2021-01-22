@@ -90,6 +90,10 @@ Standards:
         Path: /03-Phase-2/04a-metrics-what-are-they.md
       -
         Type: Lesson
+        UID: 0feab2d0e831490294a2ee28c4290271
+        Path: /03-Phase-2/04b-sea-of-metrics.md
+      -
+        Type: Lesson
         UID: eedc733058214510811175990e197980
         Path: /03-Phase-2/05-devopsworkflow.md
       -
