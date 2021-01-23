@@ -98,12 +98,30 @@ A playbook can follow the following structure/guidelines:
 Deployment Cycle Time is an example from the Dojo Consortium. This is just one example- the rest of the playbooks are included in the bonus section. You may need to tweak the definitions slightly, but our recommendation is to try to stay as consistent with industry. Our assumption is that this will help to minimize misunderstanding when working with our industry partners:
 
 
-|Development Cycle Time<br>* CD Execution - Throughput|The average time from starting work until released to production.|
-|---|---|
-|What is the intended behavior?|Reduce the time it takes to deliver refined work to production to mitigate the effects of priorities changing and to improve value delivery.|
-|How is it improved?|* Decompose work so it can be delivered in smaller increments and by more team members.<br>* Identify and remove process waste, handoffs, and delays in the construction process.<br>* Improve testing efficiency for more rapid feedback loops.<br>* Automate and standardize the build and deploy pipeline.|
-|How is it gamed?|* Move things to “Done” status that are not in production.<br>* Move items directly from “Backlog” to “Done” after deploying to production.<br>* Split work into functional tasks that should be considered part of development (development task, testing task, etc.).|
-|Guardrail Metrics|The following metrics could degrade if not tracked with this metric<br>* Quality decreases as quality processes are skipped.<br>* Change Fail Rate increases.|
+<table>
+<tbody>
+<tr>
+<th>Development Cycle Time<br>* CD Execution - Throughput</th>
+<td>The average time from starting work until released to production.</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>Reduce the time it takes to deliver refined work to production to mitigate the effects of priorities changing and to improve value delivery.</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>Decompose work so it can be delivered in smaller increments and by more team members.</li><li> Identify and remove process waste, handoffs, and delays in the construction process.</li><li> Improve testing efficiency for more rapid feedback loops.</li><li> Automate and standardize the build and deploy pipeline.</li></ul></td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>Move things to “Done” status that are not in production.</li><li> Move items directly from “Backlog” to “Done” after deploying to production.</li><li> Split work into functional tasks that should be considered part of development (development task, testing task, etc.).</li></ul></td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td><ul><li>The following metrics could degrade if not tracked with this metric</li><li> Quality decreases as quality processes are skipped.</li><li> Change Fail Rate increases.</li></ul></td>
+</tr>
+</tbody>
+</table>
 
 ##Phases of Metrics
 We opened this section by listing several software metrics available to you. As previously stated, there is no one-size-fits-all solution, but we want to provide some possible options.
@@ -225,12 +243,14 @@ Finding ways to measure efficiency and tracking the cost of changes, including s
 * Speed of change is contextual to what is being delivered, but the goal should always be to find ways to obtain feedback more rapidly tomorrow than today.
 * If we are satisfied with our feedback loops, we are too slow.
 * Comparing efficiencies across programs leads to negative behavior, **disincentivizing collaboration** and _leading to antipatterns_.
+
 ###2.    Effectiveness
 Improving efficiency is important, but we need to effectively deliver value.
 * Delivering slowly is bad enough. It’s worse if we spend years building something, only to discover our customers don't want it.
 * We can identify value goals for each product, and adjust our systems to measure accordingly.
 * We can measure user, mission, and overall business satisfaction to detect report trends.
 * We need to improve, without degrading efficiency.
+
 ###3.    Health
 If we are efficient and effective but have heroes keeping our systems stable, we cannot sustain improvement.
 * We need to set goals around stability, both in our systems and in our teams.
@@ -253,11 +273,520 @@ If we are efficient and effective but have heroes keeping our systems stable, we
 
 ##Bonus Material: Additional Metric Playbooks
 
+<table>
+<tbody>
+<tr>
+<th>Commit Frequency<br>CI Execution</th>
+<td>The average number of times each developer on a team integrates tested, non-breaking code to trunk / master. Healthy CI practice is at least once per day per developer.</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td><ul><li>Increase the frequency of code integration:</li><li> Reduce the size of each change.</li><li> Improve code review processes.</li></ul></td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>Break down code changes into smaller units to incrementally deliver features.</li><li> Use BDD to aid functional breakdown.</li><li> Use TDD to design more modular code that can be integrated more frequently.</li><li> Make new code reachable only by the tests or flagged off for other environments with feature flags.</li></ul></td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td>Meaningless changes integrated into the trunk.</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>The following metrics could degrade if not tracked with this metric:<ul><li>Quality decreases when testing is skipped.</li><li>Development Cycle Time increases due to additional review overhead.</li></ul></td>
+</tr>
+<tr>
+<th>Recommended Practices</th>
+<td><ul><li>
+Trunk Based Development</li><li>
+Continuous Integration</li><li>
+Feature Flagging
+</li></ul></td>
+</tr>
+</tbody>
+</table>
 
-|Commit Frequency<br>CI Execution|The average number of times each developer on a team integrates tested, non-breaking code to trunk / master. Healthy CI practice is at least once per day per developer.|
-|---|---|
-|What is the intended behavior?|Increase the frequency of code integration:<br>* Reduce the size of each change.<br>* Improve code review processes.|
-|How is it improved?|* Break down code changes into smaller units to incrementally deliver features.<br>* Use BDD to aid functional breakdown.<br>* Use TDD to design more modular code that can be integrated more frequently.<br>* Make new code reachable only by the tests or flagged off for other environments with feature flags.|
-|How is it gamed?|Meaningless changes integrated into the trunk.|
-|Guardrail Metrics|The following metrics could degrade if not tracked with this metric:<br>* Quality decreases when testing is skipped.<br>*Development Cycle Time increases due to additional review overhead.|
-|Recommended Practices|* Trunk Based Development<br>* Continuous Integration<br>* Feature Flagging|
+<table>
+<tbody>
+<tr>
+<th>
+Build Cycle Time<br>
+CI Execution
+</th>
+<td>
+The average length of time between when a build breaks and when it is fixed.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Reduce pipeline duration to improve MTTR and improve test efficiency to give the team more rapid feedback to any issues.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Identify areas of the build that can run concurrently.</li><li>
+Replace end to end tests in the pipeline with virtual services and move end to end testing to an asynchronous process.</li><li>
+Break down large services into smaller sub-domains that are easier and faster to test</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td>
+Meaningless changes integrated into the trunk.
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+Reduce the number of tests running or test types executed.
+</td>
+</tr>
+<tr>
+<th>Recommended Practices</th>
+<td>
+The following metrics could degrade if not tracked with this metric<br>
+Quality decreases if testing steps are skipped.
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+Average Build Downtime<br>
+CI Execution
+</th>
+<td>
+The average length of time between when a build breaks and when it is fixed.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Keep the pipelines always deployable by fixing broken builds as rapidly as possible. Broken builds are the highest priority since they prevent production fixes from being deployed in a safe, standard way.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Refactor to improve testability and modularity.</li><li>
+Improve tests to locate problems more rapidly.</li><li>
+Decrease the size of the component to reduce complexity.</li><li>
+Add automated alerts for broken builds.</li><li>
+Ensure the proper team practice is in place to support each other in solving the problem as a team.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Re-build the previous version.</li><li>
+Remove tests that are failing.</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric
+<ul><li>Integration Frequency decreases as additional manual or automated process overhead is added before integration to trunk.</li><li>
+Throughput decreases as manual verification steps are added to ensure each pull request does not break the build.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>Deploy Frequency<br>
+CD Execution – Throughput
+</th>
+<td>
+How frequently per day the team releases changes to production.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Small changes deployed very frequently to exercise the ability to fix production rapidly, reduce MTTR, increase quality, and reduce risk.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Reduce Development Cycle Time</li><li>
+Remove handoffs to other teams.</li><li>
+Remove manual processes.</li><li>
+Improve testing and move quality ownership into the team.</li><li>
+Move hard dependencies to soft dependencies with feature flags and service virtualization</li><li>
+Focus on continuous integration with small changes integrated to the trunk continuously.</li><li>
+Use trunk-based development to reduce the risk of lost changes and process overhead.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td>
+<ul><li>
+Re-deploying the same artifact repeatedly.</li><li>
+Building new artifacts that contain no changes.</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>The following metrics could degrade if not tracked with this metric
+<ul><li>
+Change Fail Rate increases as focus shifts to speed instead of quality.</li><li>
+Quality decreases as steps are skipped.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>Change Fail Rate<br>
+CD Execution – Stability
+</th>
+<td>
+The percentage of changes that result in negative customer impact, or rollback.<br>
+changeFailRate = failedChangeCount / changeCount
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>Reduce the percentage of failed changes to less than 15%.</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Release more, smaller changes to make quality steps more effective and reduce the impact of failure.</li><li>
+Identify the root cause for each failure and improve the automated quality checks.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Deploy fixes without recording the defect.</li><li>
+Create defect review meetings and re-classify defects as feature requests.</li><li>
+Re-deploy the latest working version to increase deploy count.</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric<br>
+Deploy Frequency decreases as focus is placed on “zero defect” changes.
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+Mean Time to Repair<br>
+CD Execution – Stability
+</th>
+<td>
+Mean Time to Repair is the average time between when an incident is detected and when it is resolved.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Improve the ability to more rapidly resolve system instability and service outages.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Make sure the pipeline is always deployable.</li><li>
+Keep build cycle time short to allow roll-forward.</li><li>
+Implement feature flags for larger feature changes to allow them to be deactivated without re-deploying.</li><li>
+Identify stability issues and prioritize them in the backlog.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td>
+Updating support incidents to “closed” before service is restored.
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric<br>
+Quality decreases as issues re-occur due to lack of root cause fixes.
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+Code Coverage<br>
+Delivering Quality 
+</th>
+<td>Measure of how many lines, branches, and functions are executed when automated tests are run. Industry average is ~80%.</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Notify the team of risky or complicated portions of the code that are not sufficiently covered by tests.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Write tests for code that SHOULD be covered but isn’t.</li><li>
+Refactor the application to improve testability.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Tests are written for code that receives no value from testing.</li><li>
+Test code is written that does not check for failures.</li><li>
+Code is inappropriately excluded from test coverage reporting.</li></ul>
+<img alt="Gamed code snippet" src="__images/04b_01_code.jpg">
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>The following metrics could degrade if not tracked with this metric
+<ul><li>
+Development Cycle Time increases with additional development time dedicated to chasing the coverage metric.</li><li>
+Quality decreases as poor quality tests hide lack of real code coverage.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+Quality<br>
+Delivering Quality 
+</th>
+<td>
+Quality is measured as the percentage of finished work that is reported as defective or valueless by the end user and by stability and availability metrics.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>Identify and rapidly resolve any gaps in the process of identifying the value to be delivered and the quality steps in the construction process.</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Identify root causes.</li><li>
+Add automated checks to the pipeline to prevent re-occurrence.</li><li>
+Only begin new work with testable acceptance criteria.</li><li>
+Design feedback loops in every stage to rapidly alert you to quality, performance, or availability issues.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Defects are logged as new features (seen by growing throughput, but lowering customer satisfaction and increasing complaints)</li><li>
+Using test coverage to proxy quality</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric
+<ul><li>
+WIP metric increases for defect types.</li><li>
+Feature delivery is impacted as defects are over prioritized.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+Development Cycle Time<br>
+Workflow Management
+</th>
+<td>
+The average time from starting work until released to production.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>Reduce the time it takes to deliver refined work to production to mitigate the effects of priorities changing and to improve value delivery.</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Decompose work so it can be delivered in smaller increments and by more team members.</li><li>
+Identify and remove process waste, handoffs, and delays in the construction process.</li><li>
+Improve testing efficiency for more rapid feedback loops.</li><li>
+Automate and standardize the build and deploy pipeline.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Move things to “Done” status that are not in production./li><li>
+Move items directly from “Backlog” to “Done” after deploying to production./li><li>
+Split work into functional tasks that should be considered part of development (development task, testing task, etc.).</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric
+<ul><li>
+Quality decreases as quality processes are skipped.</li><li>
+Change fail rate increases.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+Productivity<br>
+Workflow Management
+</th>
+<td>
+Throughput per week. This is measured by how many items were finished as a trend over time. This includes all items, defects and story work.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Help teams find what level of throughput per week is consistently achievable and find ways to increase this over time by reducing waste, reducing toil, improving planning, and focusing on teamwork.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+Smaller stories are easier to understand and deliver.</li><li>
+Minimize hard dependencies. Each hard dependency reduces the odds of on-time delivery by 50%.</li><li>
+Swarm stories so that the team is working as a unit to deliver faster.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+More, smaller tasks.</li><li>
+Cherry picks easy, low priority items.</li><li>
+Skip quality steps.</li><li>
+Prematurely sign-off work only to have defects reported later.</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric
+<ul><li>
+Quality defect ratio goes up as more defects are reported.</li><li>
+WIP increases as teams start more work to look more busy.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>Lead Time<br>
+Workflow Management
+</th>
+<td>
+This shows the average time it takes for a new request to be delivered. This is measured from the creation date to release date for each unit of work and includes Development Cycle Time.  
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Identify over utilized teams, backlogs that need more Product Owner attention, or in conjunction with productivity to help teams optimize their processes.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td>
+Relentlessly remove old items from the backlog. Improve team processes to reduce Development Cycle Time. Use Innersourcing to allow other teams to help when surges of work arrive. Re-assign, carefully, some components to another team to scale delivery.
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Requests can be tracked in spreadsheets or other locations and then added to the backlog just before development. This can be identified by decreased customer satisfaction.</li><li>
+Reduce feature refining rigour.</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td>
+The following metrics could degrade if not tracked with this metric
+<ul><li>
+Quality is reduced as less time is spent refining and defining how to validate the feature.</li><li>
+Productivity is reduced if tightly coupled components are shifted to another team or excessive communication is required for delivery</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>WIP<br>
+Workflow Management
+</th>
+<td>
+Work in Process (WIP) is the total work that has been started but not completed. This includes <strong>all</strong> work, defects, tasks, stories, etc.
+</td>
+</tr>
+<tr>
+<th>What is the intended behavior?</th>
+<td>
+Teams should limit WIP and work together to complete WIP items in preference to starting new work. Use WIP limits to identify and exploit constraints in the Development Cycle Time.
+</td>
+</tr>
+<tr>
+<th>How is it improved?</th>
+<td><ul><li>
+The team should focus on finishing items closest to being ready for production.</li><li>
+Set and do not exceed WIP limits for the team and for each step.</li><li>
+WIP limit guidance: 2N-1 where N is the number of team members capable of doing the work.</li><li>
+Keep the Kanban board visible at all times.</li></ul>
+</td>
+</tr>
+<tr>
+<th>How is it gamed?</th>
+<td><ul><li>
+Teams can update incomplete work to “done” before all quality steps have been completed.</li><li>
+Reduce the pace of starting new work without focusing on helping to complete WIP.</li></ul>
+</td>
+</tr>
+<tr>
+<th>Guardrail Metrics</th>
+<td></td>
+</tr>
+<tr>
+<th>Recommended Practices</th>
+<td>
+The following metrics could degrade if not tracked with this metric
+<ul><li>
+Quality metric decreases as additional defects are reported.</li><li>
+Productivity metric decreases.</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
