@@ -107,7 +107,7 @@ When people prioritize ineffectively, everything takes longer, leading to too mu
 
 Again, this highlights the need to show your work in a data driven manner, i.e. using Kanban - not only for yourself, but to communicate with others. 
 
-## <span style="font-size:2em">4.</span> Fifth Thief: Neglected Work
+## <span style="font-size:2em">5.</span> Fifth Thief: Neglected Work
 
 Legacy system maintenance is one of the most neglected types of work. Typically, the longer a system is used, the more complex it becomes due to updates, bug fixes, and multiple individuals working the code, increasing the complexity of the system. Thus, when something goes wrong it is difficult to easily identify the source of the problem, often removing multiple people (or teams) from other important work.
 
