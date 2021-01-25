@@ -4,44 +4,45 @@
 
 By the end of this lesson you will be able to:
 
-* Understand how commercial DevOps can be applied within DoD
+* Understand how commercial DevOps can be applied within the DoD
 * Understand the added constraints and validation required by some DoD systems
-* Understand the nature of the bureaucratic cycle times and how they may impact development and delivery
-* Understand the progress that has been made shortening the cycle times at different parts of the acquisition chain
+* Understand the nature of bureaucratic cycle times, and how they may impact development and delivery
+* Understand the progress made by shortening cycle times at different parts of the acquisition chain
+* Understand that more needs to be done, and that it's possible
 
 ## What is Dev*Ops?
-Now that you have an understanding of architecture, design patterns, technology stacks, and development pipelines, etc. used by the commercial software industry, it's time to dive in and examine what’s different (or additional) for me in DoD?
+Now that you have an understanding of the architecture, design patterns, technology stacks, development pipelines, etc. used by the commercial software industry, it's time to dive in and examine the question, “What’s different for me as an acquisitions professional, and the DoD?”
 
-The commercial software industry has by and large fully integrated software development (Dev) with software operations (Ops) through close coupling with real users; rapid feedback, implementation, and release cycles; and small empowered teams.  The additional inclusion of security (Sec) in all aspects of design, development, and fielding has moved the industry solidly to Dev+Sec+Ops, or DevSecOps.
+The commercial software industry has a wealth of roles and tools, from fully integrated software development and operations (Dev and Ops respectively), to rapid feedback, implementation and release cycles run by empowered teams. With the inclusion of security (Sec) in all aspects of design, development, and fielding, the industry has moved squarely to Dev+Sec+Ops, or DevSecOps.
 
-Given that understanding, what is this Dev*Ops (Dev “Star” Ops) thing? 
+So, what is this Dev*Ops (Dev “Star” Ops) thing? 
 
 ![Death Star](__images/05_01_death_star.png)  
 <span style="font-size:.8em"> Source:  [File:Death star1.png - Wikipedia](https://en.wikipedia.org/wiki/File:Death_star1.png) </span>
 
-No, not Death Star Ops, but Dev\*Ops.  In computer programming the asterisk (\*) is used to designate a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character), or simply put, substitute any number of things here.  For example, industry has added Sec, or Security, in the middle to demonstrate its importance in developing and fielding high quality software.
+No, not Death Star Ops, but Dev\*Ops.  In computer programming the asterisk (\*) is used to designate a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character), or simply put, a substitute for any characters.  For example, industry has added Sec, or Security, in the middle to demonstrate its importance in developing and fielding high quality software. But there’s more that is part of DevOps - the asterisk implies the myriad aspects of the field.
 
 In DoD, as in some highly regulated software industries like banking and healthcare, there are a number of other considerations that need to be addressed when discussing software development and fielding.  This leads us to Dev*Ops.  Consider the following image from Dr. Michael Tanner (Major, USAF):   
 ![Dev-Star-Ops](__images/05_02_devops_considerations.png)  
 <span style="font-size:.8em"> Source: [DevStar | Office of the Chief Software Officer, U.S Air Force (af.mil)](https://software.af.mil/dsop/dsop-devstar/) </span>
 
-In the DoD, much of our software is employed in potentially dangerous situations.  This leads us to necessarily include Safety as a primary consideration.  We are not alone here.  Many commercial industries also have safety critical requirements that must be satisfied when fielding software derived capability.  Most notable is the commercial aviation industry and [DO-178B/C](https://en.wikipedia.org/wiki/DO-178B).  
+Much of the DoD's software is employed in potentially dangerous situations.  This leads us to include Safety as a primary consideration, and we are not alone in this thinking.  Many commercial industries have critical safety requirements to satisfy when fielding software-derived capability, most notably the commercial aviation industry and [DO-178B/C](https://en.wikipedia.org/wiki/DO-178B).  
 
-The DoD has additional requirements that include Air Worthiness, hence DevSecSafetyAWOps…  When does it end?  We are not completely sure of the answer to that, but in the DoD context, at a minimum we have statutory requirements to also include
+The DoD has additional requirements that include Air Worthiness, hence DevSecSafetyAWOps…where does it end?  We aren't completely sure, but in the DoD context, at a minimum we have statutory requirements, including:
 
 * Developmental Testing (DT)
 * Operational Testing (OT)
-* For any systems that yield deadly force with weapons, we must also include something akin to the AF Seek Eagle certification.
+* For any systems that yields deadly force with weapons, we must also include something akin to the AF Seek Eagle certification.
 
-Lastly (for now), some systems are so critical that they _require_ separate evaluation and certification for Nuclear Certification like those outlined in [AFI 63-125](https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-125/afi63-125.pdf).
+Some systems are so critical that they _require_ separate evaluation and certification for Nuclear Certification like those outlined in [AFI 63-125](https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-125/afi63-125.pdf). And there's more, but we still stop there for now.
 
-Given all this, is it even possible for a DoD software program to adopt modern Dev*Ops practices, move fast, iterate, and get to Continuous Integration and Continuous Development (CI/CD)? 
+Is it even possible for a DoD software program to adopt modern Dev*Ops practices, move fast, iterate, and get to Continuous Integration and Continuous Development (CI/CD)? 
 
 <p style="font-family:script; font-size:2em; text-align: center;">The answer to this must be Yes!</p>
 
-While much progress has been made, there is, and likely always will be, more work to do.  For example, DoD has made great strides in recent years by working with the security accreditation community and the Defense Security Accreditation Working Group (DSAWG) to completely transform how security accreditation for software is approached.  The ability to have a “continuous Authority to Operate” or cATO was only a distant dream just a few years ago, now it exists and is becoming more commonplace.
+While much progress has been made, there is, and likely always will be, more to do.  For example, the DoD has made great strides in recent years by working with the security accreditation community and the Defense Security Accreditation Working Group (DSAWG) to completely transform how security accreditation for software is approached.  The ability to have a “continuous Authority to Operate” or cATO was only a distant dream just a few years ago.  Now it exists and is becoming more commonplace.
 
-<p style="font-family:script; font-size:2em; text-align: center;">Certainly this is significant progress.</p>
+<p style="font-family:script; font-size:2em; text-align: center;">This is significant progress.</p>
 
 #### !callout-info
 
@@ -51,20 +52,36 @@ While much progress has been made, there is, and likely always will be, more wor
 
 #### !end-callout
 
-Progress is also being made in the areas of developmental and operational testing.  In Section 231 of the 2020 National Defense Authorization Act (NDAA) Congress charged DoD to develop a plan for maximal test automation and the integration of DT and OT into the DevOps cycle.  The Director of Operational Test and Evaluation (DOT&E) in partnership with the DT team in Research and Engineering (R&E) is moving out on this action.  Integrating testing more fully into the DevOps or DevSecOps cycle is often referred to as “shift left testing”.  This recognizes the need to include testing as early (left of a typical schedule) and often as possible.  You’re balanced DevOps teams should certainly include support from testing professionals.  Another technique that can help speed your cycle time, in addition to including testers on your balanced development teams, is to encourage developmental testers and operational testers to share test results and digital artifacts.  _The key to this is to fully appreciate the different roles that DT and OT professionals must play._  In commercial parlance, this is the difference between [Verification and Validation (V&V)](https://en.wikipedia.org/wiki/Verification_and_validation), and typically should be performed by agencies that are “independent” from the developers.
+Progress is also being made in developmental and operational testing.  In Section 231 of the 2020 National Defense Authorization Act (NDAA) Congress charged the DoD with developing a plan for maximal test automation and the integration of DT and OT into the DevOps cycle.  The Director of Operational Test and Evaluation (DOT&E) in partnership with the DT team in Research and Engineering (R&E) is moving out on this action.  Integrating testing more fully into the DevOps or DevSecOps cycle is often referred to as “shift left testing”.  This recognizes the need to include testing as early (left of a typical schedule) and often as possible.
 
-## V&V, DT, OT, etc.
+Balanced DevOps teams should include support from testing professionals.  A technique that speeds up cycle time, in addition to including testers on your balanced development teams, is encouraging developmental and operational testers to share test results and digital artifacts.  _The key is to fully appreciate the different roles that DT and OT professionals must play._  In short, this is the difference between [Verification and Validation (V&V)](https://en.wikipedia.org/wiki/Verification_and_validation), and typically should be performed by agencies that are “independent” from the developers.
 
-The Goal of developmental testing is to Verify the system.  Verification means does the system, as built, meet the design specifications, regulatory requirements, non-functional requirements, etc. that have been agreed upon.  This activity is often referred to as “did I build the system right?”  Contrast this to Operational testing’s goal.  OT’s goal is to Validate the system.  In a commercial sense, this means “did I build the right system?”, meaning, does it help the user do what was intended.  In DoD verbiage, this translates to [“is the system operationally effective, suitable, and survivable”](https://acqnotes.com/acqnote/careerfields/operational-test-and-evaluation-ote).  Understanding these differences is one key to encouraging DT and OT to share test results, design information, digital artifacts, etc.  Then, depending on your system, don’t forget to pull in any certification and accreditation that needs to be done for things like air worthiness, potential weapons effectiveness and safety, and even nuclear certification.  Start all this as early as possible and include these stakeholders early and often in your program.  If you don’t, they’ll be waiting at the end, and they will be much more inclined to say “NO” rather than “YES”.
+## Verification & Validation (V&V), Development Testing (DT), Operational Testing (OT), Etc.
+
+The Goal of Developmental Testing is to verify the system.
+
+**Verification** in this context means:
+* Does the system, as built, meet the design specifications, regulatory requirements, non-functional requirements, etc. that have been agreed upon
+* Often referred to as “did I build the system right?”
+  
+Contrast this to the goal of **Operational testing**.  OT’s goal is to **Validate** the system.  In a commercial sense, validation means:
+* “Did I build the right system?” Meaning, does it help the user accomplish what was intended.
+* In DoD verbiage, this translates to [“is the system operationally effective, suitable, and survivable”](https://acqnotes.com/acqnote/careerfields/operational-test-and-evaluation-ote).
+  
+Understanding these differences is one key to encouraging DT and OT to share test results, design information, digital artifacts, etc.  From there, you might secure certification and accreditation for airworthiness, potential weapons effectiveness and safety, even nuclear certification!  Start this as early as possible and include these stakeholders early and often in your program.  If you don’t, they’ll be waiting at the end, and they will be much more inclined to say “NO” rather than “YES”.
 
 ## The Rest of the Story
 
-Now that you’ve mastered all that it takes to build and certify your system for use, we have to go back to the beginning and discuss the [DoD’s Planning, Programming, Budgeting, and Execution cycle, or PPBE](https://acqnotes.com/acqnote/acquisitions/ppbe-overview) for short.  The traditional way of building a DoD capability or weapon system is to identify the warfighter’s need or capability gap, then propose a “Program of Record” into the PPBE cycle, work like crazy justifying it to everyone, including Congress, with the hopes of getting funding and started 2 or even three years later.  
+Now that you’ve mastered certifying your system for use, we must discuss the [DoD’s Planning, Programming, Budgeting, and Execution cycle, or PPBE](https://acqnotes.com/acqnote/acquisitions/ppbe-overview) for short.  The traditional way of building a DoD capability or weapon system is:
+* Identify the warfighter’s need or capability gap
+* Propose a “Program of Record” into the PPBE cycle
+* Work like crazy justifying it to everyone, including Congress, with the hopes of getting funding and started two to three years later.  
+
 ![Planning Cycle](__images/05_03_planning_phases.png)
 
-Depending on what you’re building, this might be inevitable, but there are options.  You could consider one of the alternative acquisition pathways:  
+Depending on what you’re building, this might be inevitable, but there are options.  Consider one of the alternative acquisition pathways:  
 * The [Adaptive Acquisition Framework (AAF)](https://aaf.dau.edu/) like [Middle Tier](https://aaf.dau.edu/aaf/mta/)
-* The [software acquisition pathway](https://aaf.dau.edu/aaf/software/).
+* The [Software Acquisition Pathway](https://aaf.dau.edu/aaf/software/).
 
 These pathways can help you go from concept to implementation in much less time and they will be covered much more fully in future lessons.  
 ![Path Selection](__images/05_04_path_selection.png)
@@ -73,9 +90,9 @@ So, what’s the whole cycle look like?  Something like this:
 
 * Warfighter / Capability Gap → Requirements Community → PPBE → Acquisitions PMO → Strategy Approvals →  Contracting Actions → Contractor (hopefully some form of DevSecOps) → DT → OT → Certification → Warfighter
 
-The important point for this lesson about all these processes is the mis-match between their cycle and feedback times.  You need to be cognizant of these mis-matches in order to creatively achieve speed and get meaningful capability to your end users as quickly, securely and efficiently as possible.  Every link in that chain probably has a defendable reason to be there, and oftentimes it is supported by statute.  Looking at all those links, consider the typical cycle times and feedback loops.  Well run modern software development can provide cycle times and feedback loops in minutes, days, or worst case weeks.  Contracting and an approved acquisition strategy can take months or sometimes a year or more.  Requirements can drag out years if not done in an Agile way, and the PPBE cycle can take multiple years.
+This lesson is about all these processes, but it's also about the mis-match between their cycle and feedback times.  Acquisitions professionals must need to be cognizant of these mis-matches in order to creatively achieve speed and get meaningful capability to your end users as quickly, securely and efficiently as possible.  Every aspect is defensible, and oftentimes it is supported by statute- looking at the aspects, consider typical cycle times and feedback loops.  Well-run modern software development can provide cycle times and feedback loops in minutes, days, or worst case weeks.  Contracting and an approved acquisition strategy can take months or sometimes a year or more.  Requirements can drag out years if not done in an Agile way, and the PPBE cycle can take multiple years.
 
-## So, what’s a PM to do?
+## So, What’s a PM To Do?
 This is just the beginning of our DoD journey to more rapidly deliver capability at the speed of relevance, but we’ve already uncovered many ways to go faster.  Here’s a few suggestions to consider:
 1. Get creative with your choice of acquisition pathway and contracting approaches
 1. Start small and iterate
@@ -86,7 +103,7 @@ This is just the beginning of our DoD journey to more rapidly deliver capability
 1. Identify the minimal set of metrics you need to measure progress, quality, and delivery, and automate them if possible
 1. Ensure a healthy culture that performs blame-free root cause analysis and correction when things inevitably don’t go to plan
 1. Infuse and support a continuous learning culture in your workforce
-1. Embrace change, don’t sacrifice good enough delivered today, for perfect that never comes
+1. Embrace change. Don’t sacrifice good enough delivered today, for perfect that never comes
 
 These are just a few things that can help.  Based on your learning so far, and also on future lessons, many more should come to mind for you.
 
@@ -103,7 +120,7 @@ These are just a few things that can help.  Based on your learning so far, and a
 
 ##### !question
 
-What other ways can you think of to go faster, decrease cycle times, and gain more relevant feedback faster?
+What other ways can you think of to iterate faster, decrease cycle times, and gain more relevant feedback faster?
 
 ##### !end-question
 
@@ -130,13 +147,13 @@ Take some time to ponder that, and perhaps read up on the implications on line..
 
 <p style="font-family:script; font-size:2em; text-align: center;">We <strong>must</strong> do better</p>
 
-There is a corollary to Conway’s Law, called by many, the [“Inverse Conway Maneuver”](http://betica.com/blog/2016/06/17/transform-your-organization-with-the-inverse-conway-maneuver/).  The essence of this is, don’t accept the bureaucracy and system you’ve been given, and don’t expect it to produce radically different outcomes than it has for decades.  
+There is a corollary to Conway’s Law, called, the [“Inverse Conway Maneuver”](http://betica.com/blog/2016/06/17/transform-your-organization-with-the-inverse-conway-maneuver/).  The Inverse Conway Maneuver states don’t accept the bureaucracy and system you’ve been given, and don’t expect it to produce radically different outcomes than it has for decades.  
 * If you have the control and authority to change things, change your organization in ways that best support and mirror the system you’re building.  
 * If you want to obtain the elegance of minimal complexity to deliver the capability, aggressively cut complexity out of your bureaucracy.  
 * If you want to increase quality and decrease scrap and rework, integrate and automate testing with development.  
 * Create small balanced teams with streamlined internal communication dedicated to specific aspects of your design or system.  
 * Organize those teams in a way that minimizes one depending on another to the greatest extent possible to allow fast independent capability delivery.  
 
-Many of the recommendations from the previous section are extensions of this idea.  Just to restate the obvious again, if you want different results, don’t keep doing things the way you’ve always done them.  As someone once said, **“thinking is not optional here”**.  
+If you want different results, don’t keep doing things the way you’ve always done them.  As someone once said, **“thinking is not optional here”**.  
 
 Get creative, start small, iterate, try things out, learn from failure, and most importantly, [“Keep Calm and Carry On”](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On).
