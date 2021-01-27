@@ -25,6 +25,8 @@ This course's structure (content spread over two weeks with expected completion 
 
 ##### !answer
 
+* Strongly agree
+
 
 ##### !end-answer
 
@@ -64,6 +66,7 @@ Should this course to be in smaller modules? (e.g. a 1-week span rather than a 2
 
 ##### !answer
 
+* Yes
 
 
 ##### !end-answer
@@ -103,6 +106,7 @@ The virtual sessions are valuable and should remain for future cohorts
 ##### !end-options
 
 ##### !answer
+* Strongly agree
 
 ##### !end-answer
 
@@ -140,6 +144,7 @@ Is a Thursday start date for class helpful? (as compared to a Monday start date)
 
 ##### !answer
 
+* Yes
 
 
 ##### !end-answer
@@ -210,6 +215,7 @@ Overall, this content was valuable and related to my current role
 
 ##### !answer
 
+* Strongly agree
 
 
 ##### !end-answer
@@ -258,6 +264,7 @@ How likely are you to recommend this training?
 
 ##### !answer
 
+* 10 (very likely)
 
 
 ##### !end-answer
