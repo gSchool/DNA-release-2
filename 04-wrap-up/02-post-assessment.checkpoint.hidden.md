@@ -11,7 +11,7 @@ This assessment will check your incoming understanding of the concepts of this c
 ### !challenge
 
 * type: checkbox
-* id: 47a51447-1d36-4cec-ae7f-a9c4671be60f
+* id: c50e9820-6482-42cb-9353-86b8d84f304f
 * title: DevOps Characteristics
 * points: 3
 * topics: DevOps Foundations
@@ -57,7 +57,7 @@ Which of the following are characteristics of DevOps?
 ### !challenge
 
 * type: checkbox
-* id: b1853e09-39a2-4f1b-bfa9-c9372c578add
+* id: 1a35c4ed-e606-4f15-ab57-5f43fb2fd121
 * title: DevOps in action
 * points: 3
 * topics: DevOps Foundations
@@ -108,7 +108,7 @@ Which of the following are examples of DevOps in action?
 ### !challenge
 
 * type: checkbox
-* id: aea3f7a0-4f01-450c-be0f-fafc24889748
+* id: 57b767d5-6fb0-4f92-a5a4-8a8fe7253693
 * title: DevOps and Agile
 * points: 3
 * topics: DevOps Foundations
@@ -155,7 +155,7 @@ How do DevOps and Agile relate to one another?
 ### !challenge
 
 * type: checkbox
-* id: f1d69093-8f75-4f9d-9bde-df55d3e8dea4
+* id: 0abe3a0b-0e17-4d0e-b177-32897431da0e
 * title: Partial DevOps implementation
 * points: 3
 * topics: DevOps Foundations
@@ -201,7 +201,7 @@ Which situations demonstrate a **partial** implementation of DevOps?
 ### !challenge
 
 * type: checkbox
-* id: c6fb86d9-2038-49d7-b4a2-a9445caba21d
+* id: 05e3429d-94c1-4b8f-b468-758c9d1a4a6e
 * title: DevSecOps and acquisition professionals
 * points: 3
 * topics: DevOps Foundations
@@ -248,7 +248,7 @@ Which areas of DevSecOps do acquisition professionals support?
 ### !challenge
 
 * type: checkbox
-* id: e1faaf83-e9a4-462e-b71f-88766fb27c26
+* id: 0c605ab2-3aa1-4df5-86de-f948688c3c0f
 * title: DevOps wastes
 * points: 3
 * topics: DevOps Foundations
@@ -296,7 +296,7 @@ Which of the following are examples of wastes according to DevOps principles?
 ### !challenge
 
 * type: checkbox
-* id: 26d5a0ca-7f59-4c0e-8542-2799125f7394
+* id: 44d39dfe-573b-462e-bbca-7188a9ae8df9
 * title: Brownfield projects
 * points: 3
 * topics: Technology
@@ -343,7 +343,7 @@ Which of the following are characteristics of Brownfield software systems in the
 ### !challenge
 
 * type: checkbox
-* id: 4f881f0f-9fa0-4a55-b740-46c6fbad191a
+* id: 6c0362e8-ccc2-45b5-bc6a-8ed088c5278b
 * title: Greenfield, Brownfield, and acquisitions
 * points: 3
 * topics: Technology
@@ -388,7 +388,7 @@ What are the differences in the ways Greenfield and Brownfield projects should b
 ### !challenge
 
 * type: checkbox
-* id: 25ea74f2-6cae-4bdc-84c6-09273f3a920f
+* id: cbcaf238-3b6e-410b-8bd9-00506ed2205e
 * title: Microservices
 * points: 3
 * topics: Technology
@@ -437,7 +437,7 @@ Why would the DoD want to use a Microservice architecture?
 ### !challenge
 
 * type: checkbox
-* id: 0d9a7335-4f3a-4a9b-a4c4-bbff8fdd1309
+* id: 8606e644-b9aa-43ca-8fc3-62a4ec8ee994
 * title: Microservices and acquisitions
 * points: 3
 * topics: Contracting
@@ -485,7 +485,7 @@ As an acquisition professional considering a Microservices-based approach, what 
 ### !challenge
 
 * type: checkbox
-* id: ca9e8f8f-3dc9-4252-950d-92880c168e7a
+* id: 288d23dc-ae60-44a8-84ba-9489d3360076
 * title: Managing Technical Debt
 * points: 3
 * topics: Technology
@@ -531,8 +531,7 @@ How can teams manage Technical Debt?
 ### !challenge
 
 * type: checkbox
-* id: 26f76309-419d-4be7-9cae-0c5092e76c00
-* title: [text, a short question title]
+* id: ab7f868d-9e58-487a-b2bd-3d4378f2013e
 * title: Managing Technical Debt
 * points: 3
 * topics: DevOps Implement
@@ -581,7 +580,7 @@ What are common reasons that people take on too much work than they have capacit
 ### !challenge
 
 * type: multiple-choice
-* id: e2ab853c-a84a-4575-b102-85866d8bad65
+* id: eaf9908c-e98a-45a6-94d4-f6cf9afea020
 * title: Roles
 * points: 3
 * topics: DevOps Implement
@@ -625,7 +624,7 @@ Which role represents the organization, and are responsible for working with the
 ### !challenge
 
 * type: multiple-choice
-* id: 51f5523c-66b7-49a9-a6b2-512f513b2db0
+* id: a719d8db-8fc1-4e32-8136-539441efdf80
 * title: Roles 2
 * points: 3
 * topics: DevOps Implement
@@ -669,7 +668,7 @@ Which role focuses on making intuitive design choices relating to visual design,
 ### !challenge
 
 * type: checkbox
-* id: a36b7d4d-f812-48b9-89ef-3518f5ec772d
+* id: 30b61b37-8883-47a0-a2ea-faf77af698de
 * title: Vanity Metrics
 * points: 3
 * topics: DevOps Implement
@@ -716,7 +715,7 @@ What are characteristics and examples of vanity metrics?
 ### !challenge
 
 * type: checkbox
-* id: 6339c701-6b6b-45a5-bab3-441d3366382a
+* id: 21fc2acc-c9c9-4769-919b-192184892bdd
 * title: Metrics 1
 * points: 3
 * topics: DevOps Implement
@@ -762,7 +761,7 @@ Which metric shows how often you can deploy a new release into production enviro
 ### !challenge
 
 * type: checkbox
-* id: 649411b6-17d3-4b86-9e47-df66bbfeb4a2
+* id: e8b3d0d0-b3c0-4887-b89d-953c561dcc14
 * title: Metrics 12
 * points: 3
 * topics: DevOps Implement
@@ -808,7 +807,7 @@ Which metric shows shows how long it would take applications in the production s
 ### !challenge
 
 * type: checkbox
-* id: cbec9c43-dd3b-48bc-a6c9-8312856860d0
+* id: 74d9a9d6-54e1-4572-b226-b5856e0ba7d1
 * title: Roles and Strategy
 * points: 3
 * topics: Contracting
@@ -856,7 +855,7 @@ What positions (directly and indirectly) have impact on a Program Management Off
 ### !challenge
 
 * type: checkbox
-* id: 738e6d76-8231-47e0-83c3-037768e77434
+* id: 6d504ea9-c3e9-48ab-83af-a40e681d68ba
 * title: Contracting Vehicles
 * points: 3
 * topics: Contracting
@@ -905,7 +904,7 @@ Which of the following are ways that you could incorporate DevOps implementation
 ### !challenge
 
 * type: checkbox
-* id: 4e5e35eb-6b8f-4ef5-9890-7ccfbd81eecb
+* id: e3245faf-8c81-44d4-ac2d-a9c9eb81604c
 * title: Understanding technology
 * points: 3
 * topics: Contracting
@@ -950,7 +949,7 @@ Why is it so critical that all roles have an understanding of technology?
 ### !challenge
 
 * type: checkbox
-* id: bf21aac3-a9e4-4e2b-b782-7b756bc235da
+* id: dc31e662-e9e7-4e5c-a58f-daf6985b6525
 * title: Collaboration in action
 * points: 3
 * topics: Contracting
