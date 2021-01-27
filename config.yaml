@@ -116,6 +116,6 @@ Standards:
         Type: Checkpoint
         DefaultVisibility: hidden
         UID: 2683372d-17d0-4bfb-877b-3bf6bad0355f
-        Path: /04-wrap-up/02-post-assessment.checkpoint.md
+        Path: /04-wrap-up/02-post-assessment.checkpoint.hidden.md
         MaxCheckpointSubmissions: 1
         TimeLimit: 60
