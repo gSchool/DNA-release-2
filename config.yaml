@@ -119,3 +119,14 @@ Standards:
         Path: /04-wrap-up/02-post-assessment.checkpoint.hidden.md
         MaxCheckpointSubmissions: 1
         TimeLimit: 60
+  -
+    Title: Survey
+    Description: In person session survey
+    UID: 8edfe401-15ae-497a-bdc2-6ad6cc07b8b9
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Survey
+        UID: e40ae10e-8d13-43a9-a681-911e8628c1d4
+        Path: /05-survey/01-survey.survey.md
