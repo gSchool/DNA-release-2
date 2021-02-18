@@ -261,7 +261,7 @@ The Program Management Office (PMO) _**is PART OF**_ the value stream.
 ##Real Impact
 
 Contracting actions performed by PMOs have large impacts. In a [2018 GAO report](https://blog.gao.gov/2019/05/28/federal-government-contracting-for-fiscal-year-2018-infographic/), the DoD contracted
-$358.3M for goods and services. The FY18 DoD budget was $668M. Our contracts across the DoD represent:
+$358.3B for goods and services. The FY18 DoD budget was $668B. Our contracts across the DoD represent:
 
 **<center><span style="font-family:script; font-size:3em">54% of DoD Spending</span></center>**
 
