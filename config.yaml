@@ -8,6 +8,7 @@
 ---
 Standards:
   -
+    DefaultUnitVisibility: hidden
     Title: Welcome
     Description: Information about this course
     UID: 83218ac34c1834c26781fe4bde918ee4
@@ -20,7 +21,6 @@ Standards:
         Path: /01-welcome/01-intro.md
       -
         Type: Checkpoint
-        DefaultVisibility: hidden
         UID: 6c241c2d12455acd145c87573e09395c
         Path: /01-welcome/02-pre-assessment.checkpoint.hidden.md
         MaxCheckpointSubmissions: 1
