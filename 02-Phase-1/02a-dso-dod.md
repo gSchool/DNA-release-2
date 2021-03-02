@@ -25,7 +25,7 @@ Knowing these are proven best practices in many other industries, why is it so d
 
 To answer this question, we need to take a step back and look at the big picture. How is capability delivered within the DoD? Who is involved?
 
-##Delivery Capability Process
+## Delivery Capability Process
 <span style="font-size:.8em">_NOTE: For the purposes of the following example, when thinking about how this applies to you and your team, please think of the roles described as the entire team instead:_</span>
 * <span style="font-size:.8em">**Program Manager = Program Management Office (PMO)**</span>
 * <span style="font-size:.8em">**Developer = Government Contractor**</span>
@@ -42,13 +42,13 @@ In this scenario, the PMO is contracting, hence the developer is outsourced to a
 ### !callout-info
 
 ## Incentives
-Incentives can be established with **any** contract type. Release 3 further explores the ways contract incentives can be incorporated, not only with incentive contracts (as defined in FAR 16.4), but also with modular contracting, short periods of performance on base, optional Contract Line Item Numbers (CLINs), and Quality Assurance Surveillance Plans (QASPs). 
+Incentives can be established with **any** contract type. Release 3 further explores the ways contract incentives can be incorporated, not only with incentive contracts (as defined in FAR 16.4), but also with modular contracting, short periods of performance on base, optional Contract Line Item Numbers (CLINs), and Quality Assurance Surveillance Plans (QASPs).
 
 ### !end-callout
 
 But, this isn’t a complete picture.
 
-A PMO is a role within an organization, and reports to a Program Executive Officer (PEO). All major decisions regarding acquisition strategy and contracts (new or existing) must be approved by the PEO or designated approval authority, and is often referred to as a Milestone Decision Authority (MDA); even if your MDA is delegated, a PEO is still responsible for the portfolio of programs that make up the entirety of the PEO. Therefore, they still have influence on your programs and overall strategies. 
+A PMO is a role within an organization, and reports to a Program Executive Officer (PEO). All major decisions regarding acquisition strategy and contracts (new or existing) must be approved by the PEO or designated approval authority, and is often referred to as a Milestone Decision Authority (MDA); even if your MDA is delegated, a PEO is still responsible for the portfolio of programs that make up the entirety of the PEO. Therefore, they still have influence on your programs and overall strategies.
 
 ![Marionette level 2](../__images/02a_02_level2.jpg)
 
@@ -68,7 +68,7 @@ While this example has gotten complex, something is missing - something we have 
 
 ![Marionette level 4, Where is the operational user?](../__images/02a_05_level4_question.jpg)
 
-Sadly, in many cases the operational user is not included in this picture. 
+Sadly, in many cases the operational user is not included in this picture.
 
 ### !callout-warning
 
@@ -85,14 +85,65 @@ The last point using the marionette example:
 
 Feedback loops can be lengthy, numerous...and manual.
 
-When Dr. Boleng gave this briefing, there was a pause here-- this graphic is a comically complicated (and incomplete) picture, and many stakeholders are not even represented. That being said, do not get overwhelmed or disheartened.
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: bb884c54-b94f-479a-8cd5-6b5df8dea773
+* title: Program Feedback Loops
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Within a Program Office, select all of the following that can influence and impact your program:
+
+##### !end-question
+
+##### !options
+
+* Program Executive Officer (PEO)
+* OSD(A&S)
+* Acquisition policy and statute
+* Service Acquisition Executive
+* Congress
+* National Defense Authorization Act
+
+##### !end-options
+
+##### !answer
+
+* Program Executive Officer (PEO)
+* OSD(A&S)
+* Acquisition policy and statute
+* Service Acquisition Executive
+* Congress
+* National Defense Authorization Act
+
+##### !end-answer
+
+#### !explanation
+Even if you are a smaller program and reviews are delegated all of the following still can impact or influence your program indirectly.  
+#### !end-explanation
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+When Dr. Boleng gave this briefing, there was a pause here-- this graphic is a comically complicated (and incomplete) picture, and many stakeholders are not even represented. And while this graphic depicts a single stack of inputs, reality is **even more complicated** and resembles a tree more than a towerThat being said, do not get overwhelmed or disheartened.
 
 Use the feedback loop timelines to your advantage! As you continue moving up the chain of command, the frequency of information flow and/or briefings decreases. While PMOs work with contractors on a daily or monthly basis, we receive an NDAA or Appropriations Bill annually, which is informed by portfolios and programs within the DoD. Make good use of this time difference by collecting metrics and data to inform decision briefings.
 
 We highlight this for two reasons:
 
 1. **A shared understanding.** Before introducing new concepts or roles, it is important that we all are moving forward with a shared understanding of how decisions impacting programs and delivery capability are made.
-1. **Starting with the familiar process.** Since this course is geared towards acquisition professionals, we addressed only one portion of the decision workflow, using the roles you are most familiar with. 
+1. **Starting with the familiar process.** Since this course is geared towards acquisition professionals, we addressed only one portion of the decision workflow, using the roles you are most familiar with.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -146,7 +197,7 @@ Later sections will discuss metrics aiming to improve communication with leaders
 
 ##Defining Software Acquisition Professionals and Software Practitioners
 
-The DoD delivers software via a complex system. The visual below helps demonstrate how organizations within the Defense Acquisition System (DAS) deliver capability: 
+The DoD delivers software via a complex system. The visual below helps demonstrate how organizations within the Defense Acquisition System (DAS) deliver capability:
 
 ![Defense Ecosystem Overview](../__images/02a_07_defense.png)
 
@@ -175,7 +226,7 @@ A few key points:
 * Software Practitioners exist in multiple communities simultaneously. Regardless of whether they work within Science and Technology (S&T) or Acquisitions, Software Practitioners must be familiar with current practices, processes, and tools supporting software capability delivery- that is, they not only advise but also provide hands-on support (coding or technical decisions).
 * Acquisitions roles are still needed when adopting DevSecOps methodologies, and should be an integrated part of the team
 
-We emphasize software to clearly articulate the differences in software-intensive systems, but it is still about the _**team**_ effort--Software Practitioners and Software Acquisition Professionals work together to deliver valuable capability at the speed of relevance within the DoD. 
+We emphasize software to clearly articulate the differences in software-intensive systems, but it is still about the _**team**_ effort--Software Practitioners and Software Acquisition Professionals work together to deliver valuable capability at the speed of relevance within the DoD.
 
 _Interaction occurs constantly due to the speed of software development and deployment._ Examples of collaboration include (but are not limited to):
 * Supporting new requirements in development and contracting processes as required
@@ -221,6 +272,7 @@ Why is a shared understanding and common lexicon so critical?
 * Prevents lost time from team members speaking past each other
 * Is annoying for team members that already understand
 * Although may take some time in the beginning, will allow for better teamwork and create shared purpose
+* Communication isn't essential for DevOps
 
 ##### !end-options
 
@@ -260,13 +312,13 @@ Even if you understand the concepts, teaching others helps you to improve your u
 
 * type: paragraph
 * id: 4bdb1051-6717-4b1b-aee9-4957eb2885bf
-* title: Changes
+* title: Role Impact of DevOps
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Define how DevSecOps (and Agile) change your current role.
+Define how DevSecOps (and Agile) change your current role (please also identify your current role).
 
 
 ##### !end-question
@@ -289,4 +341,3 @@ Please identify your current role
 1. <a name="quoteref"></a> https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF
 1. VIDEO: Referenced in the lesson a 50 minute video by Jez Humble Principles of Lean Product Management <https://www.youtube.com/watch?v=cH6bnQzJojo>
 1. PRESENTATION:  Dr. Jeff Boleng, Senior Advisor Software Acquisitions https://www.dhs.gov/sites/default/files/publications/2019_sw_it-cast_proceedings_0.pdf
-

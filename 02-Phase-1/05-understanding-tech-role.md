@@ -23,6 +23,45 @@ In Fiscal Year 2018, the DoD budget was $668B. Based on a GAO report, $358.3B of
 This section may be tech heavy for some. If not, you may just have the makings of becoming a software practitioner! Either way, the information included in this module explains how certain concepts influence your role as a software acquisition professional, and their impact. These lessons will also still be available to you after the course concludes, to serve as a continued guide and information resource.
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 4d79ae5c-b6f2-43a0-8f29-501ab247ef9a
+* title: Technology understanding
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you personally believe that understanding the technology landscape can help you create the overall strategies to execute your job?
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+
+##### !end-options
+
+##### !answer
+
+* Yes
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Technology Choices Realize Design and Architecture
 In the last module, you learned:
 * The paramount importance design and architecture play in successful system implementation
@@ -62,6 +101,49 @@ For those less comfortable with technology decisions, that’s the benefit of a 
 
 Attempting perfection in every choice defers delivery indefinitely. Instead, have a thorough understanding of the choices you make, and be ready to reevaluate them. Then prepare to potentially exchange underlying technology in your design when more effective or modern alternatives emerge, or if you need capability that you don’t currently have available. These recommendations lead us next to our discussion - technical debt.  
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 79ba0753-4f06-460a-95ad-d349afa64c09
+* title: Making tech choices
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+There are ways you can work to enable quick decisions on tough technical choices. A few of them are listed below, select the ones that **do not** seem to fit:
+##### !end-question
+
+##### !options
+
+* Capture these needs in a backlog
+* Let the requirements community define them for you
+* Prioritize them
+* Study the tech problem for an extended period of time before proceeding
+* Assign a few quick analysis of alternatives (AoAs) to your technical staff, and make selections based on your analysis
+
+
+##### !end-options
+
+##### !answer
+
+* Let the requirements community define them for you
+* Study the tech problem for an extended period of time before proceeding
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Technical Debt
 What exactly is technical debt? Ward Cunningham, one of the original 17 authors of the Agile Manifesto, coined the term. Simply put, technical debt is like credit card interest. Technical debt, like credit card debt, accrues over time. While your project is in development stages, it might seem worthwhile to choose “easy”, over “better, but time consuming”. But just like credit card debt, the more you accumulate, the harder it is to “pay off”, or implement any changes.  
 
@@ -73,7 +155,7 @@ For a more concrete examples, let’s look at tech debt in two ways:
 
 * **Technical debt in code elegance:** Writing a string of code is like writing a sentence: that’s why we call them coding “languages”. Much like writing a clear and concise paragraph, writing clean, elegant code can sometimes be difficult. Because of that initial difficulty, teams often choose an easier, but often more lengthy and “hard-coded” method of execution. As scenarios change, failures occur because the code was written for specificity, not flexibility. A rule to remember: the more code there is, the more expensive it is to maintain, and the greater the risk for failure.
 
-* **Technical debt in aging products or hardware:** Technology is constantly evolving. A new computer today is soon superseded by next year’s more efficient model, featuring larger data storage, greater processing power, improved graphics, etc. Time also creates vulnerabilities often exploited by hackers. The longer your system is available, the greater the likelihood of hackers attempting breach its security. Just like your personal technology, advantages exist with upgrading an outdated system that is increasingly unreliable or prone to hacking.
+* **Technical debt in aging products or hardware:** Technology is constantly evolving. A new computer today is soon superseded by next year’s more efficient model, featuring larger data storage, greater processing power, improved graphics, etc. Time also creates vulnerabilities often exploited by hackers. The longer your system is available, the greater the likelihood of hackers attempting to breach its security. Just like your personal technology, advantages exist with upgrading an outdated system that is increasingly unreliable or prone to hacking.
 
 This leads us to two critical aspects of technical debt that you need to be mindful of:
 
@@ -89,6 +171,48 @@ Budgeting and planning for paying off technical debt is essential. Dedicating a 
 
 For an in-depth look at technical debt, a good place to start is here [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html#:~:text=Technical%20Debt%20is%20a%20metaphor,interest%20paid%20on%20the%20debt.) or here [Technical Debt: The Ultimate Guide – BMC Blogs](https://www.bmc.com/blogs/technical-debt-explained-the-complete-guide-to-understanding-and-dealing-with-technical-debt/).  
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 8b93baa8-8b38-4e44-bb52-8c6183cb2eef
+* title: Responsibility
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If you contract out the development of an item you are not responsible for understanding the tech debt that is accrued on the program.
+
+##### !end-question
+
+##### !options
+
+* True
+* False
+
+##### !end-options
+
+##### !answer
+
+* False
+
+##### !end-answer
+
+### !explanation
+ Technical Debt plays into every aspect of delivering mission capability.  If the flow of work is not gathering an abundance of technical debt you may not be getting what you paid for and it may also be an indicator for a larger problem.
+### !end-explanation
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 ### !callout-success
 ## How this can apply to acquisitions
 As shown above, technical debt should be baked into all acquisition and contracting strategies (tech refresh is common in every Work Breakdown Structure). Use the information above to continue to defend this funding.
@@ -137,7 +261,49 @@ However, when developing software for an integrated hardware and software embedd
 If you are relying on a vendor to support capability development ensure your contracts have the text in bold as a requirement, this is referred to as platform drift and can wreak havoc on the ability to frequently deliver capability to operations.
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
+### !challenge
+
+* type: checkbox
+* id: 8259a342-3584-4c9e-ba57-847fe83a5825
+* title: Understanding the Tech Stack
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+When using Platform as a Service, you are responsible for:
+
+##### !end-question
+
+##### !options
+
+* Application
+* Networking
+* Storage
+* Data
+* Virtualization
+
+
+##### !end-options
+
+##### !answer
+
+* Application
+* Data
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 Before moving onto the development pipeline, let’s discuss an example of the possible choices for technology solutions at each layer in the above generic computing stack. From bottom up:  
 * **Networking** is first. Choices you have here are base connectivity using things like MILSTD-1553, Ethernet, or Fiber Channel; copper wiring vs. fiber optics vs. wireless, etc.
 * **Protocols** like IP/TCP/UDP/Multicast are next, and still technically within networking. Decisions at this layer may relate to system requirements like how much bandwidth you need, what your latency requirements are, and assessing your timing requirements, i.e. whether a system is a safety critical real time system.
@@ -277,21 +443,33 @@ There is a delicate balance between stability and staying current. One you will 
 
 ### !challenge
 
-* type: paragraph
-* id: e9c03f02-444c-49d1-89c7-88ead1fc751e
-* title: Impactful information
+* type: checkbox
+* id: 05dd6e05-c4c4-4399-9de3-298fe3174389
+* title: Impactful knowledge
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-From this lesson, what information will be most impactful in your current role and why?
+
+From this lesson, what information will be most impactful in your current role
 
 ##### !end-question
 
-##### !placeholder
-Your answer here.
+##### !options
 
-##### !end-placeholder
+* Acquisitions + Technology
+* Technology Choices Realize Design and Architecture
+* Technical Debt
+* Technology Stacks and Development Pipeline Defined
+
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -300,7 +478,7 @@ Your answer here.
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->  
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## Further Research Opportunity: Modular and Loosely Coupled Architectures
 While the topic of modular and loosely coupled architectures is a rich topic all on its own, here are just a few final places you can go for more:

@@ -52,7 +52,7 @@ I understand there are a total of 4 releases to Digital DNA and I am in the 2nd 
 
 Now to a few changes you may notice as you are working through:
 
-* GRADING: In order to continue with the next Release of Digital DNA, you must receive **80% or greater on the post-assessment**
+* GRADING: In order to continue with the next Release of Digital DNA, you must receive **80% or greater on the post-assessment.**
 
 * RESOURCE SECTION: We are only able to scratch the surface with these topics - we ruthlessly prioritized the information shared in the lessons to be mindful of your time but we do not want to prevent anyone from continuing to learn. The resource section found within most lessons will include articles, books, videos, and presentations that you are able to dive into if you want to get lost in learning.   
 

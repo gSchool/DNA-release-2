@@ -1,4 +1,4 @@
-# The Emergence and Origin Story of DevOps and Applicability 
+# The Emergence and Origin Story of DevOps and Applicability
 
 ## Learning Objectives
 
@@ -55,11 +55,13 @@ DevOps is a complex methodology that requires some nuance to fully understand. D
 
 Here is a graphic version of how those concepts work together:
 
-![Mindset Circles](../__images/01_02_learning_org.png)
+![Mindset Circles](../__images/Agile-onion.png)
+
+<span style="font-size:.8em">Source: Hanlon, Annmarie, and Gabrielle Wright. “An Introduction to the Agile Mindset.” Smart Insights, 17 Oct. 2019, www.smartinsights.com/digital-marketing-strategy/an-introduction-to-the-agile-mindset/.</span>
 
 Referring back to Agile methodologies, you can see there are similarities:
 
-![Mindset to Practices](../__images/01_03_mindset_practices.png)
+![Mindset to Practices](../__images/Agile-marketing.png)
 
 The final addition to this graphic is ‘Tools’, not shown. This is where Agile tools, or tools specifically created and engineered to support Agile, are used to support implementation of Agile practices (i.e. Jira).
 
@@ -123,7 +125,8 @@ Select all roles that are included in the umbrella term ‘ops’:
 
 * type: ordering
 * id: acb2f930-ea89-45b6-864c-96685b1ac648
-* title: Digital Transformations
+* title: Digital Transformation Drivers
+
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -165,6 +168,15 @@ DevOps (and Agile) tools are useful, but if you don’t know how or why you are 
 Culture is undoubtedly important- but think of culture as a shadow. it is observable, but not controllable. Culture is neither a barrier to change, nor does it encourage change- but it can provide hints to what an organization must learn.
 
 <span style="font-size:.8em">Source: Pflaeging, Niels. Organize for Complexity: How to Get Life Back into Work to Build the High-Performance Organization. BetaCodex Publishing, 2014.</span>
+
+### !callout-success
+## Note:
+Culture can be defined as “shared beliefs and behaviors,” or as Seth Godin often puts it, “People like us do stuff like this.” Groups can deliberately adopt explicit beliefs and behaviors to build a specific type or culture.  
+
+**Culture eats strategy for breakfast**  
+
+Although culture cannot be addressed directly, through implementation of the DevOps Mindset, Values, and Principles (beliefs) as well as the practices and tools (behaviors) you can create the environment that allows for continued innovation and valuable capability delivery at the speed of relevance.
+### !end-callout
 
 ### !callout-warning
 
@@ -220,7 +232,8 @@ Don’t forget about the Cloud, environments, and the technology we discussed in
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-DevOps should not be interpreted as everyone must be involved during all parts of the workflow. What are some ways that acquisitions teams can integrate and work with others in DevOps roles?
+DevOps should not be interpreted as everyone must be involved during all parts of the workflow. What are some ways that acquisitions teams can integrate and work with others in DevOps roles?  
+
 
 ##### !end-question
 
@@ -236,13 +249,60 @@ Think about articulating decisions and information flow that should involve acqu
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !explanation
-* Feedback on current team requirements (additional services and products)
+To help with thinking through some strategies (this is not an exhaustive list) but can be utilized as a starting point:
+* Incorporating feedback on current team requirements (additional services and products)
 * A frequent check-in to discuss syncing of backlogs across all roles (weekly or biweekly)
 * Scheduled feedback on existing contract status (funding and performance)
+* Understanding the different roles and responsibilities across the entire team
+* Acquisition team having a better understanding of technical approach and strategy -- beyond buzz words
+* Establishing shared values and principles
+
 
 ### !end-explanation
 
 ### !end-challenge
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 16640f6a-df95-45bd-948b-f38cf536210b
+* title: Acquisitions Integration into DevOps Part 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+After comparing your answer to some of the strategies provided in the student explanation how aligned was your answer?
+
+##### !end-question
+
+##### !options
+
+* Very Similar - included almost all of the strategies recommend
+* Moderately Similar - missed one or two strategies recommended
+* Not Similar - the recommendations were different but both achieve the similar goals
+* Not similar - the recommendations were not aligned
+
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 <!-- ======================= END CHALLENGE ======================= -->
 
@@ -271,32 +331,40 @@ Contracts are influenced by acquisition strategies, and directly impact and driv
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
 ### !challenge
 
-* type: paragraph
-* id: 1d032f67-c3e9-4ad0-a35f-176aa62239e7
+* type: checkbox
+* id: 0527fbfd-54ba-4ef7-ba1d-81028eed1ee9
 * title: DevOps Strategies
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What helpful strategies have you implemented that align to the goals of DevOps?
+Which helpful strategies that you could implement align to the goals of DevOps?
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-
-
-##### !end-placeholder
-### !explanation
 * The recognition that software is delivered by more than a single team or function and required collaboration and common practices and understanding must extend to multiple teams
 * Leveraging technological advancements using software to support automation and easily integrate into multiple environments
 * Speed of feedback allows the team to focus on most valuable and impactful features or bugs
 * Code deployment becomes a nonevent
 
-### !end-explanation
+##### !end-options
+
+##### !answer
+
+* The recognition that software is delivered by more than a single team or function and required collaboration and common practices and understanding must extend to multiple teams
+* Leveraging technological advancements using software to support automation and easily integrate into multiple environments
+* Speed of feedback allows the team to focus on most valuable and impactful features or bugs
+* Code deployment becomes a nonevent
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -307,9 +375,10 @@ What helpful strategies have you implemented that align to the goals of DevOps?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+
 ##Final Thoughts
 
-Moving forward, we will use DevSecOps to refer to the values, principles, methods, practices and tools discussed in this lesson. The DoD DevSecOps Reference Design promotes DevSecOps as the preferred implementation and way to reference this way of working. 
+Moving forward, we will use DevSecOps to refer to the values, principles, methods, practices and tools discussed in this lesson. The DoD DevSecOps Reference Design promotes DevSecOps as the preferred implementation and way to reference this way of working.
 
 ##Resources
 * ARTICLE: Basis of lesson:  https://theagileadmin.com/what-is-devops/
@@ -318,4 +387,3 @@ Moving forward, we will use DevSecOps to refer to the values, principles, method
 * VIDEO: Do you prefer videos? Here is a short video that explains the concepts of DevOps: https://www.youtube.com/watch?v=_I94-tJlovg
   * Ignore specific references to products, the overall video re-emphasizes the concepts above
 * WEBSITE: https://software.af.mil/
-

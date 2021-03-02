@@ -37,7 +37,7 @@ The point here isn’t to confuse you. Many of you might be asking yourselves, �
 
 Again, the right approach is dependent on your scenario -- there is no magic pill, one-size-fits-all, specified play or playbook, etc.
 
-For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read at least the **Netflix** example: 
+For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read at least the **Netflix** example:
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -60,7 +60,7 @@ In the article, Netflix transitioned to a microservice architecture. Select all 
 
 * The shift from monolithic to microservice architecture took multiple years
 * Netflix started with the non-customer facing applications
-* Microservices increased efficiency in workload and created cost reduction 
+* Microservices increased efficiency in workload and created cost reduction
 * The initiative was instigated by an event (loss of ability to send DVDs) that showed the single points of failure with a monolithic architecture
 
 ##### !end-options
@@ -116,8 +116,54 @@ Microservices are tremendously helpful with [loose coupling](https://en.wikipedi
 * Have well-defined (hopefully standardized) and well-documented Application Programming Interfaces (APIs), **and**
 * Document utilized open-source and vendor-specific services.
 
-This architectural style covers many different patterns, and is not right for every situation. If you want to dive deeper into microservices, please visit the ‘Additional Resources’ section at the end of this module. 
+This architectural style covers many different patterns, and is not right for every situation. If you want to dive deeper into microservices, please visit the ‘Additional Resources’ section at the end of this module.
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: a37c9129-27bd-44c2-98aa-f7129eb3de33
+* title: Acquisition and Microservices
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which of the following would be ways to ensure microservices architecture is supported in your acquisition activities, by including the following requirements in your contract documentation?
+
+##### !end-question
+
+##### !options
+
+* Application Programming Interfaces (APIs) are well-defined
+* Preference over standard (commercially accepted) APIs over unique APIs
+* Document vendor specific tools utilized
+* Supports risk reduction by distributing dependencies
+
+
+##### !end-options
+
+##### !answer
+
+* Application Programming Interfaces (APIs) are well-defined
+* Preference over standard (commercially accepted) APIs over unique APIs
+* Document vendor specific tools utilized
+
+##### !end-answer
+
+### !explanation
+Although microservices architecture supports risk reduction by distributing dependencies it is a statement as written, not a specific requirement in the contract.  
+### !end-explanation
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 ## Monoliths and the Strangler Pattern
 
 Let’s look at a way we can achieve a microservices architecture when we live in a monolithic world.
@@ -199,7 +245,7 @@ Teams should try to limit the overlap of two systems- but two systems ensure ope
 
 Some of you might have heard of Modular Open Systems Architecture (MOSA) before, and groaned just now. It should be noted that MOSA implements many of the best practices you’ve read about in this and other modules - we will not rehash the debate, nor is it our goal to create frustration. Instead, we want to encourage everyone to rediscover how MOSA can be beneficial to your team, now that you see its alignment with industry best practices. We hope you see MOSA in a new light.
 
-MOSA, or Modular Open System Architecture, is an integrated business and technical strategy for the DoD, guiding the creation of affordable and adaptable systems. 
+MOSA, or Modular Open System Architecture, is an integrated business and technical strategy for the DoD, guiding the creation of affordable and adaptable systems.
 
 >“Per law, [10 USC 2446](https://www.law.cornell.edu/uscode/text/10/subtitle-A/part-IV/chapter-144B/subchapter-I), A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
 >
@@ -207,7 +253,7 @@ MOSA, or Modular Open System Architecture, is an integrated business and technic
 
 MOSA is about modularity, i.e. designing so that components can be incrementally added, removed, or replaced. Specific to software architecture, this is called evolutionary architecture. This philosophy is focused on loose coupling, and designing with change in mind. The intent here is to completely avoid anything like in the past, where major technology refreshes and upgrades took years of planning and was just as slow to execute.
 
-As an acquisition team employing these methods, consider how MOSA can improve and enhance your overall acquisition strategies. 
+As an acquisition team employing these methods, consider how MOSA can improve and enhance your overall acquisition strategies.
 
 **Benefits of MOSA** (Source: DASD/SE)
 1. **Enhance Competition** – Open architecture with severable modules, allowing elements to be openly competed.
@@ -217,6 +263,50 @@ As an acquisition team employing these methods, consider how MOSA can improve an
 1. **Improve Interoperability** – Severable software and hardware modules that can be changed independently.
 
 Learn more about MOSA here: [Build a Modular Open Systems Approach (MOSA) | AiDA](https://aida.mitre.org/blog/2019/03/26/build-a-modular-open-systems-approach-mosa/)
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: aa460c00-2802-4323-b486-d90ad3666b7e
+* title: Using MOSA
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Benefits of executing the MOSA strategy as a Program Manager are:
+
+##### !end-question
+
+##### !options
+
+* Increases the opportunity for competition
+* Mitigates and supports technology refresh
+* MOSA aligns with the concepts behind microservices architecture
+* Can mitigate costs
+
+##### !end-options
+
+##### !answer
+
+* Increases the opportunity for competition
+* Mitigates and supports technology refresh
+* MOSA aligns with the concepts behind microservices architecture
+* Can mitigate costs
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## Additional Resources and Recommended Reading
 * [Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
@@ -235,6 +325,3 @@ Additional Resources
 * **ARTICLE**: [Microservices Guide](https://martinfowler.com/microservices/)  
 * **VIDEO**: 2019 DevOps Enterprise Summit [Monoliths vs Microservices is Missing the Point - Start with Team Cognitive Load - DOES EUR 2019](https://teamtopologies.com/videos-slides/2019/07/10/monoliths-vs-microservices-is-missing-the-point-start-with-team-cognitive-load-does-eur-2019)
 * **VIDEO**: [Microservices vs. Monoliths](https://www.coursera.org/learn/uva-darden-continous-delivery-devops/lecture/tTnKW/microservices-vs-monoliths)
-
-
-

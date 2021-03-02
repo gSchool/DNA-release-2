@@ -15,7 +15,7 @@ This lesson provides concepts on two different types of software acquisition str
 
 Everyone in the acquisitions community needs to understand and if applicable, contribute to technology decisions.  Given the breadth of options and the pace by which technology evolves, this can seem daunting. Our goal is to provide approaches by looking for key characteristics and patterns.
 
-The first way is to define a system as either greenfield or brownfield. 
+The first way is to define a system as either greenfield or brownfield.
 
 ### 1. Greenfield
 
@@ -23,7 +23,7 @@ The terms greenfield and brownfield also apply to the construction industry, so 
 
 Greenfield means that land in question has never been developed.
 
-What can be built on an empty plot of land? The opportunities are endless- a cabin, a tiny house, a McMansion, an office complex, a factory...you decide! 
+What can be built on an empty plot of land? The opportunities are endless- a cabin, a tiny house, a McMansion, an office complex, a factory...you decide!
 
 ![A Green Field](../__images/04a_01_greenfield.png)
 
@@ -37,7 +37,7 @@ There are appealing aspects to building using greenfield, in construction and in
 
 Recall the example we referenced in Release 1. Netflix is an example of a greenfield software project- that is, Netflix as a new idea transformed the movie rental market and was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared toward new markets for maximum profit opportunity. Other such examples we discussed in Release 1 include Uber and AirBnB.
 
-Companies also use greenfield applications and systems as a way to explore new ways to solve problems that are unencumbered by existing software or dependencies. Which leads us to greenfield’s alternative: brownfield. 
+Companies also use greenfield applications and systems as a way to explore new ways to solve problems that are unencumbered by existing software or dependencies. Which leads us to greenfield’s alternative: brownfield.
 
 ### 2. Brownfield
 
@@ -63,34 +63,34 @@ You may be thinking, “Why would we want to take on a brownfield project? Green
 
 ### !challenge
 
-* type: multiple-choice
-* id: 01f178cf-6cfc-4dd3-8f3e-07122e03a32b
-* title: Which Field?
+* type: checkbox
+* id: c5a0bd9f-1df6-424c-82e7-5e2e9d9ce9e8
+* title: Which field?
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Greenfield software is the preferred way to implement DevSecOps.
+Select the following statements that are true regarding DevSecOps.
 
 ##### !end-question
 
 ##### !options
 
-* True
-* False
+* Your program will greatly influence your approach: greenfield and brownfield
+* Greenfield approach can better address deep-rooted issues
+* Greenfield and brownfield can both support DevSecOps implementation
+* Brownfield approach can better address deep-rooted issues
 
 ##### !end-options
 
 ##### !answer
 
-* False
+* Your program will greatly influence your approach: greenfield and brownfield
+* Greenfield approach can better address deep-rooted issues
+* Greenfield and brownfield can both support DevSecOps implementation
 
 ##### !end-answer
-
-### !explanation
-Even in 2014, at the annual DevSecOps Conferences over 50% of those who presented on their implementation DevSecOps practices and processes were brownfield efforts.
-### !end-explanation
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -108,7 +108,7 @@ We have all heard that we need to adopt best commercial and/or industry practice
 
 Some additional industry greenfield examples include: LinkedIn, Spotify, Pinterest, SpaceX, and Dropbox.
 
-These examples are start-ups- they identified an untapped opportunity in the market and quickly expanded to become a household name. These companies are also referred to as unicorns. [In 2019, the failure rate of startups was around 90%.](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp) 
+These examples are start-ups- they identified an untapped opportunity in the market and quickly expanded to become a household name. These companies are also referred to as unicorns. [In 2019, the failure rate of startups was around 90%.](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp)
 
 ###Industry Examples: Brownfield Beginnings
 
@@ -120,14 +120,14 @@ Similar situations, similar policy constraints, similar acquisition challenges, 
 
 Sometimes we think that everything in the DoD is brownfield; that’s not far from the truth!  Most of what we do in the DoD is modernize systems that may have _already been modernized multiple times_ over the decades.  The challenge is to provide mechanisms for sustainable technology insertion without a complete rewrite.
 
-To close out the first part of the discussion of greenfield and brownfield tech, let’s do a quick comparison. The results may surprise you! 
+To close out the first part of the discussion of greenfield and brownfield tech, let’s do a quick comparison. The results may surprise you!
 
 ![Greenfied-Brownfield Comparison Chart](../__images/04a_03_comparison_table.png)
 [Source](https://synoptek.com/insights/it-blogs/greenfield-vs-brownfield-software-development/#:~:text=Some%20examples%20of%20Greenfield%20software,implementing%20a%20new%20rules%20engine)
 
 It may not surprise you that brownfield has substantial dependencies on other, older systems, but were you surprised to see the risk is actually higher for greenfield?
 
-Hopefully it is clear there are advantages and disadvantages to both. Also, many times you do not have the luxury of choice. You are assigned to a program and depending on the mission you may inherit a legacy system that you are tasked to modernize. In the next section, we will talk through more of these efforts within the DoD. 
+Hopefully it is clear there are advantages and disadvantages to both. Also, many times you do not have the luxury of choice. You are assigned to a program and depending on the mission you may inherit a legacy system that you are tasked to modernize. In the next section, we will talk through more of these efforts within the DoD.
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -135,28 +135,43 @@ Hopefully it is clear there are advantages and disadvantages to both. Also, many
 
 ### !challenge
 
-* type: paragraph
-* id: b9b3c22e-6cc3-46d6-99d8-a8e7bdab7965
+* type: checkbox
+* id: c36da0e7-bc20-4ba6-a0f2-6cc594f927b1
 * title: Rewriting Brownfield
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-In April of 2000,  Joel Spolsky, future CEO of StackOverflow, called rewriting a software system from scratch ["the single worst strategic mistake that any software company can make."](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+In April of 2000,  Joel Spolsky, future CEO of StackOverflow, called rewriting a software system from scratch “the single worst strategic mistake that any software company can make.” (https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
-Based on the aspects of greenfield and Brownfield software development efforts above, why would he say that?
+Select the following answers that would support his argument:
+
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-##### !end-placeholder
+* Greenfield projects have a higher degree of risk
+* Brownfield projects have a clearer project direction
+* Greenfield projects require a more significant development effort
+* Greenfield projects allow for more freedom to design system
 
-### !explanation
-Rewriting means losing all the foundation that was previously built up, and requires much more time. The risk is increased as it is now more like a greenfield project, though it may still have dependencies on older systems.  All the while, the existing software must be maintained, further slowing down progress on the rewrite effort.
-### !end-explanation
 
+##### !end-options
+
+##### !answer
+
+
+* Greenfield projects have a higher degree of risk
+* Brownfield projects have a clearer project direction
+* Greenfield projects require a more significant development effort
+
+##### !end-answer
+
+#### !explanation
+Although greenfield projects allow for more freedom to design the system that does not support the argument above.
+#### !end-explanation
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->

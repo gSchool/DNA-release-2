@@ -8,7 +8,14 @@ By the end of this lesson you will be able to:
 * Understand the Three Ways of DevSecOps
 * Understand the Seven Principles and Wastes
 
+### !callout-warning
+## Watch this
+Before proceeding with the lesson, please take a few moments to watch the following video
 
+Click here:  [DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button)
+
+NOTE: This is part of the course content
+### !end-callout
 ## CALMS
 
 #### !callout-info
@@ -24,9 +31,6 @@ referenced in this section are accessible without a Coursera account.
 
 In lesson 2.1.1, we explored what is _not_ considered DevSecOps- now let’s put the spotlight on understanding what _is_ considered DevSecOps, and some underlying frameworks employed by many organizations both inside and outside the DoD.
 
-Please click on the video below to learn more.
-
-[DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button)
 
 Recall the CALMS framework from the video (shown below):
 
@@ -48,11 +52,13 @@ That being said, unfortunately:
 ## Definition
 Behavior
 
-<ol><li><ol type="A"> 
-   <li>the manner of conducting oneself</li>
-   <li>anything that an organism does involving action and response to stimulation</li>
-   <li>the response of an individual, group, or species to its environment</li>
-</ol></li>
+<ol>
+<li>the manner of conducting oneself</li>
+<li>anything that an organism does involving action and response to stimulation</li>
+<li>the response of an individual, group, or species to its environment</li>
+<li>The tools the group uses (i.e.an Iron Age culture used Iron tools)</li>
+<li>The language and symbols the group used to define itself</li>
+<li>The stories we tell to ourselves and others - and the way we tell them are behaviors that foster a culture</li>
 <li>The way in which someone behaves; also, an instance of such behavior</li>
 <li>The way in which something functions or operates</li>
 </ol>
@@ -86,6 +92,49 @@ The DoD provides military forces with support to deter war and ensure our nation
 
 How often do mistakes happen when you are writing in a Word document or entering data in an Excel spreadsheet (or if you can code, when you are coding)? Human errors like these are normal- automated tests help reduce risk.
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 51690316-2c2d-4381-a18d-e2975939499c
+* title: Automated Testing
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What of the following **do not** best explain automated testing in a DevSecOps Environment?
+
+##### !end-question
+
+##### !options
+
+* Catches bugs and security flaws earlier
+* Tests should be slower so that our enemy has the advantage
+* Eliminating rework and increasing the likelihood of continuously delivering working software within operational systems
+* End to end testing reduces risk to the overall cost, schedule and performance of the system and mission
+
+
+##### !end-options
+
+##### !answer
+
+* Tests should be slower so that our enemy has the advantage
+* End to end testing reduces risk to the overall cost, schedule and performance of the system and mission
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ### <span style="font-size: 2em">L.</span> Lean
 
 _A DevSecOps mindset recognizes opportunities for continuous improvement everywhere._
@@ -96,10 +145,10 @@ Continuous improvement occurs when entire teams work to optimize the workflow. T
   * Minimizing work in progress (WIP)
   * Making work visible, and
   * Reducing hand-off complexity/wait times
-    
+
 ![Failure is a prerequisite for learning...](../__images/03_04_lean.png)
 
-The only true failure is not learning from your mistakes. To learn from your mistakes, you must understand the goal (intent), process (bottlenecks), and success metrics or constantly conduct and document experiments.
+The only true failure is not learning from your mistakes. To learn from our mistakes, we must be willing to acknowledge our failures, discuss them, study them, and learn from them. We must understand the goal (intent), process (bottlenecks), and success metrics or constantly conduct and document experiments.
 
 #### !callout-warning
 
@@ -120,11 +169,11 @@ Without data, any attempt at improvement is fruitless, and like any tool, metric
 * How many people are using your product right now?
 * How many users did you gain / lose this week?
 
-Remember, the goal is not merely moving fast:
+Proceed with caution when selecting metrics, and be sure to avoid "vanity metrics" that may sound impressive but do not actually provide meaningful insight on the current status or future trajectory of the work. Remember, the goal is not merely moving fast:Remember, the goal is not merely moving fast:
 
 ![Direction is so much more important that speed, many are going nowhere fast](../__images/03_05_measurement.png)
 
-Direction is informed by data, which allows for speed to VALUE. We need data and metrics to LEARN FAST.
+Direction is informed by data, which allows for speed to VALUE. We need data and metrics to LEARN FAST. The primary reason for collecting a metric is to learn something - either about the current state of the work (status metrics, which are generally lagging indicators) or about the projected results (predictive metrics, aka leading indicators).
 
 ### <span style="font-size: 2em">S.</span> Sharing
 
@@ -142,8 +191,15 @@ The DoD has an opportunity to yield significant benefits by undergoing a DevSecO
 DevSecOps is a blend of practices, cultural philosophies and tools. Breaking down our functional silos will skyrocket the mission value we collectively aim to deliver by increasing trust, faster (but smaller) software releases, and a tight feedback loop within and across DevSecOps teams and the users/mission they serve.
 
 ## The Three Ways
+### !callout-warning
+## Watch this
+Before proceeding with the lesson, please take a few moments to watch the following video
 
-[DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus)
+Click here:  [DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus)
+
+NOTE: This is part of the course content
+### !end-callout
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -185,33 +241,39 @@ What are the Three Ways
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
-* type: multiple-choice
-* id: 426559fd-e674-4d5f-b63d-78591f4d0663
+* type: checkbox
+* id: f6bb8ad7-bb83-4a2e-9fe1-d9b8ebd2ebbb
 * title: The Third Way
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-In the 3rd Way, we reward people for failing by introducing faults into the system.
+In the Third Way, we:
 
 ##### !end-question
 
 ##### !options
 
-* True
-* False
+* Reward people for failing by introducing faults into the system
+* Understand that repetition and mastery are the prerequisite to mastery
+* Emphasize performance of an entire system
+* Emphasize continual risk taking while learning from failure
+
 
 ##### !end-options
 
 ##### !answer
 
-* True
+
+* Understand that repetition and mastery are the prerequisite to mastery
+* Emphasize continual risk taking while learning from failure
 
 ##### !end-answer
 
@@ -224,10 +286,17 @@ In the 3rd Way, we reward people for failing by introducing faults into the syst
 
 <!-- ======================= END CHALLENGE ======================= -->
 ## The Seven Principles and Wastes
-
-[DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g)
-
 Now that you know what the Three ways and the Seven Principles and Wastes are, we will address how DevOps can help address each of the following areas of waste:
+
+### !callout-warning
+## Watch this
+Before proceeding with the lesson, please take a few moments to watch the following video
+
+Click here:  [DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g)
+
+NOTE: This is part of the course content
+### !end-callout
+
 
 ####1. Partially Done Work
    * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user- this shift in mindset is part of the solution. It also ensures capabilities and team structures are in place enabling people to finish what they’ve started. Reducing dependencies between teams and boosting autonomy within teams is a powerful way to address this.
@@ -273,20 +342,15 @@ What are the Seven Wastes?
 ##### !options
 
 * Partially Done Work
-* Completely Done work
 * Extra/Unnecessary Features
 * Relearning and Refactoring
 * Technical Debt
+* Multitasking
 * Handoffs
 * Delays
-* Culture
-* Sharing
-* Flow
 * Task Switching
 * Defects
-* Multitasking
-* Automation
-* Lean
+
 
 ##### !end-options
 
