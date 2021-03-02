@@ -8,25 +8,96 @@ You are a quarter of the way through your Digital DNA journey. You are continuin
 
 **Release 2: Digital Foundations** is the second part of a deeper dive into the processes and technology that have so heavily influenced modern software development and technological innovation.   
 
-For those who don’t love technology and want to learn more about acquisition strategy, contract strategy, and management: bear with us. Releases 3 and 4 will focus on those topics, but the information in _this_ Release will directly influence your ability to excel in those sections, and in turn will allow you to be a more effective acquisitions professional.
+For those who don’t love technology and want to learn more about acquisition strategy, contract strategy, and management: bear with us. **Releases 3 and 4** will focus on those topics, but the information in _this_ Release will directly influence your ability to excel in those sections, and in turn will allow you to be a more effective acquisitions professional.
 
 ![DevOps Timeline](../__images/gaping-void.png)
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: d4e72198-2174-4abf-91fe-2b56be00b40c
+* title: Digital DNA Structure
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+I understand there are a total of 4 releases to Digital DNA and I am in the 2nd of 4 releases.  
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+
+##### !end-options
+
+##### !answer
+* Yes
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 Now to a few changes you may notice as you are working through:
 
-* We know we are only able to scratch the surface with these topics - we ruthlessly prioritize the information shared in the lessons to be mindful of your time but we do not want to prevent anyone from continuing to learn. That is why we have added a resources section in almost all of the lessons - this will include articles, books, videos, and presentations that you are able to dive into if you want to get lost in learning.   
+* GRADING: In order to continue with the next Release of Digital DNA, you must receive **80% or greater on the post-assessment**
 
-* Also, we are testing out bonus sections - bonus sections are not required but are available if the topic is interesting, directly impacting you, or like the learning guides just love trying to soak up as much information as possible.  
+* RESOURCE SECTION: We are only able to scratch the surface with these topics - we ruthlessly prioritized the information shared in the lessons to be mindful of your time but we do not want to prevent anyone from continuing to learn. The resource section found within most lessons will include articles, books, videos, and presentations that you are able to dive into if you want to get lost in learning.   
 
-* The last large change is that we are only holding one virtual session over this two-week period. Don’t worry you will still get to engage with the learning guides - we will be interacting with you throughout the self-paced portion through the Learn platform - by providing feedback on your short answers, asking for clarifications or trying to learn from you! That being said, the content will still be released in one-week chunks, and we will send reminders to make sure you complete as scheduled.   
+* BONUS SECTIONS: These are not required but are available if the topic is interesting, directly impacting you, or like the learning guides just love soaking up as much information as possible.  
 
-* A small change, you may have noticed when you logged in that only the Welcome and Pre-Assessment are available today. That is intentional, we built in an extra day on the front to ensure everyone can access and to increase the focus on pre-assessment Day One.   
+* The last large change is that we will NOT hold any virtual sessions for this release. However, we will host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.  
+  * You will be receiving calendar invites for Office Hours throughout the two-week period when Release 2 is offered. **These are optional.**  
 
+* Also, we have created personalized Course Completion with Continuous Learning Point (CLP) equivalent information that we will send to all those that complete all self-paced material + virtual session!
 
- *  Similarly, we are doing the same for the final day after the virtual session - we have extended the course by a day to ensure completion of the survey and the Post-Assessment.   
+ That concludes all of our updates. We hope that you enjoy the course, and as always do not hesitate to reach out to Tory or Christina if you have any questions!
 
+ <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+ <!-- Replace everything in square brackets [] and remove brackets  -->
 
- * Also, we have created personalized Course Completion with Continuous Learning Point (CLP) equivalent information that is based on access time in Learn + virtual sessions that we will send to all those that complete all self-paced material + virtual session!   
- 
+ ### !challenge
 
-That concludes all of our updates. We hope that you enjoy the course, and as always do not hesitate to reach out to Tory or Christina if you have any questions!
+ * type: multiple-choice
+ * id: deb3acb4-4cb4-4344-9925-7d0afe4f6ab0
+ * title: Digital DNA Structure
+ <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+ <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+ ##### !question
+
+I understand that all information within this course will need to be completed by 18 March 2021 **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Release 2 certificate of completion:
+
+ ##### !end-question
+
+ ##### !options
+
+ * Yes
+ * No
+
+ ##### !end-options
+
+ ##### !answer
+
+ * Yes
+
+ ##### !end-answer
+
+ <!-- other optional sections -->
+ <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+ <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+ <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+ ### !end-challenge
