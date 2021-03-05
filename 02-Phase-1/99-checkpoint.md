@@ -261,7 +261,7 @@ If you rate the compared definitions as Moderately Similar or Not Similar we rec
 
 ##### !question
 
-The following things were addressed as “what devops is not”:
+The following things were addressed as “What DevOps is not”:
 
 
 ##### !end-question
@@ -515,7 +515,7 @@ Open Source
 
 ##### !question
 
-HOw do you define Open Source?
+How do you define Open Source?
 ##### !end-question
 
 ##### !placeholder
