@@ -428,7 +428,7 @@ A tech stack is the collection of tools you choose to build a fully-operational 
 ### !challenge
 
 * type: multiple-choice
-* id: 237fcf2e-8a59-406b-b860-1add8d10b50c
+* id: baa9143e-bc92-4d4f-a77a-4a096d73e30c
 * title: Fill in the blank
 * points: 3
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -589,7 +589,7 @@ If you rate the compared definitions as Moderately Similar or Not Similar we rec
 ### !challenge
 
 * type: multiple-choice
-* id: 237fcf2e-8a59-406b-b860-1add8d10b50c
+* id: 38e7a548-32c6-4d19-9664-93bb707566b8
 * title: Greenfield vs Brownfield
 * points: 3
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
