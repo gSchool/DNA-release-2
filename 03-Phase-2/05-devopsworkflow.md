@@ -35,6 +35,32 @@ The DoD has additional requirements that include Air Worthiness, hence DevSecSaf
 * For any systems that yields deadly force with weapons, we must also include something akin to the AF Seek Eagle certification.
 
 Some systems are so critical that they _require_ separate evaluation and certification for Nuclear Certification like those outlined in [AFI 63-125](https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-125/afi63-125.pdf). And there's more, but we still stop there for now.
+### !challenge
+
+* type: paragraph
+* id: 0210bd8d-43a8-401c-999e-f121766e40ac
+* title: Your Program specifics
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What other program specifics are you required to adhere to for your SW Intensive Program?
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
 
 Is it even possible for a DoD software program to adopt modern Dev*Ops practices, move fast, iterate, and get to Continuous Integration and Continuous Development (CI/CD)? 
 
@@ -43,6 +69,41 @@ Is it even possible for a DoD software program to adopt modern Dev*Ops practices
 While much progress has been made, there is, and likely always will be, more to do.  For example, the DoD has made great strides in recent years by working with the security accreditation community and the Defense Security Accreditation Working Group (DSAWG) to completely transform how security accreditation for software is approached.  The ability to have a “continuous Authority to Operate” or cATO was only a distant dream just a few years ago.  Now it exists and is becoming more commonplace.
 
 <p style="font-family:script; font-size:2em; text-align: center;">This is significant progress.</p>
+
+### !challenge
+
+* type: multiple-choice
+* id: c61d8994-f0e6-4032-9ce3-f8765593d90b
+* title: DSAWG
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Are you aware of the work being done by the DSAWG?
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
 
 #### !callout-info
 
@@ -55,6 +116,46 @@ While much progress has been made, there is, and likely always will be, more to 
 Progress is also being made in developmental and operational testing.  In Section 231 of the 2020 National Defense Authorization Act (NDAA) Congress charged the DoD with developing a plan for maximal test automation and the integration of DT and OT into the DevOps cycle.  The Director of Operational Test and Evaluation (DOT&E) in partnership with the DT team in Research and Engineering (R&E) is moving out on this action.  Integrating testing more fully into the DevOps or DevSecOps cycle is often referred to as “shift left testing”.  This recognizes the need to include testing as early (left of a typical schedule) and often as possible.
 
 Balanced DevOps teams should include support from testing professionals.  A technique that speeds up cycle time, in addition to including testers on your balanced development teams, is encouraging developmental and operational testers to share test results and digital artifacts.  _The key is to fully appreciate the different roles that DT and OT professionals must play._  In short, this is the difference between [Verification and Validation (V&V)](https://en.wikipedia.org/wiki/Verification_and_validation), and typically should be performed by agencies that are “independent” from the developers.
+
+### !challenge
+
+* type: checkbox
+* id: 91413a75-1666-4916-9b05-398b89bd1c85
+* title: Shifting Left
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+____________________ should be integrated as early in the process as possible.
+
+##### !end-question
+
+##### !options
+
+* Security
+* Validation (in V&V)
+* Test
+* Verification (in V&V)
+
+##### !end-options
+
+##### !answer
+
+* Security
+* Validation (in V&V)
+* Test
+* Verification (in V&V)
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
 
 ## Verification & Validation (V&V), Development Testing (DT), Operational Testing (OT), Etc.
 
@@ -70,7 +171,44 @@ Contrast this to the goal of **Operational testing**.  OT’s goal is to **Valid
   
 Understanding these differences is one key to encouraging DT and OT to share test results, design information, digital artifacts, etc.  From there, you might secure certification and accreditation for airworthiness, potential weapons effectiveness and safety, even nuclear certification!  Start this as early as possible and include these stakeholders early and often in your program.  If you don’t, they’ll be waiting at the end, and they will be much more inclined to say “NO” rather than “YES”.
 
-## The Rest of the Story
+### !challenge
+
+* type: multiple-choice
+* id: bb683d0f-302b-4fd4-99f5-b1b44dc8b196
+* title: Validation or Verification
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Did I build the system right is:
+
+##### !end-question
+
+##### !options
+
+* validation/development
+* verification/development
+* validation/operational
+* validation/development
+
+##### !end-options
+
+##### !answer
+
+* validation/operational
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+
+## The Rest of the Story[*](https://en.wikipedia.org/wiki/The_Rest_of_the_Story)
 
 Now that you’ve mastered certifying your system for use, we must discuss the [DoD’s Planning, Programming, Budgeting, and Execution cycle, or PPBE](https://acqnotes.com/acqnote/acquisitions/ppbe-overview) for short.  The traditional way of building a DoD capability or weapon system is:
 * Identify the warfighter’s need or capability gap
@@ -114,7 +252,7 @@ These are just a few things that can help.  Based on your learning so far, and a
 
 * type: paragraph
 * id: 3ca3e90d-baed-4d8c-90ab-790222c1dc3f
-* title: Fast Feedback
+* title: Ways to iterate faster
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -154,6 +292,66 @@ There is a corollary to Conway’s Law, called, the [“Inverse Conway Maneuver�
 * Create small balanced teams with streamlined internal communication dedicated to specific aspects of your design or system.  
 * Organize those teams in a way that minimizes one depending on another to the greatest extent possible to allow fast independent capability delivery.  
 
-If you want different results, don’t keep doing things the way you’ve always done them.  As someone once said, **“thinking is not optional here”**.  
+If you want different results, don’t keep doing things the way you’ve always done them.  As someone once said, **“thinking is not optional here”**.  Get creative, start small, iterate, try things out, learn from failure, and most importantly, [“Keep Calm and Carry On”](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On).
 
-Get creative, start small, iterate, try things out, learn from failure, and most importantly, [“Keep Calm and Carry On”](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On).
+### !challenge
+
+* type: multiple-choice
+* id: 934f2409-e7d4-4707-89eb-a03a2e848781
+* title:  Inverse Conway Maneuver
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+I can impact a system regardless of the role I play within it:
+
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !challenge
+
+* type: paragraph
+* id: da123d4f-3df4-4dec-a905-e2de6ade062e
+* title: Explained Inverse Conway Maneuver
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Regardless of Yes or No to the previous question, please explain.
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
