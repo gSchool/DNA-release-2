@@ -153,6 +153,85 @@ Recall,
 
 **Incorporating Software Performance Metrics**. The goal is to automate software performance metrics that are appropriate to support tradeoff decisions as required. This can be accomplished in various ways, whether you are implementing the [DevOps Research and Assessment (DORA) Four](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance), or [Google’s Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals).
 
+
+### !challenge
+
+* type: checkbox
+* id: d03d2738-8312-450f-b888-8e40d1da72b0
+* title: Your Metrics 1
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+The instructors have provided some of their thoughts on metrics. What are some software performance metrics that you are currently using to demonstrate progress in your organization? Have these metrics changed your decision processes?
+
+##### !end-question
+
+##### !options
+
+* Commit Frequency
+* Build Cycle Time
+* Average Build Downtime
+* Development Cycle Time
+* Deploy Frequency
+* Change Failure Rate
+* Deploy Frequency
+* Change Failure Rate
+* Mean Time to Repair
+* Code Coverage
+* Quality
+* Development Cycle Time
+* Productivity
+* Lead Time
+* WIP
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: 9e76c3a1-0d69-4745-b0d0-1af80c3e48fc
+* title: Your Metrics 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Have these metrics changed your decision processes?
+
+##### !end-question
+
+##### !placeholder
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 As a preview to Module 3 and 4, there are programmatic metrics that help show that you are de-risking your program. Here are some examples:
 
 * **Team Composition**: Utilizing civilians, military, and vendors across teams, coupled with onboarding to help mitigate known movement of personnel
@@ -171,37 +250,6 @@ As a preview to Module 3 and 4, there are programmatic metrics that help show th
 ### !challenge
 
 * type: paragraph
-* id: 9e76c3a1-0d69-4745-b0d0-1af80c3e48fc
-* title: Your Metrics
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-The instructors have provided some of their thoughts on metrics. What are some software performance metrics that you are currently using to demonstrate progress in your organization? Have these metrics changed your decision processes?
-
-##### !end-question
-
-##### !placeholder
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
 * id: 39706441-5677-411e-aa5e-ecf6a394f8ab
 * title: Acquisition Metrics
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
@@ -209,14 +257,14 @@ The instructors have provided some of their thoughts on metrics. What are some s
 
 ##### !question
 
-Now, what are some software **acquisition** metrics that you currently are using, or planning to use in your organization? Have these metrics changed your decision processes?
+What are some software **acquisition** metrics that you currently are using, or planning to use in your organization? Have these metrics changed your decision processes?
 
 
 ##### !end-question
 
 ##### !placeholder
 
-
+If you don’t know how to answer this for your specific program or effort, utilize the user story approach and share what SW Acquisition metrics you believe are critical to be tracked.
 
 ##### !end-placeholder
 
@@ -261,6 +309,44 @@ If we are efficient and effective but have heroes keeping our systems stable, we
   * Product Delivery: Happy teams who have product ownership will deliver better products.
   * Needs Met: Mission and business needs being met will have a positive impact.
   * Overall Satisfaction: Are the team/organization/service/employee feeling satisfied overall?
+
+### !challenge
+
+* type: multiple-choice
+* id: 58840bd8-9456-436c-afba-f5d57bf63753
+* title: Meaning of Metrics
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Above all else, metrics should be used as: 
+
+##### !end-question
+
+##### !options
+
+* As Program Planning and Execution tool
+* As an indicator of efficient, effective and healthy effort
+* To inform the PPB&E Process
+* To oversee the Product Development teams
+* To reduce WIP in your SW intensive program
+
+##### !end-options
+
+##### !answer
+
+* [Option 2 (the correct answer)]
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
 
 ## Resources:
 * ARTICLE: Proof that Positive Work Cultures are More Productive https://hbr.org/2015/12/proof-that-positive-work-cultures-are-more-productive
@@ -790,3 +876,65 @@ Productivity metric decreases.</li></ul>
 </tr>
 </tbody>
 </table>
+
+### !challenge
+
+* type: multiple-choice
+* id: 322edebd-3d64-4984-a361-2ed7338adc11
+* title: Metrics Playbooks
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Does your program currently track these types of metrics?
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+* N/A
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !challenge
+
+* type: paragraph
+* id: a8a06243-790c-4640-92d3-6e10704203d9
+* title: Metric Playbook in Action
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If yes, please share how these metrics are collected and what the data is utilized for in your program.
+
+
+##### !end-question
+
+##### !placeholder
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
