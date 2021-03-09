@@ -25,7 +25,6 @@ Most people notice when their wallet or car is stolen - but do they notice how o
 The Five Thieves of Time are:
 
 1. Too Much Work-in-Progress
-   * Example: Partially completed work (the most common)
 1. Unknown Dependencies
 1. Unplanned Work
 1. Conflicting Priorities
@@ -58,122 +57,6 @@ Furthermore, WIP is a **leading indicator** of cycle time. As a preview to our m
 ![Kanban](__images/01_02_kanban.png)
 
 In the Kanban example above, the number of WIP is 6. In the next section, we provide more examples of structuring a Kanban.
-
-## <span style="font-size:2em">2.</span> Second Thief: Unknown Dependencies
-Let’s start by defining dependencies. Typically, there are three types of dependencies that emerge:
-1. **Architecture (both software and hardware)**- A change in one area causes a break or stop of functionality in another.
-1. **Expertise**- Specific knowledge of a person is needed.
-1. **Activity**- Progress is halted until activity is completed (can be a bottleneck).
-
-**Fun Fact**: At AgileAlliance 2015, Troy Magennis used Boolean logic to demonstrate a key fact: **Every time you remove one dependency, half the total possible delay combinations are removed, reducing your risk when delivering capability!**
-
-Imagine you have dinner reservations with four people, each traveling independently to the reservation. The caveat: you cannot be seated until all four people arrive. There are sixteen possible outcomes, but **dependencies are asymmetrical in their impact**. With four dependencies, there **is not** a 25% probability you won’t be seated, there’s a 93% probability, or 15/16th of a chance, that **you won’t be seated**.
-
-Indicators of Unknown Dependencies include:
-- Program Manager is constantly coordinating across teams/functions
-- People unavailable when needed (higher potential when leveraging matrix support)
-- Unexpected breaks in code when changes introduced
-
-**Cross-team communication is hard.** Adopting small teams can increase integration costs. Remember our bottleneck discussion. A team is only as fast as the slowest part of their process. We aren’t saying this to scare you, but again, as a build up to the next section - the importance of making work visible and accessible across organizations is paramount. 
-
-## <span style="font-size:2em">3.</span> Third Thief: Unplanned Work
-
-> <span style="font-family:script;font-size:2em;">Code will be used in ways we cannot anticipate, in ways it was never designed for, and for longer than it was ever intended.</span>
->
-> <span style="float:right">-Joshua Corman</span>
->
-> <span style="clear:both">&nbsp;</span>
-
-Unplanned and expedited work steals time away from work that’s creating value- it impacts every organization, and the goal is to minimize it as much as possible.
-
-![Unplanned Outages](__images/01_03_dilbert.png)
-
-Unplanned work is _hard to see_ and/or predict, but it can be made visible.
-
-Here are some strategies to mitigate an instance of unplanned work:
-
-- Kanbans help to combat and better anticipate by making unplanned work visible.
-- Leave slack in your schedule by reserving team and individual capacities - never fully commit your staff or technology stack.
-
-## <span style="font-size:2em">4.</span> Fourth Thief: Conflicting Priorities
-
-> <span style="font-family:script;font-size:2em;">Productivity isn’t about being a workhorse, keeping busy, or burning the midnight oil...It’s about priorities and fiercely protecting your time.</span>
->
-> <span style="float:right">-Margarita Tartakovsky</span>
->
-> <span style="clear:both">&nbsp;</span>
-
-When people prioritize ineffectively, everything takes longer, leading to too much WIP. We know this is a relatable thief - many of you noted in Release 1 the difficulties you have when navigating priorities because you are supporting multiple projects.
-
-Again, this highlights the need to show your work in a data driven manner, i.e. using Kanban - not only for yourself, but to communicate with others. 
-
-## <span style="font-size:2em">5.</span> Fifth Thief: Neglected Work
-
-Legacy system maintenance is one of the most neglected types of work. Typically, the longer a system is used, the more complex it becomes due to updates, bug fixes, and multiple individuals working the code, increasing the complexity of the system. Thus, when something goes wrong it is difficult to easily identify the source of the problem, often removing multiple people (or teams) from other important work.
-
-Recall that we spent a lot of time talking about tech debt. Gene Kim’s The Unicorn Project refers to tech debt as “complexity debt”, defining it as changes in the software or environment that increase the complexity of operations and/or new changes.
-
-There is a saying -- _‘if it hurts, do it more often’_- or, **frequency reduces difficulty**. Have you ever lapsed in your workout regimen? Taken a few weeks (or months) off and your first day back could barely walk by the time you are finished? But after you stick with it for a while, you notice that the impact of working out is less and less drastic.
-
-The same concept applies to software. This is a great example of why refactoring (constantly updating code and simplifying if possible) is so important- it helps reduce the technical debt created with fielded systems.
-
-Now let’s apply this concept to contracting. Multiple contracts support a capability delivery, and contracting is one of the biggest tools in the Program Offices tool belt. It allows you to be responsive to emerging technology, new companies, or to pivot strategy. **Frequency reduces difficulty and allows optimization of the process.**
-
-Sound familiar? This concept is behind the small, frequent batches of work that are key to Agile and DevSecOps implementation -- code deployment (a contract award) is a non-event, and instead is simply part of the daily (monthly) practice.
-
-Back to neglected work. Key ideas that will help you to recognize or prevent neglected work include:
-- If not dealt with, neglected work (i.e. technical debt) will become an emergency
-- Consistently re-evaluate the investment of time and resources needed to finish the project. Aim to prevent ‘zombie projects’ from overtaking your current responsibilities.
-
-
-
-The next section will show you:
-- Strategies that expose time thieves,
-- How your team can optimize your workflow, and
-- How to express resulting data to your leadership and stakeholders
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: checkbox
-* id: ccbcccaf-7d9b-4257-ac07-2d770e7e0fbf
-* title: Unknown Dependencies
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-**Select all that apply.** Under the second thief “Unknown Dependencies”, the three dependencies that begin to emerge are:
-
-##### !end-question
-
-##### !options
-
-* Expertise
-* Activity
-* Architecture
-* Conflicting Priorities
-
-##### !end-options
-
-##### !answer
-
-* Expertise
-* Activity
-* Architecture
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -187,7 +70,7 @@ The next section will show you:
 
 ##### !question
 
-**Select all that apply.** Too much WIP can result in:
+Too much WIP can result in:
 
 ##### !end-question
 
@@ -220,6 +103,86 @@ One of these is true but is not a result of too much WIP
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+## <span style="font-size:2em">2.</span> Second Thief: Unknown Dependencies
+Let’s start by defining dependencies. Typically, there are three types of dependencies that emerge:
+1. **Architecture (both software and hardware)**- A change in one area causes a break or stop of functionality in another.
+1. **Expertise**- Specific knowledge of a person is needed.
+1. **Activity**- Progress is halted until activity is completed (can be a bottleneck).
+
+**Fun Fact**: At AgileAlliance 2015, Troy Magennis used Boolean logic to demonstrate a key fact: **Every time you remove one dependency, half the total possible delay combinations are removed, reducing your risk when delivering capability!**
+
+Imagine you have dinner reservations with four people, each traveling independently to the reservation. The caveat: you cannot be seated until all four people arrive. There are sixteen possible outcomes, but **dependencies are asymmetrical in their impact**. With four dependencies, there **is not** a 25% probability you won’t be seated, there’s a 93% probability, or 15/16th of a chance, that **you won’t be seated**.
+
+Indicators of Unknown Dependencies include:
+- Program Manager is constantly coordinating across teams/functions
+- People unavailable when needed (higher potential when leveraging matrix support)
+- Unexpected breaks in code when changes introduced
+
+**Cross-team communication is hard.** Adopting small teams can increase integration costs. Remember our bottleneck discussion. A team is only as fast as the slowest part of their process. We aren’t saying this to scare you, but again, as a build up to the next section - the importance of making work visible and accessible across organizations is paramount. 
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: ccbcccaf-7d9b-4257-ac07-2d770e7e0fbf
+* title: Unknown Dependencies
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Under the second thief “Unknown Dependencies”, the three dependencies that begin to emerge are:
+
+##### !end-question
+
+##### !options
+
+* Expertise
+* Activity
+* Architecture
+* Conflicting Priorities
+
+##### !end-options
+
+##### !answer
+
+* Expertise
+* Activity
+* Architecture
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+## <span style="font-size:2em">3.</span> Third Thief: Unplanned Work
+
+> <span style="font-family:script;font-size:2em;">Code will be used in ways we cannot anticipate, in ways it was never designed for, and for longer than it was ever intended.</span>
+>
+> <span style="float:right">-Joshua Corman</span>
+>
+> <span style="clear:both">&nbsp;</span>
+
+Unplanned and expedited work steals time away from work that’s creating value- it impacts every organization, and the goal is to minimize it as much as possible.
+
+![Unplanned Outages](__images/01_03_dilbert.png)
+
+Unplanned work is _hard to see_ and/or predict, but it can be made visible.
+
+Here are some strategies to mitigate an instance of unplanned work:
+
+- Kanbans help to combat and better anticipate by making unplanned work visible.
+- Leave slack in your schedule by reserving team and individual capacities - never fully commit your staff or technology stack.
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -258,6 +221,44 @@ Unplanned work is hard to see (or predict), but it can be made visible.
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+## <span style="font-size:2em">4.</span> Fourth Thief: Conflicting Priorities
+
+> <span style="font-family:script;font-size:2em;">Productivity isn’t about being a workhorse, keeping busy, or burning the midnight oil...It’s about priorities and fiercely protecting your time.</span>
+>
+> <span style="float:right">-Margarita Tartakovsky</span>
+>
+> <span style="clear:both">&nbsp;</span>
+
+When people prioritize ineffectively, everything takes longer, leading to too much WIP. We know this is a relatable thief - many of you noted in Module 1 the difficulties you have when navigating priorities because you are supporting multiple projects.
+
+Again, this highlights the need to show your work in a data driven manner, i.e. using Kanban - not only for yourself, but to communicate with others. 
+
+## <span style="font-size:2em">5.</span> Fifth Thief: Neglected Work
+
+Legacy system maintenance is one of the most neglected types of work. Typically, the longer a system is used, the more complex it becomes due to updates, bug fixes, and multiple individuals working the code, increasing the complexity of the system. Thus, when something goes wrong it is difficult to easily identify the source of the problem, often removing multiple people (or teams) from other important work.
+
+Recall that we spent a lot of time talking about tech debt. Gene Kim’s The Unicorn Project refers to tech debt as “complexity debt”, defining it as changes in the software or environment that increase the complexity of operations and/or new changes.
+
+There is a saying -- _‘if it hurts, do it more often’_- or, **frequency reduces difficulty**. Have you ever lapsed in your workout regimen? Taken a few weeks (or months) off and your first day back could barely walk by the time you are finished? But after you stick with it for a while, you notice that the impact of working out is less and less drastic.
+
+The same concept applies to software. This is a great example of why refactoring (constantly updating code and simplifying if possible) is so important- it helps reduce the technical debt created with fielded systems.
+
+Now let’s apply this concept to contracting. Multiple contracts support a capability delivery, and contracting is one of the biggest tools in the Program Offices tool belt. It allows you to be responsive to emerging technology, new companies, or to pivot strategy. **Frequency reduces difficulty and allows optimization of the process.**
+
+Sound familiar? This concept is behind the small, frequent batches of work that are key to Agile and DevSecOps implementation -- code deployment (a contract award) is a non-event, and instead is simply part of the daily (monthly) practice.
+
+Back to neglected work. Key ideas that will help you to recognize or prevent neglected work include:
+- If not dealt with, neglected work (i.e. technical debt) will become an emergency
+- Consistently re-evaluate the investment of time and resources needed to finish the project. Aim to prevent ‘zombie projects’ from overtaking your current responsibilities.
+
+
+
+The next section will show you:
+- Strategies that expose time thieves,
+- How your team can optimize your workflow, and
+- How to express resulting data to your leadership and stakeholders
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
