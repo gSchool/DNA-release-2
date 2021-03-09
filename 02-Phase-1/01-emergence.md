@@ -218,7 +218,7 @@ Further key themes:
 * **Hypothesis-Driven Culture** -- taking no assumptions for granted and doing nothing without measuring
 * **Routine** - Performing code deployments becomes boring, without most people even noticing
 
-Don’t forget about the Cloud, environments, and the technology we discussed in Release 1. These ‘tools’ are critical enablers for many DevOps initiatives.
+Don’t forget about the Cloud, environments, and the technology we discussed in Module 1. These ‘tools’ are critical enablers for many DevOps initiatives.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->

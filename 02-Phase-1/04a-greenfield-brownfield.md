@@ -35,7 +35,7 @@ What can be built on an empty plot of land? The opportunities are endless- a cab
 
 There are appealing aspects to building using greenfield, in construction and in technology. Using our construction example, since the land has not been developed, builders have freedom in implementation- you are not limited by any existing structural choices, like electrical, plumbing, foundation, etc.
 
-Recall the example we referenced in Release 1. Netflix is an example of a greenfield software project- that is, Netflix as a new idea transformed the movie rental market and was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared toward new markets for maximum profit opportunity. Other such examples we discussed in Release 1 include Uber and AirBnB.
+Recall the example we referenced in Module 1. Netflix is an example of a greenfield software project- that is, Netflix as a new idea transformed the movie rental market and was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared toward new markets for maximum profit opportunity. Other such examples we discussed in Module 1 include Uber and AirBnB.
 
 Companies also use greenfield applications and systems as a way to explore new ways to solve problems that are unencumbered by existing software or dependencies. Which leads us to greenfield’s alternative: brownfield.
 

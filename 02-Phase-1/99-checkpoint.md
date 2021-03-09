@@ -1,6 +1,6 @@
 # Part A Checkpoint
 
-Welcome to your Release 2 Phase A knowledge checkpoint, in doing away with the virtual sessions the knowledge checkpoint is more robust.  The instructors will be corresponding with you on your answers once submitted.
+Welcome to your Module 2 Phase A knowledge checkpoint, in doing away with the virtual sessions the knowledge checkpoint is more robust.  The instructors will be corresponding with you on your answers once submitted.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->

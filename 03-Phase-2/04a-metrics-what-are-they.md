@@ -36,7 +36,7 @@ This is an introduction to this topic. We have two metric sections, and we are s
 >
 > <span style="clear:both">&nbsp;</span>
 
-An alternative to the above quote is, you manage what you measure. **Metrics matter** - they impact individual and team behavior alike. In Release 1, we asked you the current measure of progress in your organization. Overwhelmingly, many of you stated obligations and expenditures, or planning documents. Take a minute and ask yourself- what unintended consequences do these current metrics cause?
+An alternative to the above quote is, you manage what you measure. **Metrics matter** - they impact individual and team behavior alike. In Module 1, we asked you the current measure of progress in your organization. Overwhelmingly, many of you stated obligations and expenditures, or planning documents. Take a minute and ask yourself- what unintended consequences do these current metrics cause?
 
 Some answers that come to mind: overemphasis on obligation and expenditures (spending money) vice valuable capability delivery or planning vice execution.
 

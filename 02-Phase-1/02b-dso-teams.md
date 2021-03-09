@@ -191,7 +191,7 @@ Remember- the DoD is not a single program or service, it's **composed of many th
 
 Evolving our mentality and approach means realizing everyone starting from scratch is **not scalable**. Ask yourself how you can change the way you collaborate across services, programs, and PEOs today.
 
-Below are a few strategies acquisitions teams may use when building their DevOps teams. Release 3 will discuss in more detail.
+Below are a few strategies acquisitions teams may use when building their DevOps teams. Module 3 will discuss in more detail.
 
 ###DIGITAL SERVICES DEVELOPERS - (ORGANIC)
 

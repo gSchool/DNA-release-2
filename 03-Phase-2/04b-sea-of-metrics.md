@@ -153,7 +153,7 @@ Recall,
 
 **Incorporating Software Performance Metrics**. The goal is to automate software performance metrics that are appropriate to support tradeoff decisions as required. This can be accomplished in various ways, whether you are implementing the [DevOps Research and Assessment (DORA) Four](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance), or [Google’s Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals).
 
-As a preview to Release 3 and 4, there are programmatic metrics that help show that you are de-risking your program. Here are some examples:
+As a preview to Module 3 and 4, there are programmatic metrics that help show that you are de-risking your program. Here are some examples:
 
 * **Team Composition**: Utilizing civilians, military, and vendors across teams, coupled with onboarding to help mitigate known movement of personnel
 * **FAR 39.103 Modular Contracting**. Modular contracting is intended to reduce program risk and to incentivize contractor performance, while meeting the government's need for timely access to rapidly changing technology. **Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems (see 2.1010) of information technology**, consistent with the agency's information technology architecture. Agencies may also use modular contracting to acquire non-major systems of information technology.

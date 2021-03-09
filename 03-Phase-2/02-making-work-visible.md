@@ -200,7 +200,7 @@ One tool for breaking down objectives to inform priorities is the A3 Method:
 
 The A3 Method helps to ensure continuous improvement - the report above shows an outline and activities within each section. If you wish to learn more about this method, simply Googling the term “A3 method” will provide additional resources. Again, it serves as documentation - what is believed at a point in time, and the actions taken to improve.
 
-As we discussed in Release 1, committing yourself and your team to prioritizing work and implementing tools like the A3 method could all be worthwhile discussions in support of a team retrospective (retro). 
+As we discussed in Module 1, committing yourself and your team to prioritizing work and implementing tools like the A3 method could all be worthwhile discussions in support of a team retrospective (retro). 
 
 ## <span style="font-size:2em">5.</span> Make Adjustments Based on Learning, Feedback and Metrics
 
