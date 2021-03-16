@@ -1,3 +1,4 @@
+#Survey
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -25,7 +26,7 @@ This course's structure (content spread over two weeks with expected completion 
 
 ##### !answer
 
-* Strongly agree
+* *
 
 
 ##### !end-answer
@@ -51,7 +52,7 @@ This course's structure (content spread over two weeks with expected completion 
 
 ##### !question
 
-Should this course to be in smaller modules? (e.g. a 1-week span rather than a 2-week span)
+Should this course be offered in smaller modules? (e.g. a 1-week span rather than a 2-week span)
 
 
 ##### !end-question
@@ -66,7 +67,7 @@ Should this course to be in smaller modules? (e.g. a 1-week span rather than a 2
 
 ##### !answer
 
-* Yes
+* *
 
 
 ##### !end-answer
@@ -92,7 +93,7 @@ Should this course to be in smaller modules? (e.g. a 1-week span rather than a 2
 
 ##### !question
 
-The virtual sessions are valuable and should remain for future cohorts
+You preferred the structure of the second course, DevSecOps Foundations, being fully virtual (self-paced).
 
 ##### !end-question
 
@@ -106,7 +107,84 @@ The virtual sessions are valuable and should remain for future cohorts
 ##### !end-options
 
 ##### !answer
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: d632d96f-039d-4be7-8558-3a215decb309
+* title: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+The loss of virtual sessions did not impact your understanding of the content.
+
+##### !end-question
+
+##### !options
+
 * Strongly agree
+* Somewhat agree
+* Somewhat disagree
+* Strongly disagree
+
+##### !end-options
+
+##### !answer
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 85f944d8-95ee-4fa7-8968-da02d4fdee0b
+* title: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+You completed the content as recommended -- Phase A was completed during the first week and Phase B during second week. 
+
+##### !end-question
+
+##### !options
+
+* Yes
+* Somewhat, the ability to complete content throughout the full two weeks was advantageous and Phase A content was completed after Phase B content was made available
+* No
+
+##### !end-options
+
+##### !answer
+* *
 
 ##### !end-answer
 
@@ -144,7 +222,7 @@ Is a Thursday start date for class helpful? (as compared to a Monday start date)
 
 ##### !answer
 
-* Yes
+* *
 
 
 ##### !end-answer
@@ -215,7 +293,46 @@ Overall, this content was valuable and related to my current role
 
 ##### !answer
 
-* Strongly agree
+* *
+
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 404cce98-bd0b-489c-98d7-55daf526d39e
+* title: 6
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+I dialed in to speak with the instructors during their office hours:
+
+##### !end-question
+
+##### !options
+
+* Yes
+* They had office hours available?
+* No
+##### !end-options
+
+##### !answer
+
+* *
 
 
 ##### !end-answer
@@ -264,7 +381,7 @@ How likely are you to recommend this training?
 
 ##### !answer
 
-* 10 (very likely)
+* *
 
 
 ##### !end-answer

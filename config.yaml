@@ -121,7 +121,7 @@ Standards:
         TimeLimit: 60
   -
     Title: Survey
-    Description: In person session survey
+    Description: Final Survey
     UID: 8edfe401-15ae-497a-bdc2-6ad6cc07b8b9
     SuccessCriteria:
       - success criteria
