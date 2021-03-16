@@ -336,7 +336,7 @@ Above all else, metrics should be used as:
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* As an indicator of efficient, effective and healthy effort
 
 ##### !end-answer
 
