@@ -1,4 +1,4 @@
-# An Intro: Incorporating DevSecOps within the DoD
+# Incorporating DevSecOps within the DoD
 
 ## Learning Objectives
 
