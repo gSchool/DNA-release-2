@@ -78,7 +78,7 @@ Now to a few changes you may notice as you are working through:
 
  ##### !question
 
-I understand that all information within this course will need to be completed by 29 April 2021 **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 2 certificate of completion:
+I understand that all information within this course will need to be completed by 06 May 2021 **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 2 certificate of completion:
 
  ##### !end-question
 
