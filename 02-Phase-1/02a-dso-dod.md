@@ -16,7 +16,7 @@ Hopefully at this point many of you are:
 
 ### !callout-success
 
-##From Tory’s Perspective
+## From Tory’s Perspective
 The best part of this style of working? Realizing that your work is in the hands of users, and you can watch it happen! In a small way, you contribute to improving capability, and you get to watch code deploy the same day -- a gratifying experience, and why I love this job! We really do have the best mission.
 
 ### !end-callout
@@ -195,7 +195,7 @@ The mismatch of feedback loops for decisions occurs in every organization. DevSe
 
 Later sections will discuss metrics aiming to improve communication with leadership and stakeholders, but in the meantime, ask yourself- what changes when you apply DevSecOps methodologies? What new roles are introduced? Does it change acquisition roles?
 
-##Defining Software Acquisition Professionals and Software Practitioners
+## Defining Software Acquisition Professionals and Software Practitioners
 
 The DoD delivers software via a complex system. The visual below helps demonstrate how organizations within the Defense Acquisition System (DAS) deliver capability:
 
