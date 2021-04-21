@@ -48,7 +48,7 @@ Why focus on DevOps and not DevSecOps?
 **The answer:** DevOps and DevSecOps **should not** be thought of as separate methodologies, encompassing only two or
 three roles. Rather, _DevSecOps emphasizes the importance of security_, and _**is not**_ an elimination of other roles and functions that enable DevOps (DevSecOps).
 
-###DevOps as a Concept
+### DevOps as a Concept
 DevOps is a complex methodology that requires some nuance to fully understand. DevOps is structured on the foundation of these concepts:
 
 **Mindset → Values → Principles → Methods → Practices → Tools**
@@ -155,16 +155,16 @@ Place the following terms in order from less powerful (but often easy to adopt) 
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-##What is _**NOT**_ DevOps
+## What is _**NOT**_ DevOps
 Now let’s further define DevOps by discussing what it is _**not**_.
 
-###1.    It’s Not NoOps
+### 1.    It’s Not NoOps
 Automation is a practice of DevOps - that is, to automate predictable, routine, and well-known/understood tasks. But implementing DevOps will not take away your job. What it will take away, are the barriers preventing you from leveraging your talent and critical thinking skills in other areas.
 
-###2.    It’s Not (Just) Tools
+### 2.    It’s Not (Just) Tools
 DevOps (and Agile) tools are useful, but if you don’t know how or why you are using them, your results will be similar to an untrained pilot attempting to land a plane.
 
-###3.    It’s Not (Just) Culture
+### 3.    It’s Not (Just) Culture
 Culture is undoubtedly important- but think of culture as a shadow. it is observable, but not controllable. Culture is neither a barrier to change, nor does it encourage change- but it can provide hints to what an organization must learn.
 
 <span style="font-size:.8em">Source: Pflaeging, Niels. Organize for Complexity: How to Get Life Back into Work to Build the High-Performance Organization. BetaCodex Publishing, 2014.</span>
@@ -180,28 +180,28 @@ Although culture cannot be addressed directly, through implementation of the Dev
 
 ### !callout-warning
 
-##DevOps consists of multiple levels:
+## DevOps consists of multiple levels:
 
 Values → Principles → Methods → Practices → Tools.
 ### !end-callout
 
-###4.    It’s Not (Just) Dev and Ops
+### 4.    It’s Not (Just) Dev and Ops
 All participants creating a product or system should collaborate from the beginning. This is an umbrella term, meant to represent a collaborative approach.
 
-###5.    It’s Not (Just) a Job Title
+### 5.    It’s Not (Just) a Job Title
 Implementation cannot be achieved through rebranding a team as ‘DevOps’ or an individual by changing their job title to ‘DevOps Engineer’.
 
 ### !callout-danger
 
-##Again, DevOps consists of multiple levels:
+## Again, DevOps consists of multiple levels:
 
 Values → Principles → Methods → Practices → Tools.
 ### !end-callout
 
-###6.    It’s Not Everything
+### 6.    It’s Not Everything
 Be careful not to water down DevOps in an attempt to apply to a larger context. The intent is to apply DevOps concepts in order to achieve working systems that meet user needs.
 
-##DevOps and DoD Integration
+## DevOps and DoD Integration
 
 What It Feels Like to Live in a DevOps World
 >“Imagine living in a DevOps world, where business managers (acquisition professionals and requirements owners), product owners, Development, Quality Assurance, Operations, Security and Test work together relentlessly to help each other and the overall organization win. They are enabling fast flow of planned work into production (e.g., performing tens, hundreds, or even thousands of code deploys per day), while preserving world-class stability, reliability, availability, and security.
@@ -306,7 +306,7 @@ After comparing your answer to some of the strategies provided in the student ex
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-###DoD Acquisitions and Contracting Applications
+### DoD Acquisitions and Contracting Applications
 
 A hallmark of DevOps is everyone within the value stream working together to achieve a common goal. Below we define DevOps (DevSecOps) in the DoD context.
 
@@ -318,7 +318,7 @@ The Program Management Office (PMO) _**is PART OF**_ the value stream.
 
 ### !callout-warning
 
-##Real Impact
+## Real Impact
 
 Contracting actions performed by PMOs have large impacts. In a [2018 GAO report](https://blog.gao.gov/2019/05/28/federal-government-contracting-for-fiscal-year-2018-infographic/), the DoD contracted
 $358.3B for goods and services. The FY18 DoD budget was $668B. Our contracts across the DoD represent:
@@ -376,11 +376,11 @@ Which helpful strategies that you could implement align to the goals of DevOps?
 <!-- ======================= END CHALLENGE ======================= -->
 
 
-##Final Thoughts
+## Final Thoughts
 
 Moving forward, we will use DevSecOps to refer to the values, principles, methods, practices and tools discussed in this lesson. The DoD DevSecOps Reference Design promotes DevSecOps as the preferred implementation and way to reference this way of working.
 
-##Resources
+## Resources
 * ARTICLE: Basis of lesson:  https://theagileadmin.com/what-is-devops/
 * BOOK: The Phoenix Project: a Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
 * DoD DOCUMENT: https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583
