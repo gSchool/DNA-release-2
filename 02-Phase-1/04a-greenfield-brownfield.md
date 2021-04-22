@@ -103,14 +103,14 @@ Select the following statements that are true regarding DevSecOps.
 
 <span style="font-family:script; font-size:2em">KEY TAKEAWAY: Great software can be built whether it starts as greenfield or brownfield.</span>
 
-###Industry Examples: Greenfield Beginnings
+### Industry Examples: Greenfield Beginnings
 We have all heard that we need to adopt best commercial and/or industry practices. When deciding which commercial and/or industry practices to apply, it may be frustrating to hear this again, but it depends. All practices are not always applicable!
 
 Some additional industry greenfield examples include: LinkedIn, Spotify, Pinterest, SpaceX, and Dropbox.
 
 These examples are start-ups- they identified an untapped opportunity in the market and quickly expanded to become a household name. These companies are also referred to as unicorns. [In 2019, the failure rate of startups was around 90%.](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp)
 
-###Industry Examples: Brownfield Beginnings
+### Industry Examples: Brownfield Beginnings
 
 Brownfield projects are prolific in industry. Examples of brownfields are not just start-ups that have been successful and must maintain their business, but also companies and industries that are also trying to digitally transform to remain competitive in their respective fields. Banking, healthcare, insurance and education all have decades of technology to contend with, and unicorn startups have become household names- to remain competitive they must constantly modernize.
 
