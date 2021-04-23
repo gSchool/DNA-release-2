@@ -1,4 +1,4 @@
-# Intro: Greenfield and Brownfield
+# Greenfield and Brownfield
 
 ## Learning Objectives
 
