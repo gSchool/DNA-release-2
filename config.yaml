@@ -65,6 +65,10 @@ Standards:
         UID: 4693c85b-5b3a-4696-bcc5-c56b8a268260
         Path: /02-Phase-1/99-checkpoint.md
         MaxCheckpointSubmissions: 1
+      -
+        Type: Survey
+        UID: e12c6ad7-aab0-4b02-af42-6d5c6dffcd20
+        Path: /02-Phase-1/99-survey.survey.md
   -
     Title: Phase 2
     Description: Self-paced material for the second week of the class
