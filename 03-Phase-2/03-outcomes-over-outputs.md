@@ -60,7 +60,7 @@ To best understand outcomes vs. outputs, let’s run through some examples:
 
 * type: multiple-choice
 * id: 2462282c-5296-48e4-b3a6-906839b7e4ca
-* title: Outcome or Output?
+* title: Outcome or Output
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -98,7 +98,7 @@ A new environment for the product is an:
 
 * type: multiple-choice
 * id: 43776623-9879-4909-b732-2ec5033fbe88
-* title: Outcome or Output?
+* title: Outcome or Output
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -136,7 +136,7 @@ The number of customer service reps attending training is an:
 
 * type: multiple-choice
 * id: ee3a86c6-566c-4580-82ad-23bf16959a71
-* title: Outcome or Output?
+* title: Outcome or Output
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -174,7 +174,7 @@ Maintaining compliance with new DoD regulations, incorporating licensing require
 
 * type: multiple-choice
 * id: fdeed7f5-1801-4d5c-a898-fc6c47d39090
-* title: Outcome or Output?
+* title: Outcome or Output
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -212,7 +212,7 @@ Cleaning up impediments to support future improvements is an:
 
 * type: multiple-choice
 * id: 2bc3c14d-4bca-4a54-a290-4e75ebbf4a3f
-* title: Outcome or Output?
+* title: Outcome or Output
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -250,7 +250,7 @@ The number of customer service calls closed out is an:
 
 * type: multiple-choice
 * id: baeb6ec3-3e4f-49f3-a59f-5800ded21c17
-* title: Outcome or Output?
+* title: Outcome or Output
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -292,6 +292,32 @@ Let’s put it in another light:
 
 <p style="text-align:center">The daily tasks you complete are outputs, not outcomes.<br>      
 If you can’t connect your work to a measurable outcome, should you be doing it at all?</p>
+### !challenge
+
+* type: paragraph
+* id: 924e1089-1c90-485a-a1da-70efa7950e8e
+* title: Measurable Outcome
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If you can not connect your work to a measurable outcome should you be doing it at all? Why or Why not?
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
 
 If you are reading this and see yourself or your leadership style focused on outputs and not lacking the tie into the strategic imperative, this next section is for you.
 
@@ -336,6 +362,42 @@ The key to alignment is to communicate priorities across all organizations, so e
 OKRs enable a data driven culture by creating a recurring check-in model for how we are meeting individual, team, and organizational goals. OKRs also drive accountability when achieving outcomes, and promotes a deliberate dialogue of potential accomplishments. This organizational feedback cycle is psychologically safe, and void of judgment.
 ###4.   Amazing  
 You might be thinking, “How weird...AMAZING. Whatever do you mean?” Step back for a moment and think back through the past three points- FOCUS, ALIGNMENT, ACCOUNTABILITY...when all of these come together, we are motivated to excel, and test our limits. We have freedom to fail, feel psychological safety to recover from that failure, and most importantly, we push ourselves beyond a checklist and as a person. We are striving to create the most creative and ambitious mindsets, to solve some of the largest problems our nation faces.  That is AMAZING!
+
+### !challenge
+
+* type: multiple-choice
+* id: 0220f7d1-7adf-49b1-9d10-ca8a34560b0f
+* title: OKR's
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+When defining OKR’s _______________ helps you understand the What is to be achieved?
+
+##### !end-question
+
+##### !options
+
+* Key Results
+* Objectives
+* Tasks
+
+##### !end-options
+
+##### !answer
+
+* Objectives
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
 
 OKRs can help you understand outcomes and outputs and how those align to your north star. Let’s break down how each area can support your adoption of OKRs or other similar models.  
 

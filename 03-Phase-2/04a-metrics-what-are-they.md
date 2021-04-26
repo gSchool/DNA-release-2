@@ -36,9 +36,9 @@ This is an introduction to this topic. We have two metric sections, and we are s
 >
 > <span style="clear:both">&nbsp;</span>
 
-An alternative to the above quote is, you manage what you measure. **Metrics matter** - they impact individual and team behavior alike. In Release 1, we asked you the current measure of progress in your organization. Overwhelmingly, many of you stated obligations and expenditures, or planning documents. Take a minute and ask yourself- what unintended consequences do these current metrics cause?
+An alternative to the above quote is, you manage what you measure. **Metrics matter** - they impact individual and team behavior alike. In Module 1, we asked you the current measure of progress in your organization. Overwhelmingly, many of you stated obligations and expenditures, or planning documents. Take a minute and ask yourself- what unintended consequences do these current metrics cause?
 
-Some answers that come to mind: overemphasis on obligation and expenditures (spending money) vice valuable capability delivery or planning vice execution.
+Some answers that come to mind: overemphasis on obligation and expenditures (spending money) versus valuable capability delivery or planning vice execution.
 
 Now, let’s dig into metrics. Specifically, we are interested in what makes a good metric, and how to generate common understanding by facilitating discussions with stakeholders and leadership to enhance the goal of a metric.
 
@@ -77,6 +77,49 @@ A _**quantitative metric**_ is easy to understand, and involves hard numbers but
 A _**qualitative metric**_ is messy, subjective, imprecise, and is not measured easily.
 * This is why engagement with users (user interviews) are vital to begin to define this metric, and refine over time
 * Answers a ‘why’
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: fac88f5a-188b-4ad0-a933-f05585127f5a
+* title: Qualitative vs. Quantitative Metrics
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Qualitative metrics are:
+
+##### !end-question
+
+##### !options
+
+* Subjective and often imprecise
+* Easy to understand and hard numbers
+* Make decisions
+* Typically identified through user engagement
+
+##### !end-options
+
+##### !answer
+
+* Subjective and often imprecise
+* Typically identified through user engagement
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 
 ![Qualitative vs Quantitative](__images/04a_01_Product_Development.png)
 
@@ -138,47 +181,6 @@ Vanity metrics have no value and should not be collected.
 #### !hint
 Although they may not be actionable, they still can help to demonstrate progress - be cautious to over rely on vanity metrics for multiple consecutive reporting periods.
 #### !end-hint
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: checkbox
-* id: fac88f5a-188b-4ad0-a933-f05585127f5a
-* title: Qualitative vs. Quantitative Metrics
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-**Select all that apply**. Qualitative metrics are:
-
-##### !end-question
-
-##### !options
-
-* Subjective and often imprecise
-* Easy to understand and hard numbers
-* Make decisions
-* Typically identified through user engagement
-
-##### !end-options
-
-##### !answer
-
-* Subjective and often imprecise
-* Typically identified through user engagement
-
-##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->

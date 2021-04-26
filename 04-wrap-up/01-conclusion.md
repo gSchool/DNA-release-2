@@ -9,7 +9,7 @@ After the final in-person session, please remember to take the Post-Assessment a
 
 ## Next Steps
 
-We will contact you when Release 3 is ready to go.
+We will contact you when Module 3 is ready to go.
 
 ## Reading List
 * _Making Work Visible: Exposing Time Theft to Optimize Work and Flow_ by Dominica DeGrandis

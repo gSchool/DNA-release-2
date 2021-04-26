@@ -97,7 +97,7 @@ So many technical details must all work together to meet your system capability 
 
 Don’t be afraid to make choices and move on! Keep in mind, there is rarely a single optimal technology choice to satisfy a need- many options will usually be “good enough”. When choosing technology, it's worthwhile to remember that Voltaire once said, “Perfect is the enemy of good.” Similarly, Robert Watson-Watt, the developer of Britain's early warning radar in WWII said "Give them the third best to go on with; the second best comes too late, the best never comes."   
 
-For those less comfortable with technology decisions, that’s the benefit of a DevSecOps team- other members are there to support you! With that said, it’s important to provide some insight into the different types of technology tradeoff decisions you and your team might make. Release 3 and 4 will go into more detail.  
+For those less comfortable with technology decisions, that’s the benefit of a DevSecOps team- other members are there to support you! With that said, it’s important to provide some insight into the different types of technology tradeoff decisions you and your team might make. Module 3 and 4 will go into more detail.  
 
 Attempting perfection in every choice defers delivery indefinitely. Instead, have a thorough understanding of the choices you make, and be ready to reevaluate them. Then prepare to potentially exchange underlying technology in your design when more effective or modern alternatives emerge, or if you need capability that you don’t currently have available. These recommendations lead us next to our discussion - technical debt.  
 

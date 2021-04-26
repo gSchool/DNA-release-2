@@ -72,6 +72,45 @@ A ten-minute task probably doesn’t need to be tracked unless one of the follow
    * Creating a card on a Kanban board is a one or two minute task, posing a low level of overhead, that greatly improves cross-team communication
 1. **Someone’s primary job function involves completing tasks lasting fifteen minutes or less (Thief: Too Much WIP)**
    * When tasks are fifteen minutes or less, they are difficult to track using Kanban, meaning that person’s work is invisible. This makes it too easy to over-task an individual.
+### !challenge
+
+* type: checkbox
+* id: 1b6fdc15-3dfa-4e05-925c-6e1a9c9843d4
+* title: Making Work Visible 1
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What four categories are needed when making work visible?
+
+##### !end-question
+
+##### !options
+
+* Structure
+* Usefulness
+* Relevance
+* Honesty
+* Kanban board
+
+##### !end-options
+
+##### !answer
+
+* Structure
+* Usefulness
+* Relevance
+* Honesty
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
 
 #### !callout-secondary
 
@@ -130,6 +169,53 @@ KEEP IT SIMPLE.
 
 #### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 2cbbb437-26cc-417d-a6ce-b138fc4d6711
+* title: Kanban
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What are the reasons that a ten-minute task should be tracked in your Kanban?
+
+##### !end-question
+
+##### !options
+
+* Only one person can complete the task
+* To show that your team is busy
+* The work impacts other teams
+* Most of the work performed by a person is less than 10 minutes and is invisible to the organization
+
+##### !end-options
+
+##### !answer
+
+* Only one person can complete the task
+* The work impacts other teams
+* Most of the work performed by a person is less than 10 minutes and is invisible to the organization
+
+##### !end-answer
+
+#### !hint
+Is our goal to show that we are at 100% workload capacity
+#### !end-hint
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+
 A Kanban should be adapted to **YOUR** workflow - and it may need to be further divided to show transitions. Here is an example of how the Digital DNA team is using a Kanban to support their workflow (this is only a portion of our Kanban): 
 
 ![trello](__images/02_03_trello.png)
@@ -154,6 +240,48 @@ If you are already using a Kanban (or intend to now that we have convinced you o
 To increase communication, you can further subdivide your Kanban board using horizontal columns, based on different types of work, or you can introduce another column type (typically under unplanned work) known as “hot tasks” from leadership or stakeholders. You can also set WIP limits when using your Kanban board. WIP limits can be per column, per work-item, per function, etc. These are just some of the options, and because each team and project is different, no Kanban board will always look or operate the same as another.
 
 Again, the goal of a Kanban is to communicate across team workflows, help manage individual and team workload, and use the resulting data to inform leaders and stakeholders. A properly implemented Kanban board will help support awkward conversations about delays, inform process improvements, and expose the Five Thieves of Time, among other things. 
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: f5996f14-c5a0-4292-880c-9a3fdf64fcad
+* title: Top Thief of Time
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which Thief of time infiltrates all others?
+
+##### !end-question
+
+##### !options
+
+* Flow of Work
+* Making Work Visible
+* WIP
+* Prioritization
+
+
+##### !end-options
+
+##### !answer
+
+* WIP
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## <span style="font-size:2em">3.</span> Measure and manage the flow of work
 
@@ -182,15 +310,75 @@ Protect your time and your team’s time by designating specific “Do Not Distu
 #### !end-callout
 
 Working humans use various tools to keep in touch and communicate- emails, Slack, Microsoft Teams, Mattermost, Text Messages, phone calls, etc. All are distracting, and while we may not have cubicle “drop by visits” in this primarily telework environment, there are plenty of work disruptions or distractions. We highly recommend (the learning guides implement this as well) blocking off calendars for uninterrupted work time. This prevents disruptions and distractions, and increases productivity. 
+### !challenge
+
+* type: multiple-choice
+* id: b9a4ce39-8de2-434b-9138-7124b40bd21a
+* title: Flow of Work
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you believe that enhancing observability has the ability to positively impact the flow of work?
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !challenge
+
+* type: paragraph
+* id: 07e0c2f5-fdfa-48bc-aa86-a7c0ff735852
+* title: Flow of Work Pt 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Explain your answer to the previous question
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
 
 ## <span style="font-size:2em">4.</span> Prioritize effectively
 Remember how we said that Too Much WIP infiltrates all other thieves? People take on more WIP when they are unclear on priorities.
 
 So what are some ways to prioritize work:
 * **Highest paid person’s opinion (HiPPO)**: Each job is assigned a priority by the most senior person in charge
-* **Cost of delay**: A measure of the impact of time on the outcomes we want, a preview to our next section on Outcomes over Outputs
+* **Cost of Delay**: A measure of the impact of time on the outcomes we want, a preview to our next section on Outcomes over Outputs
 * **First-in, First-out (FIFO)**: Simple as it sounds - first in, first worked. Note there is also a reverse, last in first out.
-* **Weighted shortest job first (WSJF)**: Preference to the shortest job with the highest Cod. WSJF is calculated by dividing the CoD by job duration. NOTE: The Scaled Agile Framework (SAFe) model uses a variant of WSJF
+* **Weighted shortest job first (WSJF)**: Preference to the shortest job with the highest CoD. WSJF is calculated by dividing the CoD by job duration. NOTE: The Scaled Agile Framework (SAFe) model uses a variant of WSJF
 
 Whichever way you prioritize your work, it is essential to document your strategy. Documenting your prioritization strategy helps to inform improvements, track decisions, and creates more effective communication.
 
@@ -200,7 +388,7 @@ One tool for breaking down objectives to inform priorities is the A3 Method:
 
 The A3 Method helps to ensure continuous improvement - the report above shows an outline and activities within each section. If you wish to learn more about this method, simply Googling the term “A3 method” will provide additional resources. Again, it serves as documentation - what is believed at a point in time, and the actions taken to improve.
 
-As we discussed in Release 1, committing yourself and your team to prioritizing work and implementing tools like the A3 method could all be worthwhile discussions in support of a team retrospective (retro). 
+As we discussed in Module 1, committing yourself and your team to prioritizing work and implementing tools like the A3 method could all be worthwhile discussions in support of a team retrospective (retro). 
 
 ## <span style="font-size:2em">5.</span> Make Adjustments Based on Learning, Feedback and Metrics
 
@@ -251,89 +439,6 @@ Also, this is a great visual to help show leadership - it garners buy-in, and su
 This is just the beginning of this conversation. Implementing and visualizing your workflow is an ongoing process- hopefully we have clearly demonstrated its value, not only from a team perspective but also from a data-driven, decision-making role within a team. Implementation and visualization are the building blocks of establishing feedback loops within your organization that will allow for you to continually improve. 
 
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: checkbox
-* id: 2cbbb437-26cc-417d-a6ce-b138fc4d6711
-* title: Kanban
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-**Select all that apply.** What are the reasons that a ten-minute task should be tracked in your Kanban?
-
-##### !end-question
-
-##### !options
-
-* Only one person can complete the task
-* To show that your team is busy
-* The work impacts other teams
-* Most of the work performed by a person is less than 10 minutes and is invisible to the organization
-
-##### !end-options
-
-##### !answer
-
-* Only one person can complete the task
-* The work impacts other teams
-* Most of the work performed by a person is less than 10 minutes and is invisible to the organization
-
-##### !end-answer
-
-#### !hint
-Is our goal to show that we are at 100% workload capacity
-#### !end-hint
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: f5996f14-c5a0-4292-880c-9a3fdf64fcad
-* title: WIP
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Too much Work in Progress infiltrates all the other time thieves.
-
-##### !end-question
-
-##### !options
-
-* True
-* False
-
-##### !end-options
-
-##### !answer
-
-* True
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 

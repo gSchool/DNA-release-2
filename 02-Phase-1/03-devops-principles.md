@@ -20,7 +20,7 @@ NOTE: This is part of the course content
 
 #### !callout-info
 
-##Note
+## Note
 To supplement this lesson, we use part of the Agile Software Training
 Program available on Coursera via a DAU/Coursera Partnership. **Current** DoD Acquisition
 professionals (civilian and military) can gain access and receive certificates for class/curriculum
@@ -152,7 +152,7 @@ The only true failure is not learning from your mistakes. To learn from our mist
 
 #### !callout-warning
 
-##Reminder
+## Reminder
 Keep in mind an important aspect of these experiments is success and failures (stumbling or roadblocks) occur to the ENTIRE team.
 #### !end-callout
 
@@ -298,25 +298,25 @@ NOTE: This is part of the course content
 ### !end-callout
 
 
-####1. Partially Done Work
+#### 1. Partially Done Work
    * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user- this shift in mindset is part of the solution. It also ensures capabilities and team structures are in place enabling people to finish what they’ve started. Reducing dependencies between teams and boosting autonomy within teams is a powerful way to address this.
 
-####2. Extra Unnecessary Features
+#### 2. Extra Unnecessary Features
    * **DevSecOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘little and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
 
-####3. Relearning and Refactoring
+#### 3. Relearning and Refactoring
    * **DevSecOps solution**: Making work visible is a core tenet of DevSecOps, and one of the most effective ways to reduce relearning waste. Conversations about work become more focused and effective, as do review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
 
-####4. Handoffs
+#### 4. Handoffs
    * **DevSecOps solution**: Small, multiskilled, product-centric teams are central to DevSecOps ways of working. This eradicates the siloed structure that necessitates multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
 
-####5. Delays
+#### 5. Delays
    * **DevSecOps solution**: Many organizations have a complex web of interdependencies between different teams and departments. People are reliant on actions or input from others to complete an item of work, so it’s hard to predict – or control – how long any given task will take to complete. Mapping where those dependencies lie, then taking steps to streamline and simplify processes deliver significant improvements here.
 
-####6. Task Switching
+#### 6. Task Switching
    * **DevSecOps solution**: Delays and unplanned work are two of the worst culprits for generating this type of waste. Taking a more sophisticated approach to operations helps here, via developer self-service, automation, reusable templates, and InnerSource models. Check out [this blog](https://www.devopsgroup.com/blog/modern-operations-five-foundational-pillars/) on the topic.
 
-####7. Defects
+#### 7. Defects
    * **DevSecOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, resulting in lengthy handoffs, delays, and unplanned work.
 
 ### How This Applies to Procurement

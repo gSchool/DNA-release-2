@@ -1,43 +1,33 @@
-# Part B Checkpoint
-
-Welcome to your Module 2 Phase B knowledge checkpoint, the instructors will be corresponding with you on your answers once submitted.
-
+#Survey
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
-* type: checkbox
-* id: 9744ab83-2c91-4918-b30e-263adbee4e65
-* title: Five Thieves
+* type: multiple-choice
+* id: f0ac8296-e4b8-40e8-88cf-49ade410cad5
+* title: Application
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What are the Five Thieves of time?
+I am committed to applying what I learned in Module 2 Part A to my work:
 
 ##### !end-question
 
 ##### !options
 
-* Too Much Work-in-Progress
-* Unknown Dependencies
-* Work getting done to fast
-* Unplanned Work
-* Conflicting Priorities
-* Optimized processes
-* Neglected Work
-
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 ##### !end-options
 
 ##### !answer
 
-* Too Much Work-in-Progress
-* Unknown Dependencies
-* Unplanned Work
-* Conflicting Priorities
-* Neglected Work
+* *
+
 
 ##### !end-answer
 
@@ -55,29 +45,31 @@ What are the Five Thieves of time?
 ### !challenge
 
 * type: multiple-choice
-* id: 097e0dc4-e69a-42c6-85ac-b4a956194d65
-* title: Five Thieves 2
+* id: 71de174e-85ca-459a-94f7-7024524224c5
+* title: Effective Learning
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Identify which 5 Thieves of time are relevant when only one person can execute a task on the Kanban board:
+The learning materials in Module 2 part A, supported effective learning:
+
 
 ##### !end-question
 
 ##### !options
 
-* Too Much Work-in-Progress
-* Unknown Dependencies
-* Work getting done to fast
-* Unplanned Work
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 
 ##### !end-options
 
 ##### !answer
 
-* Unknown Dependencies
+* *
+
 
 ##### !end-answer
 
@@ -95,30 +87,29 @@ Identify which 5 Thieves of time are relevant when only one person can execute a
 ### !challenge
 
 * type: multiple-choice
-* id: ddd98b3d-c62d-4906-916d-9e9b2820fadf
-* title: Five Thieves 3
+* id: df779266-878b-490c-9608-bb30c84eba3e
+* title: Rhythm
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What  infiltrates all the other time thieves?
-
+I am settling into a rhythm with Digital DNA and the time commitment required:
 
 ##### !end-question
 
 ##### !options
 
-* Too Much Work-in-Progress
-* Unknown Dependencies
-* Work getting done to fast
-* Unplanned Work
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree 
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
-
-* Too Much Work-in-Progress
+* *
 
 ##### !end-answer
 
@@ -136,29 +127,29 @@ What  infiltrates all the other time thieves?
 ### !challenge
 
 * type: multiple-choice
-* id: 47828d05-a33b-4fe6-864b-19c265413365
-* title: OKRs 1
+* id: 3b01346d-3c9c-496d-b158-da5f7cac5849
+* title: Overloaded
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Objectives help you understand the:
+I feel overloaded by the time commitment of Module 2 part A
 
 ##### !end-question
 
 ##### !options
 
-* Why
-* When
-* How
-* What
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
-
-* What
+* *
 
 ##### !end-answer
 
@@ -176,116 +167,29 @@ Objectives help you understand the:
 ### !challenge
 
 * type: multiple-choice
-* id: 43b9b1ae-90c5-4f69-ad12-83dc3001a8f9
-* title: OKRs 2
+* id: 5ae3d292-9e1d-40df-85e7-68afa41b99ee
+* title: Work Hours
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Key Results help you understand the:
+I completed a majority of Module 2 part A during normal work hours
 
 ##### !end-question
 
 ##### !options
 
-* Why
-* When
-* How
-* What
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
-
-* How
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: checkbox
-* id: 521438f7-d30c-490f-a3a7-b706ca0fadbb
-* title: Metrics
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Ideal metrics:
-
-##### !end-question
-
-##### !options
-
-* Are clearly defined
-* Make you feel good
-* Are objective
-* Are measurable
-* Change your behavior
-* Support decision-making
-
-##### !end-options
-
-##### !answer
-
-* Are clearly defined
-* Are objective
-* Are measurable
-* Change your behavior
-* Support decision-making
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: checkbox
-* id: 106985e6-faf0-47bd-865c-8c5b3fbb9498
-* title: Playbooks
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Playbooks should be:
-
-##### !end-question
-
-##### !options
-
-* Novels
-* Annotated to the target audience
-* Recommended actionable practices that have been effective
-* A silver bullet
-
-##### !end-options
-
-##### !answer
-
-* Annotated to the target audience
-* Recommended actionable practices that have been effective
+* *
 
 ##### !end-answer
 
@@ -303,29 +207,31 @@ Playbooks should be:
 ### !challenge
 
 * type: multiple-choice
-* id: 0bc1849b-89cd-4a93-bca5-41887c0e9a93
-* title: Metrics 2
+* id: b4ff6ce8-8dcf-4862-9ac2-4fc15afd81dd
+* title: Comfort
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-When we track the cost of changes, including the speed and quality of delivery, we are tracking:
+I feel comfortable with the time commitment that Module 2 part A required
 
 ##### !end-question
 
 ##### !options
 
-* Effectiveness
-* Health
-* Velocity
-* Efficiency
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
 
-* Efficiency
+* *
+
 
 ##### !end-answer
 
@@ -342,31 +248,29 @@ When we track the cost of changes, including the speed and quality of delivery, 
 
 ### !challenge
 
-* type: checkbox
-* id: d4437b91-b862-477c-b2e1-9077d88ee70a
-* title: Testing
+* type: multiple-choice
+* id: 6b0a64ff-8fd0-45f7-b6de-8c0f885e7973
+* title: Office Hours
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-The goal of Developmental Testing is to:
+I dialed in to speak with the instructors during their office hours:
 
 ##### !end-question
 
 ##### !options
 
-* Ensure the system is operational
-* Verify the system
-* Answer the question: "Did I build the system right?"
-* Answer the question: "Is the system operationally effective, suitable, and survivable?"
-
+* Yes
+* They had office hours available?
+* No
 ##### !end-options
 
 ##### !answer
 
-* Verify the system
-* Answer the question: "Did I build the system right?"
+* *
+
 
 ##### !end-answer
 
@@ -383,35 +287,214 @@ The goal of Developmental Testing is to:
 
 ### !challenge
 
-* type: checkbox
-* id: c3a4d96b-45a2-4ab2-a78a-580d2e67cb36
-* title: DevOps
+* type: paragraph
+* id: cc8ad175-5e4f-48bc-9412-89767c43ced1
+* title: Takeaways
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-A balanced DevOps team should certainly include support from:
+What were your 3 takeaways from Module 2 part A, that you can incorporate into your day to day work?
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: b382d7ba-9b0b-40a5-8d31-1a4323fee9da
+* title: Changes
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If you could make 2-3 changes to Module 2 part A, what would they be?
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 44aa44a8-f3f1-4d0c-8811-6bf4592d31c8
+* title: Recommend Training
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Would you recommend Module 2 part A of Digital DNA to a coworker? If yes, feel free to email them the digital DNA registration link: https://learn-2.galvanize.com/cohorts/2429
+
 
 ##### !end-question
 
 ##### !options
 
-* Testing
-* Security
-* Development
-* Operations
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
 
-* Testing
-* Security
-* Development
-* Operations
+* *
+
 
 ##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: d39f5ac4-28d4-4a79-b0a6-687bf2cd062c
+* title: Learning
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 2 Part A did you learn the MOST from?
+
+##### !end-question
+
+##### !options
+
+* The Emergence and Origin Story of DevOps and Applicability
+* Incorporating DevSecOps within the DoD
+* DevSecOps Organizations, Competencies and Teams
+* CALMS, the Three Ways of DevSecOps, and the Seven Principles of Wastes
+* Greenfield and Brownfield
+* Software Architecture--Microservices, Strangler Pattern and APIs
+* Understanding Technology’s Role
+##### !end-options
+
+##### !answer
+
+* *
+
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 7437259f-120f-473b-bc84-7adc62780555
+* title: Learning
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 2 Part A did you learn the LEAST from?
+
+##### !end-question
+
+##### !options
+
+* The Emergence and Origin Story of DevOps and Applicability
+* Incorporating DevSecOps within the DoD
+* DevSecOps Organizations, Competencies and Teams
+* CALMS, the Three Ways of DevSecOps, and the Seven Principles of Wastes
+* Greenfield and Brownfield
+* Software Architecture--Microservices, Strangler Pattern and APIs
+* Understanding Technology’s Role
+##### !end-options
+
+##### !answer
+
+* *
+
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: f09df085-9172-4fa0-bafd-55207db1ca82
+* title: Anything Else
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Is there anything else you'd like us to know?
+
+##### !end-question
+
+##### !placeholder
+
+
+
+##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->

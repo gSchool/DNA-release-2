@@ -178,26 +178,26 @@ In this lesson we learned that delivering higher quality in a more sustainable w
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-##Procurement Considerations
+## Procurement Considerations
 
-Recognizing the power of our community, and that the term "community" encompasses the entirety of the DoD is important. To bridge the gap between change agents and early adopters, the organization requires that we share our knowledge, the lessons we have learned, and the intrinsic value of those things with the entire organization. At the end of the day, our mission doesn’t care which SAE, PEO, Program, Program Manager, or Software Factory delivered the product - they care about having access to the tools necessary to execute their mission as they are charged to do.
+Recognizing the power of our community, and that the term "community" encompasses the entirety of the DoD is important. To bridge the gap between change agents and early adopters, the organization requires that we share our knowledge, the lessons we have learned, and the intrinsic value of those things with the entire organization. At the end of the day, our mission doesn’t care which SAE, PEO, Program, Program Manager, or Software Factory delivered the product - they care about having access to mission-ready tools  to execute the missions they serve.  
 
 ### !callout-success
 ## TEAM
-Remember- the DoD is not a single program or service, it's **composed of many that make up the whole**.  Finding ways to reduce duplication of common services and partners will ensure that we leap over the chasm and succeed together!
+Remember- the DoD is **not** a single program or service, it's **composed of many, that make up the whole**.  Finding ways to reduce duplication of common services and partners will ensure that we leap over the chasm and succeed together!
 
 <span style="font-family: script; font-size:2em;">Together Everyone Achieves More (T.E.A.M)</span>
 ### !end-callout
 
 Evolving our mentality and approach means realizing everyone starting from scratch is **not scalable**. Ask yourself how you can change the way you collaborate across services, programs, and PEOs today.
 
-Below are a few strategies acquisitions teams may use when building their DevOps teams. Release 3 will discuss in more detail.
+Below are a few strategies acquisitions teams may use when building their DevOps teams. Module 3 will discuss in more detail.
 
-###DIGITAL SERVICES DEVELOPERS - (ORGANIC)
+### DIGITAL SERVICES DEVELOPERS - (ORGANIC)
 
 _When an organization has already built a team_ to support digital service development, they call in seasoned product managers, engineers, and UX/UI designers to develop those services. Personnel involvement is predicated on the scope and type of digital services rendered (architects, security pros, testers, deployment engineers are all possible roles as well).
 
-###DIGITAL SERVICES DEVELOPERS - (Professional Service Vendors)
+### DIGITAL SERVICES DEVELOPERS - (Professional Service Vendors)
 
 _When an organization requires outside assistance_, acquisitions teams work in conjunction with private and/or government sector organizations to understand how to evaluate third-party technical competencies, so organization members are paired with vendors who are competent with both building and delivering effective digital services.
 

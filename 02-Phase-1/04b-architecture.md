@@ -1,4 +1,4 @@
-# Intro: Software Architecture--Microservices, Strangler Pattern and APIs
+# Software Architecture--Microservices, Strangler Pattern and APIs
 
 ## Learning Objectives
 
