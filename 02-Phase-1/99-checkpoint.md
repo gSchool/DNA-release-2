@@ -79,17 +79,6 @@ Write your definition here.
 
 ##### !end-placeholder
 
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-#### !explanation
-DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle, incorporate automation and  learning to provide continuous delivery with high software quality.
-
-Taking it further: It is a software engineering culture and practice that aims at unifying software development (Dev) and software operation (Ops). The main characteristic of the DevOps movement is to strongly advocate automation and monitoring at all steps of software construction, from integration, testing, releasing to deployment and infrastructure management. DevOps aims at shorter development cycles, increased deployment frequency, and more dependable releases, in close alignment with business objectives.
-
-DevOps is NOT ENOUGH! DevSecOps is what must be implemented with the cybersecurity stack built-in into the DevOps pipeline.
-#### !end-explanation
-
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
@@ -141,15 +130,6 @@ DevOps is NOT ENOUGH! DevSecOps is what must be implemented with the cybersecuri
 * title: DevOps details
 * topics: DevOps
 * points: 3
-
-##### !question
-
-
-* type: multiple-choice
-* id: e491eb38-f4e0-4384-8667-f4ab8c840bdc
-* title: Cloud
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 Which of the following statements about DevOps are true?
@@ -215,6 +195,8 @@ What are the core advantages of implementing a DevOps Team?
 * Get feedback for a new release faster
 * Allows newer technology
 
+#### !end-answer
+
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
@@ -268,7 +250,7 @@ Which of the following statements about Project Management are true?
 
 * type: checkbox
 * id: 49a2e51d-b916-4948-a8eb-f3b677a799c5
-* title: Project Management vs. Product Management
+* title: Program Management vs. Product Management
 * points: 3
 * topics: Project Management
 
@@ -310,7 +292,7 @@ Which of the following statements about product management are **not correct**?
 ### !challenge
 
 * type: multiple-choice
-* id: 414483ba-373e-4842-b041-de4f7d0b1447
+* id: 077705e3-e33b-47e3-9489-cb9c9d932a3f
 * title: Cloud Familiarity
 * points: 3
 * topics: Cloud
@@ -413,35 +395,34 @@ Taking it further: These servers (the network of computers) are designed to eith
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: baa9143e-bc92-4d4f-a77a-4a096d73e30c
-* title: Fill in the blank
+* id: ae272fef-0fda-4ca6-9ec3-a20faa16640a
+* title: Technology Stack Familiarity
 * points: 3
+* topics: Tech Stack
 
 ##### !question
 
-____________________ bring together people, process, and technology to enable an end-to-end experience. It is when an organization has already built a team to support digital service development, they call in seasoned product managers, engineers, and UX/UI designers to develop those services. Personnel involvement is predicated on the scope and type of digital services rendered (architects, security pros, testers, deployment engineers are all possible roles as well).
+Rate your level of familiarity with Technology Stack.
+
 ##### !end-question
 
 ##### !options
 
-* Digital Services (organic)
-* Brown Field
-* Open source
-* Digital Services Developers - (Professional Service Vendors)
-* Greenfield
+* Very Familiar/Confident
+* Moderately Familiar/Confident
+* Not Familiar/Confident
 
 ##### !end-options
 
 ##### !answer
 
-* Digital Services (organic)
+* *
 
 ##### !end-answer
 
@@ -552,3 +533,361 @@ _________________ bring together people, process, and technology to enable an en
 * Digital Services (organic)
 
 ##### !end-answer
+
+### !end-challenge
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: a7f5278e-c984-43e2-8d1e-fb9978a840cc
+* title: Open Source Familiarity
+* points: 3
+* topics: Tech Stack
+
+##### !question
+
+Rate your level of familiarity with Open Source.
+
+##### !end-question
+
+##### !options
+
+* Very Familiar/Confident
+* Moderately Familiar/Confident
+* Not Familiar/Confident
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: 7ef374ed-a174-45dc-bf68-c3e2fe7f4ef3
+* title: Open Source Definition
+* points: 3
+* topics: Open Source
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+In your own words, how would you define Open Source?  
+
+##### !end-question
+
+##### !placeholder
+
+Write your definition here.
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 4e3729a4b-8e76-4df3-a2df-0897130f0ae0
+* title: Self-Evaluate Open Source
+* points: 3
+* topics: Tech Stack
+
+##### !question
+
+**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
+
+> The term open source refers to something people can modify and share because its design is publicly accessible.
+
+<Br></Br>Taking it further: The term originated in the context of software development to designate a specific approach to creating computer programs. Today, however, "open source" designates a broader set of values—what we call "the open source way." Open source projects, products, or initiatives embrace and celebrate principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development.
+
+##### !end-question
+
+##### !options
+
+* Very similar
+* Moderately similar -- missing one or two key components
+* Not Similar - the two definitions are widely different
+
+##### !end-options
+
+##### !answer
+
+*
+##### !end-answer
+
+### !end-challenge
+
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 7e2a0475-0d8f-4a07-9572-31d9914234cf
+* title: Risk
+
+##### !question
+
+Is there greater risk associated with Greenfield or Brownfield projects?
+
+##### !end-question
+
+##### !options
+
+* Greenfield
+* Brownfield
+
+##### !end-options
+
+##### !answer
+
+* Greenfield
+
+##### !end-answer
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: c48b4142-079e-465d-af3f-6425cecb3ed9
+* title: Open Source Familiarity
+* points: 3
+* topics: Tech Stack
+
+##### !question
+
+Rate your level of familiarity with Open Source.
+
+##### !end-question
+
+##### !options
+
+* Very Familiar/Confident
+* Moderately Familiar/Confident
+* Not Familiar/Confident
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: 1ce6c40a-8d89-441e-8102-82acce257a0f
+* title: Microservices Definition
+* points: 3
+* topics: Microservices
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+In your own words, how would you define Microservices  
+
+##### !end-question
+
+##### !placeholder
+
+Write your definition here.
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 428c5bc07-9c37-4507-90ab-15df3f241fd2
+* title: Self-Evaluate Microservices
+* points: 3
+* topics: Microservices
+
+##### !question
+
+**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
+
+> A ‘microservice’ is a software development technique—a variant of the service-oriented architecture (SOA) architectural style that structures an application as a collection of loosely coupled services.
+
+##### !end-question
+
+##### !options
+
+* Very similar
+* Moderately similar -- missing one or two key components
+* Not Similar - the two definitions are widely different
+
+##### !end-options
+
+##### !answer
+
+*
+##### !end-answer
+
+### !end-challenge
+
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 536d8754-d671-42d9-b790-dcc0121b8044
+* title: Software Metrics Familiarity
+* points: 3
+* topics: Metrics
+
+##### !question
+
+Rate your level of familiarity with Software Metrics.
+
+##### !end-question
+
+##### !options
+
+* Very Familiar/Confident
+* Moderately Familiar/Confident
+* Not Familiar/Confident
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: 8e3b96f9-b31f-4473-91e1-bd2ae47b1096
+* title: Software Metrics Definition
+* points: 3
+* topics: Metrics
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+In your own words, how would you define Software Metrics?
+
+##### !end-question
+
+##### !placeholder
+
+Write your definition here.
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 45c17da51-37fd-41d7-8c93-5be2ecf526c3
+* title: Self-Evaluate Software Metrics
+* points: 3
+* topics: Metrics
+
+##### !question
+
+**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
+
+> A software metric is a measure of software characteristics which are quantifiable or countable.
+
+<br></br>Taking it further: Software metrics are important for many reasons, including measuring software performance, planning work items, measuring productivity, and many other uses.
+
+##### !end-question
+
+##### !options
+
+* Very similar
+* Moderately similar -- missing one or two key components
+* Not Similar - the two definitions are widely different
+
+##### !end-options
+
+##### !answer
+
+*
+##### !end-answer
+
+### !end-challenge
+
+
+<!-- ======================= END CHALLENGE ======================= -->
