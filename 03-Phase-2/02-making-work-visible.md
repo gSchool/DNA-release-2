@@ -11,7 +11,7 @@ By the end of this lesson you will be able to:
 
 #### !callout-info
 
-##Note
+## Note
 
 This is the second module using the book _Making Work Visible: Exposing Time Theft to Optimize Work and Flow_ by Dominica DeGrandis as a framework and primary source of content. Again, these sections are only able to address some key ideas and themes. We highly recommend reading the full book!
 
@@ -114,7 +114,7 @@ What four categories are needed when making work visible?
 
 #### !callout-secondary
 
-##Note
+## Note
 
 Any Kanban implemented by your team or organization **_should involve those who perform the work_**. A Kanban helps to manage workflow, those who are directly within that workflow need to have input.
 
@@ -407,7 +407,7 @@ But what if we told you that if expectations are set correctly, not everything n
 Again, remember: 100% capacity utilization doesn’t work. One of the drivers for why companies implement ‘creative time’ is that the 20% rule isn’t actually for innovation, although that is a definite bonus. Rather, it’s to maintain capacity utilization at or below 80%.
 
 #### !callout-success
-##TIP
+## TIP
 
 Small batches of work enable fast and predictable lead times.
 
@@ -473,5 +473,5 @@ NOTE: If you already use a Kanban in your organization - please describe who use
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-##Resources
+## Resources
 * BOOK: _Making Work Visible: Exposing Time Theft to Optimize Work and Flow_ by Dominica DeGrandis
