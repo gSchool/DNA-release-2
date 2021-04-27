@@ -67,7 +67,7 @@ Using the above format, explain how a current process or product currently part 
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-##Metric Playbooks
+## Metric Playbooks
 
 #### !callout-warning
 
@@ -123,7 +123,7 @@ Deployment Cycle Time is an example from the Dojo Consortium. This is just one e
 </tbody>
 </table>
 
-##Phases of Metrics
+## Phases of Metrics
 We opened this section by listing several software metrics available to you. As previously stated, there is no one-size-fits-all solution, but we want to provide some possible options.
 
 #### !callout-secondary
@@ -284,7 +284,7 @@ We are all in this together. The DoD is most effective when it can leverage the 
 
 Finally, we need to become more efficient, more effective, and retain domain expertise to remain competitive. A few ways we can do this are:
 
-###1.    Efficiency
+### 1.    Efficiency
 Finding ways to measure efficiency and tracking the cost of changes, including speed and quality of delivery.
 * Focusing on efficiency is the driving force for shrinking critical feedback loops and removing waste.
 * As we become more efficient, toil is reduced, and it becomes more economical to run product experiments.
@@ -292,14 +292,14 @@ Finding ways to measure efficiency and tracking the cost of changes, including s
 * If we are satisfied with our feedback loops, we are too slow.
 * Comparing efficiencies across programs leads to negative behavior, **disincentivizing collaboration** and _leading to antipatterns_.
 
-###2.    Effectiveness
+### 2.    Effectiveness
 Improving efficiency is important, but we need to effectively deliver value.
 * Delivering slowly is bad enough. It’s worse if we spend years building something, only to discover our customers don't want it.
 * We can identify value goals for each product, and adjust our systems to measure accordingly.
 * We can measure user, mission, and overall business satisfaction to detect report trends.
 * We need to improve, without degrading efficiency.
 
-###3.    Health
+### 3.    Health
 If we are efficient and effective but have heroes keeping our systems stable, we cannot sustain improvement.
 * We need to set goals around stability, both in our systems and in our teams.
     * **Are teams happy?**
@@ -357,7 +357,7 @@ Above all else, metrics should be used as:
 * WEBSITE: https://dojoconsortium.org/docs/playbooks/index.html
 * WEBSITE: [Google’s Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/)
 
-##Bonus Material: Additional Metric Playbooks
+## Bonus Material: Additional Metric Playbooks
 
 <table>
 <tbody>
