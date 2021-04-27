@@ -343,7 +343,7 @@ Below depicts a timeline of how and when OKRs came to fruition.
 
 But where do we start understanding how OKRs can be used in our efforts?  Well, most of us have a mission and a vision statement: these are your organization’s North Star.
 
-##How Objectives and Key Results (OKRs) Can Help
+## How Objectives and Key Results (OKRs) Can Help
 
 Before we go into any more detail regarding OKRs, let’s make one thing abundantly clear. OKRs are a _tool_, not a _weapon_. As recommended and implemented by Andy Grove, OKRs are not a legal document upon which to base a performance review. They are intended to encourage risk-taking, and prevent sandbagging. **OKRs, performance reviews, and therefore bonuses are best kept separate.**
 
@@ -353,14 +353,14 @@ Directly from Doerr’s _Measure what Matters_, the following definitions apply:
 
 **KEY RESULTS** - _How_ we get to the objective. KRs are specific and time-bound, aggressive yet realistic, and measurable and verifiable. 
 
-###1.    Focus  
+### 1.    Focus  
 To focus on what matters most, a high-performing team and organization will utilize OKRs.  Defining what matters the most means you must choose what NOT to do- OKRs focus on eliminating ambiguity, confusion, and is a tool to clearly communicate up, down, and across the organization.
-###2.    Alignment  
+### 2.    Alignment  
 When we all move in the same direction and toward the same goal, we create alignment.  
 The key to alignment is to communicate priorities across all organizations, so everyone understands what they are contributing to, with an additional bonus of increased job satisfaction. In some way, we all have the desire to belong, and thrive on a sense of ownership.
-###3.   Accountability  
+### 3.   Accountability  
 OKRs enable a data driven culture by creating a recurring check-in model for how we are meeting individual, team, and organizational goals. OKRs also drive accountability when achieving outcomes, and promotes a deliberate dialogue of potential accomplishments. This organizational feedback cycle is psychologically safe, and void of judgment.
-###4.   Amazing  
+### 4.   Amazing  
 You might be thinking, “How weird...AMAZING. Whatever do you mean?” Step back for a moment and think back through the past three points- FOCUS, ALIGNMENT, ACCOUNTABILITY...when all of these come together, we are motivated to excel, and test our limits. We have freedom to fail, feel psychological safety to recover from that failure, and most importantly, we push ourselves beyond a checklist and as a person. We are striving to create the most creative and ambitious mindsets, to solve some of the largest problems our nation faces.  That is AMAZING!
 
 ### !challenge
@@ -430,7 +430,7 @@ When developing OKRs, we want to ensure we understand the responsibility of the 
 
 ![Mission Priorities](__images/03_10_alignment.jpg)
 
-##Who Else Uses These OKRs?
+## Who Else Uses These OKRs?
 Here are three companies using OKRs to address their challenges, and what benefits they derive:  
 ![Companies using OKRs](__images/03_11_okr_users.jpg)
 
@@ -501,7 +501,7 @@ Based upon what you have learned, how would you break down your answer to the fi
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-##Resources
+## Resources
 * **BOOK**: Making Work Visible: Exposing Time Theft to Optimize Work and Flow by Dominica DeGrandis
 * **BOOK**: Measure What Matters by John Doerr
 * **BOOK**: https://www.senseandrespondpress.com/managing-outcomes
