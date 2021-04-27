@@ -10,7 +10,7 @@ By the end of this lesson you will be able to:
 
 #### !callout-info
 
-##Note
+## Note
 
 This lesson and the next lesson (The Five Thieves of Time and Benefit: Making Work Visible) are heavily influenced by Dominica DeGrandis’ book _Making Work Visible: Exposing Time Theft_ to Optimize Work and Flow. These lessons hit the highlights, but we highly recommend you read the full book to gain a better understanding of the material.
 
