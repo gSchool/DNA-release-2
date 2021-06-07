@@ -1,4 +1,4 @@
-# Welcome to Module 2 of Digital DNA!
+# Welcome to Module 102 of Digital DNA!
 
 ### !callout-info
 ## Congratulations!
@@ -6,9 +6,9 @@ You are a quarter of the way through your Digital DNA journey. You are continuin
 ### !end-callout
 
 
-**Module 2: Digital Foundations** is the second part of a deeper dive into the processes and technology that have so heavily influenced modern software development and technological innovation.   
+**Module 102: DevSecOps Foundations** is the second part of a deeper dive into the processes and technology that have so heavily influenced modern software development and technological innovation.   
 
-For those who don’t love technology and want to learn more about acquisition strategy, contract strategy, and management: bear with us. **Modules 3 and 4** will focus on those topics, but the information in _this_ Module will directly influence your ability to excel in those sections, and in turn will allow you to be a more effective acquisitions professional.
+For those who don’t love technology and want to learn more about acquisition strategy, contract strategy, and management: bear with us. **Modules 103 and 104** will focus on those topics, but the information in _this_ Module will directly influence your ability to excel in those sections, and in turn will allow you to be a more effective acquisitions professional.
 
 ![DevOps Timeline](../__images/gaping-void.png)
 
@@ -59,7 +59,7 @@ Now to a few changes you may notice as you are working through:
 * BONUS SECTIONS: These are not required but are available if the topic is interesting, directly impacting you, or like the learning guides just love soaking up as much information as possible.  
 
 * The last large change is that we will NOT hold any virtual sessions for this module. However, we will host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.  
-  * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 2 is offered. **These are optional.**  
+  * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 102 is offered. **These are optional.**  
 
 * Also, we have created personalized Course Completion with Continuous Learning Point (CLP) equivalent information that we will send to all those that complete all self-paced material + virtual session!
 
@@ -78,7 +78,7 @@ Now to a few changes you may notice as you are working through:
 
  ##### !question
 
-I understand that all information within this course will need to be completed by 06 May 2021 **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 2 certificate of completion:
+I understand that all information within this course will need to be completed by 06 May 2021 **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 102 certificate of completion:
 
  ##### !end-question
 
