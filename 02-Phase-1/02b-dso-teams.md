@@ -142,7 +142,7 @@ Stated another way, **Conway's Law** tells illustrates “team structures must m
 
 **The Inverse Conway Manoeuver states:** “that organizations should evolve their team and organizational structure to achieve the desired architecture. The goal is for your architecture to support the ability of teams to get their work done--from design through deployment--without requiring high bandwidth communication between teams.” [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
 
-We are only introducing this topic, and will provide further detail later. A great resource for you and your teams on this topic is: [Team Topologies by: Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
+We are only introducing this topic, and will provide further detail later. A great resource for you and your teams on this topic is: [_Team Topologies_](https://teamtopologies.com/book)
 
 We are intentionally not answering the question of: “So how do we organize?” Each scenario has its own benefits and drawbacks and only you and your team understand the unique context you work within.  We do believe the most valuable team construct is optimizing for flow and value. The focus in building a DevSecOps team should be to deliver higher quality sooner in a sustainable and resilient way (hopefully with happy teams).  
 
@@ -392,4 +392,4 @@ These resources are used throughout the lesson and are provided for you to conti
 
 * **Books:**
     * [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
-    * [Team Topologies by: Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
+    * [_Team Topologies_](https://teamtopologies.com/book)
