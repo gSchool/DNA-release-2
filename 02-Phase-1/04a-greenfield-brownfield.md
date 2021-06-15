@@ -6,14 +6,11 @@ By the end of this lesson you will be able to:
 
 * Describe greenfield and brownfield projects
 * Understand greenfield projects within the industry
-* Guide an acquisition strategy in both a greenfield and a brownfield project
-* Understand modernization and design patterns
-
-This lesson provides concepts on two different types of software acquisition strategy.
+* Describe the applicability of greenfield and brownfield projects within the DoD
 
 ## Defining Greenfield and Brownfield
 
-Everyone in the acquisitions community needs to understand and if applicable, contribute to technology decisions.  Given the breadth of options and the pace by which technology evolves, this can seem daunting. Our goal is to provide approaches by looking for key characteristics and patterns.
+Everyone in the acquisitions community needs to understand and if applicable, contribute to technology decisions.  Given the breadth of options and the pace by which technology evolves, this can seem daunting yet another reason your learning guides believe these foundational modules should be cross-functional. Our goal is to provide approaches by looking for key characteristics and patterns.
 
 The first way is to define a system as either greenfield or brownfield.
 
@@ -21,7 +18,7 @@ The first way is to define a system as either greenfield or brownfield.
 
 The terms greenfield and brownfield also apply to the construction industry, so we will use construction as our analogy.
 
-Greenfield means that land in question has never been developed.
+Greenfield means the land in question has never been developed.
 
 What can be built on an empty plot of land? The opportunities are endless- a cabin, a tiny house, a McMansion, an office complex, a factory...you decide!
 
@@ -29,15 +26,15 @@ What can be built on an empty plot of land? The opportunities are endless- a cab
 
 >In technology, a greenfield project is a new software project or initiative, likely in the early stages of planning or implementation, where we build our applications and infrastructure anew.
 >
-><span style="float:right">- Gene Kim, Jez Humble, Patrick Debois - DevOps Handbook </span>
+><span style="float:right">- Gene Kim, Jez Humble, Patrick Debois [DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) </span>
 >
 ><span style="clear:both">&nbsp;</span>
 
 There are appealing aspects to building using greenfield, in construction and in technology. Using our construction example, since the land has not been developed, builders have freedom in implementation- you are not limited by any existing structural choices, like electrical, plumbing, foundation, etc.
 
-Recall the example we referenced in Module 1. Netflix is an example of a greenfield software project- that is, Netflix as a new idea transformed the movie rental market and was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared toward new markets for maximum profit opportunity. Other such examples we discussed in Module 1 include Uber and AirBnB.
+Recall the example we referenced in Module 101. Netflix is an example of a greenfield software project- that is, Netflix as a new idea that transformed the movie rental market it was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared towards new markets for maximum profit opportunity. Other such examples we discussed in Module 101 include Uber and AirBnB.
 
-Companies also use greenfield applications and systems as a way to explore new ways to solve problems that are unencumbered by existing software or dependencies. Which leads us to greenfield’s alternative: brownfield.
+Companies also use greenfield applications and systems to explore new ways to solve problems that are unencumbered by existing software or dependencies. Which leads us to greenfield’s alternative: brownfield.
 
 ### 2. Brownfield
 
@@ -180,3 +177,65 @@ Although greenfield projects allow for more freedom to design the system that do
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 1d84fce8-ce08-11eb-b8bc-0242ac130003
+* title: !Barriers to DevSecOps
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What difficulties do you face in implementing DevSecOps in your organization?
+
+_There is no right answer, this is an opportunity for us to learn from you!_  Select all that apply.
+
+
+##### !end-question
+
+##### !options
+
+* The value of DevSecOps is not understood across our organization
+* The value of DevSecOps is not understood by our leadership
+* Do not have tools in place
+* Not enough talent on your team to implement DevSecOps
+* Do not have support to be successful
+* It's too expensive
+* It's too risky
+* Lack of Manager or Team Buy-In
+* We are not facing any difficulties in implementing DevSecOps
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+
+### !callout-success
+## Key Takeaways: 
+* Your mission, existing capabilities and existing contractual agreements all impact your decision when selecting a greenfield or brownfield approach. _Don’t forget to reevaluate each time you move programs - this decision should be tailored to the context of each program’s unique needs._
+* When evaluating greenfield vs. brownfield, you shouldn’t think of one as better than the other - they each have their own advantages and drawbacks. 
+* It’s important to note that the brownfield approach is what you will encounter most often in the Department - _remember, it actually reduces your risk!_ 
+### !end-callout
+
+## Resources:
+These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
+* **Book:** [_DevOps Handbook_](https://itrevolution.com/book/the-devops-handbook/)
+
