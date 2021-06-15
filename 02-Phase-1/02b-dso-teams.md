@@ -1,18 +1,26 @@
-# DevSecOps Organizations, Competencies and Teams
+# Establishing DevSecOps Organizations in the DoD 
 
 ## Learning Objectives
 
 By the end of this lesson you will be able to:
 
-* Recognize the ability/need for roles to be fluid, because environments are dynamic
+* Recognize the ability and **need** for roles to be fluid, because environments are dynamic
 * Articulate Software Practitioner roles and teams
 * Define how to implement Software Practitioner teams within the Government
 * **BONUS:** Have a basic understanding of DevSecOps organization
 
+## Introduction 
+
+A few disclaimers before diving into this lesson:
+* Each definition can be tailored, there are multiple ways to define each competency area. This is the definition for this course.
+* Each program may require different competencies, and all may not be required. 
+* Remember industry is a critical partner that can help augment your internal organic (military and civilian) team and provide additional required expertise
+* Even if you have organic capability to cover all required competencies, your software acquisition team _is still_ a critical enabler
+* Review the following definitions with your team and re-define as necessary in your context. **A critical foundation is common understanding and lexicon across your team.** 
 
 ## Basic DevSecOps Competency Areas
 
-First, let’s create a common language to talk about different roles, teams and organizations executing their mission using DevSecOps.
+Throughout this course, we will refer back to the definitions and build upon them in later lessons and modules.
 
 ### !callout-danger
 
@@ -22,19 +30,19 @@ Below we list common Software Practitioner roles supporting DevSecOps. However, 
 ### !end-callout
 
 ### Product Owner:
-Product Owners represent the organization, and are responsible for working with the Digital Services Development team. Some responsibilities include prioritizing development of features and functionality, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
+Product Owners manage the Agile process, and are ultimately responsible for the success of the product. They are responsible for prioritizing development of features and functionality, defining acceptance criteria for features, and providing demonstrations/reviews to stakeholders. Sometimes dual-hatted as the Product Manager.
 
 ### Product Manager:
-Product Managers work closely with the user community to ensure that the requirements reflect the needs and priorities of the user community, and align to mission objectives.
+Product Managers are responsible for working closely with the requirements and user community to ensure that requirements reflect their needs, priorities and align to mission objectives. Sometimes dual-hatted as the Product Owner.
 
 ### Software Developers (Engineers) – Front-End:
-Front-End Software Developers/Engineers work individually and/or as a team with User Experience Designers (specifically Interaction Designers) to develop front-end functionality and user interfaces supportive of the vision set forth by the organization.
+Front End Software Developers/Engineers individually and/or as a team develop front-end functionality and interfaces to support the organization’s vision (design and write code).
 
 ### Software Developers (Engineers) – Back-End:
 Back-End Software Developers/Engineers develop the functionality behind the scenes to support data capture, data transfer, and/or other back-end functionality.
 
 ### User Experience Designers:
-User Experience Designers are individuals who focus on making intuitive design choices relating to visual design, interaction design, and user interface design. User Experience Designers work with Front-End Software Developers to support front-end functionality and a user interface consistent with the vision set forth by the organization.
+User Experience Designers design the way a user will interact with the product, how it will look, and how it will work; working with front-end developers, they then make sure the product logically flows and visually communicates.
 
 ### Content Development:
 Content Development teams or individuals build content and realize the vision set forth by the organization, while following a digital content strategy.
@@ -114,23 +122,30 @@ To be clear, the key is that your organic support, even if limited, must still c
 
 ## DevSecOps Teams
 
-In our old ways of working, teams work within a system where each developer is assigned a set of tasks.
+In our old ways of working, teams work within a system where each developer is assigned a set of tasks. This creates individual ownership of subsystems within the team, as well as dependency (and therefore risk). What happens if that individual is sick? Quits?
 
-* This creates individual ownership of subsystems within the team, as well as dependency (and therefore risk). What happens if that individual is sick? Quits?
-* This way of working is destructive to the quality and value of delivery  
+* This way of working is destructive to the quality, flow, and value of delivery  
 * Nothing concludes quickly
 * Little to no collaboration
 * No context for someone else’s work, making code review ineffective
-* Continuous Integration falls apart
+* Continuous integration falls apart
 
-Some mistakes that can be made when standing up a DevSecOps Team is to create features or projects.  This can create issues in the following ways:
+### !callout-info
+## Conway’s Law
+“Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations.”
+### !end-callout
 
-* **Feature teams:** Have no ownership of the outcomes
-* **Project teams:** Will disband after the project
+Stated another way, **Conway's Law** tells illustrates “team structures must match the required software architecture or risk producing unintended designs.” [_Team Topologies_](https://teamtopologies.com/book)
 
-However, aligning teams to work around business or mission capability enables teams to have ownership and problem solving ability. Software development teams are all about the talent of the team, and their ability to execute the process with maximum efficiency. The goal for that team is to produce working software that meets user, warfighter and mission needs.
+>“If the architecture of the system and the architecture of the org are at odds, the architecture of the org wins."
+><span style="float:right;"> - Ruth Malan</span> 
 
-The focus in building a DevOps team should be to deliver higher quality sooner in a sustainable and resilient way.  
+**The Inverse Conway Manoeuver states:** “that organizations should evolve their team and organizational structure to achieve the desired architecture. The goal is for your architecture to support the ability of teams to get their work done--from design through deployment--without requiring high bandwidth communication between teams.” [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
+
+We are only introducing this topic, and will provide further detail later. A great resource for you and your teams on this topic is: [Team Topologies by: Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
+
+We are intentionally not answering the question of: “So how do we organize?” Each scenario has its own benefits and drawbacks and only you and your team understand the unique context you work within.  We do believe the most valuable team construct is optimizing for flow and value. The focus in building a DevSecOps team should be to deliver higher quality sooner in a sustainable and resilient way (hopefully with happy teams).  
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -191,15 +206,28 @@ Remember- the DoD is **not** a single program or service, it's **composed of man
 
 Evolving our mentality and approach means realizing everyone starting from scratch is **not scalable**. Ask yourself how you can change the way you collaborate across services, programs, and PEOs today.
 
-Below are a few strategies acquisitions teams may use when building their DevOps teams. Module 3 will discuss in more detail.
+Below are the two primary strategies acquisition teams may use when building their DevOps teams. Module 103 will discuss in more detail.
 
-### DIGITAL SERVICES DEVELOPERS - (ORGANIC)
+### Goverment-Led Approach
 
-_When an organization has already built a team_ to support digital service development, they call in seasoned product managers, engineers, and UX/UI designers to develop those services. Personnel involvement is predicated on the scope and type of digital services rendered (architects, security pros, testers, deployment engineers are all possible roles as well).
+* Government team members (civilian or military) are leading the overall effort, which includes making both business and technical decisions. 
+* Government personnel are embedded at all levels of the program from leadership to individual software practitioner teams. 
+* Contractors likely will augment the Government team, but they do not have authority to direct resources or commit the Government to decisions. 
 
-### DIGITAL SERVICES DEVELOPERS - (Professional Service Vendors)
+### Contractor-Led Approach
 
-_When an organization requires outside assistance_, acquisitions teams work in conjunction with private and/or government sector organizations to understand how to evaluate third-party technical competencies, so organization members are paired with vendors who are competent with both building and delivering effective digital services.
+* A contractor is on contract with the Government for the delivery of completed software product(s) and/or the integrator for multiple software products. 
+* The Government organizes and directs all acquisition activities and provides overarching goals with the contractor leading implementation and day-to-day decisions. 
+    * A Government representative should be identified and embedded with the  contractor team and be involved daily or weekly. 
+* Overall technology decisions may be driven by the Government, or may be the responsibility of the contractor if directed in the contract. 
+
+
+### !callout-success
+## Key Takeaway
+Regardless of the approach (Government-led or Contractor led), **utilize multiple contractors/contracts** as recommended in Federal Acquisition Regulation (FAR) for IT/software systems to the **maximum extent practicable**: [FAR 39.103](https://www.acquisition.gov/far/39.103) (In later lessons we will provide more implementation details)
+### !end-callout
+
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -250,7 +278,7 @@ What are best practices when implementing testing to support a DevSecOps initiat
 
 * type: paragraph
 * id: 0feddda4-9915-4946-974b-acf814386cf5
-* title: Takeaways
+* title: !Takeaways
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -273,6 +301,22 @@ Tell us two (2) important takeaways from this lesson and the prior lesson (An In
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+### !callout-success
+## Key Takeaways: 
+* Be cognizant of our current system and how decisions are made. From that starting point, we can then begin to think about how to apply DevSecOps.
+* Don’t forget why software is different - as outlined by Jez Humble:
+      * Software is malleable 
+      * Software products can be used prior to all features being developed
+      * Software can (and should) change over time, and
+      * Significant information is learned when users interact with software--this enables faster feedback and smaller batches. 
+      * **To drive this home:** Building a bridge from either side of a river, you get one shot--that is **not** true for software intensive systems. 
+* As course instructors, we have defined two groups of people emphasizing the importance of digital foundations throughout all roles and functions:
+      * Software acquisition professionals, and
+      * Software practitioners.
+### !end-callout
+
+
 
 ## BONUS SECTION: A DevSecOps Organization
 
@@ -342,6 +386,10 @@ Changing an organizational structure shouldn't be considered lightly. If a trans
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-## Reading Resources
+## Resources
 
-https://www.dhs.gov/sites/default/files/publications/2019_sw_it-cast_proceedings_0.pdf
+These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
+
+* **Books:**
+    * [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
+    * [Team Topologies by: Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
