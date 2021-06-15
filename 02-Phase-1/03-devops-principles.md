@@ -390,7 +390,7 @@ What are the Seven Wastes?
    * Principle of Flow
    * Principles of Feedback, and
    * Principle of Continuous Learning.
-* Think of the Seven Wastes as the Seven Pitfalls to Avoid. We intentionally teach proven mitigation strategies as potential options when addressing any issues. Just don’t forget to apply the Three Ways and continually improve and adjust!
+* Think of the Seven Wastes as the _Seven Pitfalls to Avoid._ We intentionally teach proven mitigation strategies as potential options when addressing any issues. Just don’t forget to apply the Three Ways and continually improve and adjust!
 ### !end-callout
 
 
