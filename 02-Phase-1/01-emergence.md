@@ -1,4 +1,4 @@
-# The Emergence and Origin Story of DevOps and Applicability
+# The DevOps Story
 
 ## Learning Objectives
 
@@ -375,15 +375,20 @@ Which helpful strategies that you could implement align to the goals of DevOps?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-
 ## Final Thoughts
 
 Moving forward, we will use DevSecOps to refer to the values, principles, methods, practices and tools discussed in this lesson. The DoD DevSecOps Reference Design promotes DevSecOps as the preferred implementation and way to reference this way of working.
 
+## Key Takeaways: 
+* DevOps, Agile, and Lean aren’t independent concepts. Rather, they build off of one another and incorporate lessons learned from one another as well as new technology as it becomes available.
+* DevOps applies to entire organizations - that is, acquisition and other underlying business functions are critical and should be incorporated when mapping the overall workflow.
+* DevOps is more than tools. Similar to Agile, DevOps is rooted in a mindset that first drives values and principles to _support_ practices, and finally is enabled by tools. If you only have ‘tools’, you are not DevOps.
+
+
 ## Resources
-* ARTICLE: Basis of lesson:  https://theagileadmin.com/what-is-devops/
-* BOOK: The Phoenix Project: a Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
-* DoD DOCUMENT: https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583
-* VIDEO: Do you prefer videos? Here is a short video that explains the concepts of DevOps: https://www.youtube.com/watch?v=_I94-tJlovg
+* **Article:** Basis of lesson:  https://theagileadmin.com/what-is-devops/
+* **Book:** The Phoenix Project: a Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
+* **DoD Document:** https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583
+* **Video:** Do you prefer videos? Here is a short video that explains the concepts of DevOps: https://www.youtube.com/watch?v=_I94-tJlovg
   * Ignore specific references to products, the overall video re-emphasizes the concepts above
-* WEBSITE: https://software.af.mil/
+* **Website:** https://software.af.mil/
