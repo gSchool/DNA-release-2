@@ -135,7 +135,7 @@ In our old ways of working, teams work within a system where each developer is a
 “Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations.”
 ### !end-callout
 
-Stated another way, **Conway's Law** tells illustrates “team structures must match the required software architecture or risk producing unintended designs.” [_Team Topologies_](https://teamtopologies.com/book)
+Stated another way, **Conway's Law** illustrates “team structures must match the required software architecture or risk producing unintended designs.” [_Team Topologies_](https://teamtopologies.com/book)
 
 >“If the architecture of the system and the architecture of the org are at odds, the architecture of the org wins."
 ><span style="float:right;"> - Ruth Malan</span> 
