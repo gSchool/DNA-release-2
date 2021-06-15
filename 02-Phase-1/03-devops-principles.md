@@ -380,9 +380,11 @@ What are the Seven Wastes?
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
 * type: multiple-choice
 * id: 45e6121c-cde5-11eb-b8bc-0242ac130003
-* title: Topics Discussed
+* title: !Topics Discussed
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -399,7 +401,6 @@ _There is no correct answer, this is your opinion._
 * CALMS
 * The Three Ways
 * The Seven Principles and Wastes
-
 
 ##### !end-options
 
