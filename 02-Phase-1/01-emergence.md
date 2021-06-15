@@ -379,11 +379,12 @@ Which helpful strategies that you could implement align to the goals of DevOps?
 
 Moving forward, we will use DevSecOps to refer to the values, principles, methods, practices and tools discussed in this lesson. The DoD DevSecOps Reference Design promotes DevSecOps as the preferred implementation and way to reference this way of working.
 
+### !callout-success
 ## Key Takeaways: 
 * DevOps, Agile, and Lean aren’t independent concepts. Rather, they build off of one another and incorporate lessons learned from one another as well as new technology as it becomes available.
 * DevOps applies to entire organizations - that is, acquisition and other underlying business functions are critical and should be incorporated when mapping the overall workflow.
 * DevOps is more than tools. Similar to Agile, DevOps is rooted in a mindset that first drives values and principles to _support_ practices, and finally is enabled by tools. If you only have ‘tools’, you are not DevOps.
-
+### !end-callout
 
 ## Resources
 * **Article:** Basis of lesson:  https://theagileadmin.com/what-is-devops/
