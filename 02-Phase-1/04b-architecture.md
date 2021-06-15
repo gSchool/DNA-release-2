@@ -1,4 +1,4 @@
-# Software Architecture--Microservices, Strangler Pattern and APIs
+# Software Architecture--Microservices, Strangler Pattern and MOSA
 
 ## Learning Objectives
 
