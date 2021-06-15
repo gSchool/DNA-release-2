@@ -306,14 +306,14 @@ Tell us two (2) important takeaways from this lesson and the prior lesson (An In
 ## Key Takeaways: 
 * Be cognizant of our current system and how decisions are made. From that starting point, we can then begin to think about how to apply DevSecOps.
 * Don’t forget why software is different - as outlined by Jez Humble:
-      * Software is malleable 
-      * Software products can be used prior to all features being developed
-      * Software can (and should) change over time, and
-      * Significant information is learned when users interact with software--this enables faster feedback and smaller batches. 
-      * **To drive this home:** Building a bridge from either side of a river, you get one shot--that is **not** true for software intensive systems. 
+    * Software is malleable 
+    * Software products can be used prior to all features being developed
+    * Software can (and should) change over time, and     
+    * Significant information is learned when users interact with software--this enables faster feedback and smaller batches. 
+    * **To drive this home:** Building a bridge from either side of a river, you get one shot--that is **not** true for software intensive systems. 
 * As course instructors, we have defined two groups of people emphasizing the importance of digital foundations throughout all roles and functions:
-      * Software acquisition professionals, and
-      * Software practitioners.
+    * Software acquisition professionals, and
+    * Software practitioners.
 ### !end-callout
 
 
