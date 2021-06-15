@@ -1,11 +1,11 @@
-# Incorporating DevSecOps within the DoD
+# The DoD Landscape
 
 ## Learning Objectives
 
 By the end of this lesson you will be able to:
 
 * Understand the DoD workflow complexity supporting DevSecOps
-* Contrast the responsibilities of Software Acquisition Professionals versus software practitioners
+* Contrast the responsibilities of Software Acquisition Professionals versus Software Practitioners
 
 ## DoD Decisions: An Intro
 
@@ -17,7 +17,7 @@ Hopefully at this point many of you are:
 ### !callout-success
 
 ## From Tory’s Perspective
-The best part of this style of working? Realizing that your work is in the hands of users, and you can watch it happen! In a small way, you contribute to improving capability, and you get to watch code deploy the same day -- a gratifying experience, and why I love this job! We really do have the best mission.
+The best part of this style of working? Realizing that your work is in the hands of users, and you can watch it happen! In a small way, you contribute to improving capability, and you get to watch code deploy the same day -- a gratifying experience, and why I love this job! **We really do have the best mission**
 
 ### !end-callout
 
@@ -31,7 +31,7 @@ To answer this question, we need to take a step back and look at the big picture
 * <span style="font-size:.8em">**Developer = Government Contractor**</span>
 
 
-The following concepts are an excerpt from a presentation given by Dr. Jeff Boleng, Senior Advisor of Software Acquisitions to HON Ellen Lord, Secretary of Defense for Acquisitions and Sustainment (A&S):
+The following concepts are an excerpt from a presentation given by Dr. Jeff Boleng who previous served as the Senior Advisor of Software Acquisitions to HON Ellen Lord, Secretary of Defense for Acquisitions and Sustainment (A&S):
 
 >_...A marionette is a way to visualize the relationship between a Program Manager (PM), the Contract and a Developer. _
 
@@ -73,7 +73,7 @@ Sadly, in many cases the operational user is not included in this picture.
 ### !callout-warning
 
 ## Coming Soon!
-In Module 3, we discuss the reason(s) why the Software Acquisition Pathway includes a User Agreement.
+In Module 1033, we discuss the reason(s) why the Software Acquisition Pathway includes a User Agreement.
 
 ### !end-callout
 
@@ -158,20 +158,22 @@ We highlight this for two reasons:
 
 ##### !question
 
-The mismatch of feedback loops for decisions is why DoD is struggling to adopt DevSecOps.
+The mismatch of feedback loops for decisions is the **primary reason** why the  DoD is struggling to adopt DevSecOps.
 
 ##### !end-question
 
 ##### !options
 
-* True
-* False
+* True; this unique to the DoD
+* True; this occurs in all organizations 
+* False; this is a unique DoD problem 
+* False; this occurs in all organizations
 
 ##### !end-options
 
 ##### !answer
 
-* False
+* False; this occurs in all organizations
 
 ##### !end-answer
 
@@ -180,12 +182,8 @@ The mismatch of feedback loops for decisions is why DoD is struggling to adopt D
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
-### !explanation-correct:
-The mismatch of feedback loops for decisions occurs in every organization. DevSecOps emphasizes the mismatch because of the increased speed of delivery that is available with adoption of processes, practices and tools. This creates a greater importance in a shared understanding and common lexicon.
-
-### !end-explanation
-### !explanation-incorrect:
-The mismatch of feedback loops for decisions occurs in every organization. DevSecOps emphasizes the mismatch because of the increased speed of delivery that is available with adoption of processes, practices and tools. This creates a greater importance in a shared understanding and common lexicon.
+### !explanation:
+The mismatch of feedback loops for decisions occurs in every organization. DevSecOps emphasizes the mismatch because of the increased speed of delivery that is available with adoption of processes, practices and tools. This creates a greater importance in a shared understanding and common lexicon. 
 
 ### !end-explanation
 
@@ -196,6 +194,12 @@ The mismatch of feedback loops for decisions occurs in every organization. DevSe
 Later sections will discuss metrics aiming to improve communication with leadership and stakeholders, but in the meantime, ask yourself- what changes when you apply DevSecOps methodologies? What new roles are introduced? Does it change acquisition roles?
 
 ## Defining Software Acquisition Professionals and Software Practitioners
+
+### !callout-info
+## Learning Guides Perspective: 
+We intentionally define these two overarching groups because we believe technical members of the team expand beyond the software developers, data scientists, cloud architects, etc.  An understanding of the underlying technology and processes allows users, requirements owners, and acquisition professionals to become enablers of the DevSecOps movement across the Department.  We have intentionally _not_ referred to one team as technical because **we all need to have a technical foundations.** 
+### !end-callout
+
 
 The DoD delivers software via a complex system. The visual below helps demonstrate how organizations within the Defense Acquisition System (DAS) deliver capability:
 
@@ -215,9 +219,6 @@ _Note: To view the video in its entirety, check out the resources at the end of 
 
 Because these differences require a different perspective and approach for individuals supporting/performing management-level Acquisitions responsibilities within the DAS, moving forward we will refer to this group as **Software Acquisition Professionals**. Likewise, for those building the capabilities, we will refer to them as **Software Practitioners**.
 
-* **Software Acquisition Professionals** are SMART buyers and managers. To do this, they understand the benefits of technology that is purchased (don’t worry- we aren’t expecting you to configure and operate the technology).
-* **Software Practitioners** are technicians that operate and maintain acquired product(s).
-
 This is depicted within the  graphic below:
 
 ![Defense Ecosystem Overview with callout](../__images/02a_08_defense_callout.png)
@@ -234,7 +235,7 @@ _Interaction occurs constantly due to the speed of software development and depl
 * Supporting technical direction and incorporation of acquisition strategies
 * Supporting funding, and obligation actions and strategies
 
-To finish, let’s more formally define Software Acquisition Professionals and Software Practitioners:
+Let’s define Software Acquisition Professionals and Software Practitioners:
 * **Software Acquisition Professionals**: A Software Acquisition Professional is a member of the DoD acquisition workforce who provides expertise in the procurement, management and/or development of software intensive processes and systems such as business systems, weapons systems, supplies, or services to satisfy DoD needs and support military operations.
   * Example software acquisition roles are: Program Managers, Financial Managers, Contracting Officers, Cost Estimators, Lifecycle Logisticians, etc.
   * The roles above represent team members who are **not** directly supporting product delivery, and instead support valuable capability delivery through navigation and leveraging of the DoD 5000.02 Adaptive Acquisition Framework (AAF), Federal Acquisition Regulation (FAR), DoD 5000.74, Financial Management Regulation (FMR) and other policies and regulations DoD- and service-specific that guide the acquisitions workforce.
@@ -338,6 +339,25 @@ Please identify your current role
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-1. <a name="quoteref"></a> https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF
-1. VIDEO: Referenced in the lesson a 50 minute video by Jez Humble Principles of Lean Product Management <https://www.youtube.com/watch?v=cH6bnQzJojo>
-1. PRESENTATION:  Dr. Jeff Boleng, Senior Advisor Software Acquisitions https://www.dhs.gov/sites/default/files/publications/2019_sw_it-cast_proceedings_0.pdf
+### !callout-success
+## Key Takeaways: 
+* Be cognizant of our current system and how decisions are made. From that starting point, we can then begin to think about how to apply DevSecOps.
+* Don’t forget why software is different - as outlined by Jez Humble:
+    * Software is malleable 
+    * Software products can be used prior to all features being developed
+    * Software can (and should) change over time, and
+    * Significant information is learned when users interact with software--this enables faster feedback and smaller batches. 
+    * **To drive this home:** Building a bridge from either side of a river, you get one shot--that is **not** true for software intensive systems. 
+* As course instructors, we have defined two groups of people emphasizing the importance of digital foundations throughout **all roles and functions:**
+    * Software acquisition professionals, and
+    * Software practitioners.
+### !end-callout
+
+## Resources
+These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
+
+* **Article:**[Why DevOps is good for Government](https://gcn.com/articles/2015/02/12/devops-defined.aspx), Feb 2015.
+* **DoD Presentation:** Dr. Jeff Boleng, Senior Advisor Software Acquisitions [Adaptive Acquisition Framework](https://www.dhs.gov/sites/default/files/publications/2019_sw_it-cast_proceedings_0.pdf), p.284-312, Aug 2019. 
+* **DoD Report:** [2019 Defense Innovation Board (DIB) _Software is Never Done_ Report](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF)
+* **Video:** Referenced in the lesson a 50 minute video by Jez Humble [Principles of Lean Product Management](https://www.youtube.com/watch?v=cH6bnQzJojo)
+
