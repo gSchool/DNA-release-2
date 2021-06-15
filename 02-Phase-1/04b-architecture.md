@@ -332,7 +332,7 @@ These resources are used throughout the lesson and are provided for you to conti
     * [Greenfield Versus Brownfield Software Systems](https://subscription.packtpub.com/book/application_development/9781788624060/5/ch05lvl1sec39/greenfield-versus-brownfield-software-systems#)
     * [Martin Fowler’s Microservices Resource Guide](https://martinfowler.com/microservices/)
     * [Microservices Guide](https://martinfowler.com/microservices/)  
-    * Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
+    * [Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
     * [Periodic Table of DevOps Tools | Digital.ai](https://digital.ai/periodic-table-of-devops-tools)
 * **DoD Publications:** * [DoD Enterprise DevSecOps Reference Design](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf)
 * **Videos**:
