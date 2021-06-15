@@ -8,13 +8,13 @@ By the end of this lesson you will be able to:
 * Define monoliths and the Strangler Pattern, and know applicable scenarios within the DoD
 * Know and understand modernization and design patterns
 * Understand how MOSA might positively impact your team goals
-* BONUS: Define APIs
+* **BONUS:** Define APIs
 
 ## Microservices
 
-Because they are often a common approach for implementing the Strangler Pattern as well as Modular Open Systems Architecture (MOSA), we are starting this module with microservices.
+Because there are common approaches for implementing the Strangler Pattern and Modular Open Systems Architecture (MOSA), we are starting this module with microservices.
 
-The writers of the book [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) (more information in Additional Resources) spoke at the DevOps Enterprise Summit in 2019, stating:
+The writers of the book [_Team Topologies_](https://teamtopologies.com/book) spoke at the DevOps Enterprise Summit in 2019, stating:
 
 "Many organizations are starting to deploy their applications using microservices, but even with that, you have many debates about what is the right way to do so." For example:
 
@@ -112,9 +112,12 @@ Applications built using Cloud services may benefit from microservices, though t
 
 Microservices are tremendously helpful with [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling), and building systems designed to evolve over time while changing to include new technologies and features.
 
-**How this applies to acquisitions**: If your team is procuring a system and adopting a microservices approach, two best practices are:
-* Have well-defined (hopefully standardized) and well-documented Application Programming Interfaces (APIs), **and**
-* Document utilized open-source and vendor-specific services.
+### !callout-info
+## How this applies to acquisition: 
+If your team is procuring a system and adopting a microservices approach, two best practices are:
+1. Have well-defined (hopefully standardized) and well-documented Application Programming Interfaces (APIs), **and**
+2. Document utilized open-source and vendor-specific services.
+### !end-callout
 
 This architectural style covers many different patterns, and is not right for every situation. If you want to dive deeper into microservices, please visit the ‘Additional Resources’ section at the end of this module.
 
@@ -166,7 +169,7 @@ Although microservices architecture supports risk reduction by distributing depe
 <!-- ======================= END CHALLENGE ======================= -->
 ## Monoliths and the Strangler Pattern
 
-Let’s look at a way we can achieve a microservices architecture when we live in a monolithic world.
+Let’s look at a way we can achieve microservices architecture when we live in a monolithic world.
 
 For those of you embarking upon a modernization effort, you may have heard of the Strangler Pattern approach. Simply stated, teams using the Strangler Pattern slowly replace existing systems (typically monoliths) by replacing their various components, functions, applications, and microservices, gradually shutting off capability in the existing system and eventually completely replacing it. Visually, it looks something like this:
 
@@ -308,20 +311,30 @@ Benefits of executing the MOSA strategy as a Program Manager are:
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-## Additional Resources and Recommended Reading
-* [Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
-* [Periodic Table of DevOps Tools | Digital.ai](https://digital.ai/periodic-table-of-devops-tools)
-* [DoD Enterprise DevSecOps Reference Design](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf)
-* [E. Klotins, M. Unterkalmsteiner and T. Gorschek, "Software Engineering Antipatterns in Start-Ups," in IEEE Software, vol. 36, no. 2, pp. 118-126, March-April 2019, doi: 10.1109/MS.2018.227105530.](https://ieeexplore.ieee.org/document/8356173)
-* [Greenfield Versus Brownfield Software Systems](https://subscription.packtpub.com/book/application_development/9781788624060/5/ch05lvl1sec39/greenfield-versus-brownfield-software-systems#)
-* [Martin Fowler’s Microservices Resource Guide](https://martinfowler.com/microservices/)
+### !callout-success
+## Key Takeaways: 
+* Microservices are a foundational aspect of the DevSecOps Revolution. They allow complex systems to be decoupled from dependencies, both from the perspective of supporting teams and within the software architecture itself. _This supports not only the strangler pattern approach, but the Department’s preferred Modular Open System Architecture (MOSA) model as well._
+* The “strangler pattern” is a proven approach to brownfield software development. It decreases risk to current operations by maintaining existing capabilities by moving users to new capability over time, replacing one or a few features with each software release.
+* As the Department’s preferred approach, MOSA is analogous to proven foundational microservices for successful DevSecOps implementation. 
+### !end-callout
 
 ## Bonus Section: API Gateway
 API stands for Application Programming Interface. It’s an old term, but has been given a totally new life with the explosion of Cloud services, and, you guessed it, microservices.  APIs are like software middlemen- they enable applications, systems, or services to talk to one another. APIs are an effective way to make sure applications are loosely coupled and modular in nature.
 
 This is a great video to learn about APIs: [APIs 101: What Exactly is an API? Part 1](https://www.youtube.com/watch?v=cpRcK4GS068)
 
-Additional Resources
-* **ARTICLE**: [Microservices Guide](https://martinfowler.com/microservices/)  
-* **VIDEO**: 2019 DevOps Enterprise Summit [Monoliths vs Microservices is Missing the Point - Start with Team Cognitive Load - DOES EUR 2019](https://teamtopologies.com/videos-slides/2019/07/10/monoliths-vs-microservices-is-missing-the-point-start-with-team-cognitive-load-does-eur-2019)
-* **VIDEO**: [Microservices vs. Monoliths](https://www.coursera.org/learn/uva-darden-continous-delivery-devops/lecture/tTnKW/microservices-vs-monoliths)
+## Resources
+
+These resources are used throughout the lesson and are provided for you to continue learning on your own time.
+
+* **Articles:**
+    * [E. Klotins, M. Unterkalmsteiner and T. Gorschek, "Software Engineering Antipatterns in Start-Ups," in IEEE Software, vol. 36, no. 2, pp. 118-126, March-April 2019, doi: 10.1109/MS.2018.227105530.](https://ieeexplore.ieee.org/document/8356173)
+    * [Greenfield Versus Brownfield Software Systems](https://subscription.packtpub.com/book/application_development/9781788624060/5/ch05lvl1sec39/greenfield-versus-brownfield-software-systems#)
+    * [Martin Fowler’s Microservices Resource Guide](https://martinfowler.com/microservices/)
+    * [Microservices Guide](https://martinfowler.com/microservices/)  
+    * Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
+    * [Periodic Table of DevOps Tools | Digital.ai](https://digital.ai/periodic-table-of-devops-tools)
+* **DoD Publications:** * [DoD Enterprise DevSecOps Reference Design](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf)
+* **Videos**:
+    * 2019 DevOps Enterprise Summit [Monoliths vs Microservices is Missing the Point - Start with Team Cognitive Load - DOES EUR 2019](https://teamtopologies.com/videos-slides/2019/07/10/monoliths-vs-microservices-is-missing-the-point-start-with-team-cognitive-load-does-eur-2019)
+    * [Microservices vs. Monoliths](https://www.coursera.org/learn/uva-darden-continous-delivery-devops/lecture/tTnKW/microservices-vs-monoliths)
