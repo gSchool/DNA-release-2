@@ -378,6 +378,45 @@ What are the Seven Wastes?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+* type: multiple-choice
+* id: 45e6121c-cde5-11eb-b8bc-0242ac130003
+* title: Topics Discussed
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Of the concepts discussed in the lesson: CALMS, The Three Ways, and The Seven Principles and Waste, please select which **one** concept was **most valuable** as a tool for your organization to use when evaluating the organization’s integration of DevSecOps and identifying areas of improvement. 
+
+_There is no correct answer, this is your opinion._ 
+
+##### !end-question
+
+##### !options
+
+* CALMS
+* The Three Ways
+* The Seven Principles and Wastes
+
+
+##### !end-options
+
+##### !answer
+
+* * 
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
 ### !callout-success
 ## Key Takeaways: 
 * CALMS provides an alternative way to approach DevSecOps by highlighting key attributes that should be foundational to your organization, namely: 
