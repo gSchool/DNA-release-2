@@ -98,7 +98,10 @@ Select the following statements that are true regarding DevSecOps.
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-<span style="font-family:script; font-size:2em">KEY TAKEAWAY: Great software can be built whether it starts as greenfield or brownfield.</span>
+### !callout-success
+## Key Takeaway: 
+Great software can be built whether it starts as greenfield or brownfield.
+### !end-callout
 
 ### Industry Examples: Greenfield Beginnings
 We have all heard that we need to adopt best commercial and/or industry practices. When deciding which commercial and/or industry practices to apply, it may be frustrating to hear this again, but it depends. All practices are not always applicable!
