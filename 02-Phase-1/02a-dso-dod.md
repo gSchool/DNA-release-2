@@ -42,7 +42,7 @@ In this scenario, the PMO is contracting, hence the developer is outsourced to a
 ### !callout-info
 
 ## Incentives
-Incentives can be established with **any** contract type. Module 3 further explores the ways contract incentives can be incorporated, not only with incentive contracts (as defined in FAR 16.4), but also with modular contracting, short periods of performance on base, optional Contract Line Item Numbers (CLINs), and Quality Assurance Surveillance Plans (QASPs).
+Incentives can be established with **any** contract type. Module 103 further explores the ways contract incentives can be incorporated, not only with incentive contracts (as defined in FAR 16.4), but also with modular contracting, short periods of performance on base, optional Contract Line Item Numbers (CLINs), and Quality Assurance Surveillance Plans (QASPs).
 
 ### !end-callout
 
@@ -73,7 +73,7 @@ Sadly, in many cases the operational user is not included in this picture.
 ### !callout-warning
 
 ## Coming Soon!
-In Module 1033, we discuss the reason(s) why the Software Acquisition Pathway includes a User Agreement.
+In Module 103, we discuss the reason(s) why the Software Acquisition Pathway includes a User Agreement.
 
 ### !end-callout
 
@@ -182,9 +182,8 @@ The mismatch of feedback loops for decisions is the **primary reason** why the  
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
-### !explanation:
+### !explanation
 The mismatch of feedback loops for decisions occurs in every organization. DevSecOps emphasizes the mismatch because of the increased speed of delivery that is available with adoption of processes, practices and tools. This creates a greater importance in a shared understanding and common lexicon. 
-
 ### !end-explanation
 
 ### !end-challenge
