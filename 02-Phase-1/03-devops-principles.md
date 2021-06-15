@@ -378,6 +378,22 @@ What are the Seven Wastes?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+### !callout-success
+## Key Takeaways: 
+* CALMS provides an alternative way to approach DevSecOps by highlighting key attributes that should be foundational to your organization, namely: 
+   * Culture 
+   * Automation 
+   * Lean 
+   * Measurement, and 
+   * Sharing
+* The Three Ways define the principles that underpin DevSecOps, which are: 
+   * Principle of Flow
+   * Principles of Feedback, and
+   * Principle of Continuous Learning.
+* Think of the Seven Wastes as the Seven Pitfalls to Avoid. We intentionally teach proven mitigation strategies as potential options when addressing any issues. Just don’t forget to apply the Three Ways and continually improve and adjust!
+### !end-callout
+
+
 ## Resources
 
 * **Book:** Kim, Gene. Phoenix Project, 5th Anniversary Edition: a Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press, 2018.
