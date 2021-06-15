@@ -15,32 +15,32 @@ We recommend you take a few minutes to review your course material _before_ star
 ### !challenge
 
 * type: multiple-choice
-* id: 4b94653a-f7aa-4462-81fd-fabc8f943654
-* title: DevOps Familiarity
+* id: 80d48dde-cd23-43b5-9f17-376b28c2c8a2
+* title: Defining DevSecOps
 * points: 3
-* topics: DevOps
+* topics: DevSecOps
 *
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Rate your level of familiarity with DevOps.
+DevOps (or DevSecOps) means:
 
 ##### !end-question
 
 ##### !options
 
-* Very Familiar/Confident
-* Moderately Familiar/Confident
-* Not Familiar/Confident
-
+* Developers taking over all Operations tasks.
+* Automating the process of software delivery and infrastructure changes.
+* The collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.
+* The collaboration and communication of just software developers and operations staff while automating the process of software delivery and infrastructure changes.
 
 ##### !end-options
 
 ##### !answer
 
-* *
+* The collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.
 
 ##### !end-answer
 
@@ -48,74 +48,86 @@ Rate your level of familiarity with DevOps.
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+##### !explanation
+DevOps is more than just ‘Dev’ and ‘Ops’. It encompasses the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.
+##### !end-explanation
 
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: e651e42a-88f4-4089-8bc1-e6ca3d813ddc
-* title: DevOps Definition
-* points: 3
-* topics: DevOps
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In your own words, how would you define DevOps?  
-
-
-##### !end-question
-
-##### !placeholder
-
-Write your definition here.
-
-##### !end-placeholder
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: d908d7ac-be6e-460c-a4de-02fce25e6553
-* title: Self-Evaluate DevOps
+* id: c1ad5856-0ab0-4d07-81b5-5fabe49ef42f
+* title: Project Management Traits
+* topics: Product/Project Management
 * points: 3
-* topics: DevOps
 
 ##### !question
+What are examples of Project Management? Recall an example of project management is a bridge.
 
-**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
-
-> DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle, incorporate automation and  learning to provide continuous delivery with high software quality.  
-<br></br>Taking it further: It is a software engineering culture and practice that aims at unifying software development (Dev) and software operation (Ops). The main characteristic of the DevOps movement is to strongly advocate automation and monitoring at all steps of software construction, from integration, testing, releasing to deployment and infrastructure management. DevOps aims at shorter development cycles, increased deployment frequency, and more dependable releases, in close alignment with business objectives.  
-<br></br>DevOps is NOT ENOUGH! DevSecOps is what must be implemented with the cybersecurity stack built-in into the DevOps pipeline.
-
+1. Once built, it does not change much
+1. Can be used prior to completion
+1. Initial planning only requires framework of initial assumptions and design
+1. Significant initial planning is required
+1. Does not discover significant information while building/developing
+1. Should change over time
+1. Must be completed before using
+1. Significant information is discovered while building/developing
 ##### !end-question
 
 ##### !options
 
-* Very similar
-* Moderately similar -- missing one or two key components
-* Not Similar - the two definitions are widely different
+* 1, 2, 4, 5 only
+* 3, 4, 7, 8 only
+* None of them apply
+* 2, 6, 7, 8 only
+* All of the above
+
 
 ##### !end-options
 
 ##### !answer
 
-*
+* All of the above
+##### !end-answer
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 6b054184-bd09-4ad0-9655-f48642c73231
+* title: DevSecOps Culture
+* topics: Culture
+* points: 3
+
+##### !question
+Is this statement correct? “DevSecOps is more than just a tool or a process change, it inherently requires an organization culture shift”
+
+##### !end-question
+
+##### !options
+
+* No, culture change will occur when staff is using the most up to date LEAN processes and tools.
+* Yes but, the most up to date tools and LEAN processes need to be in place to drive organizational culture shift
+* No, DevSecOps is all about the tools
+* Yes there needs to be cultural shift within the organization across all stakeholders to ensure a successful adoption of a DevOps approach
+
+##### !end-options
+
+##### !answer
+
+* Yes there needs to be cultural shift within the organization across all stakeholders to ensure a successful adoption of a DevOps approach
 
 ##### !end-answer
+##### !explanation
+DevSecOps is more than just a tool or a process change, it inherently requires an organizational culture shift within the organization across all stakeholders to ensure a successful adoption of a DevOps approach.
+##### !end-explanation
 
 ### !end-challenge
 
@@ -128,7 +140,7 @@ Write your definition here.
 * type: checkbox
 * id: 4268d2bb-b837-4d7e-9203-26932e6c0397
 * title: DevOps details
-* topics: DevOps
+* topics: DevSecOps
 * points: 3
 
 ##### !question
@@ -165,35 +177,35 @@ Which of the following statements about DevOps are true?
 
 ### !challenge
 
-* type: checkbox
-* id: ae459594-a009-4469-ae7e-5288ce791801
-* title: Advantages of DevOps Team
+* type: multiple-choice
+* id: a76e29b2-5e8e-4c27-a98f-541bf4f4c035
+* title: DevSecOps Benefits
 * points: 3
-* topics: DevOps
+* topics: Strategy
 
 ##### !question
 
-What are the core advantages of implementing a DevOps Team?
+Which benefits of adopting a DevSecOps approach could be included in the acquisition strategy to adopt a DevSecOps approach?
+1. Improved Deployment frequency, which can lead to faster time to market
+1. Lower failure rate of new releases
+1. Shortened lead time between fixes
+1. Faster mean time to recover in the event of a new release crashing or otherwise disabling the current system. 
 
 ##### !end-question
 
 ##### !options
 
-* Standardize coding best practices
-* Improve products faster
-* Speed up development cycle
-* Get feedback for a new release faster
-* Allows newer technology
+* Just 1 and 4
+* Just 1, 2 and 3
+* None of the above
+* All of the above
 
 
 ##### !end-options
 
 ##### !answer
 
-* Improve products faster
-* Speed up development cycle
-* Get feedback for a new release faster
-* Allows newer technology
+* All of the above
 
 #### !end-answer
 
@@ -205,689 +217,219 @@ What are the core advantages of implementing a DevOps Team?
 
 ### !challenge
 
-
-* type: checkbox
+* type: multiple-choice
 * id: c1ad5856-0ab0-4d07-81b5-5fabe49ef42f
-* title: Project Management traits
+* title: Product Management Traits
 * points: 3
-* topics: Project Management
+* topics: Product/Project Management
 
 ##### !question
-Which of the following statements about Project Management are true?
+
+Recalling the differences between product and project management, what is not true about product management?
+1. Once built, it does NOT change much
+1. CAN be used prior to completion
+1. Significant information IS discovered while building/developing
+1. Significant initial planning IS required
+1. SHOULD change over time
+1. Does NOT discover significant information while building/developing
+1. Initial planning ONLY requires framework of initial assumptions and design
+1. MUST be completed before using
+
 
 ##### !end-question
 
 ##### !options
 
-* Once built, it does not change much
-* Can be used prior to completion
-* Initial planning only requires framework of initial assumptions and design
-* Significant initial planning is required
-* Does not discover significant information while building/developing
-* Should change over time
-* Must be completed before using
-* Significant information is discovered while building/developing
+* 1, 4, 6, 8 only
+* 1, 3, 5, 7 only
+* None of the above
+* All of the Above
+* 4, 5, 7, 8 Only
+
 
 ##### !end-options
 
 ##### !answer
 
-* Once built, it does not change much
-* Significant initial planning is required
-* Does not discover significant information while building/developing
-* Must be completed before using
+* 1, 4, 6, 8 only
 
-##### !end-answer
+#### !end-answer
 
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-
-### !challenge
-
-* type: checkbox
-* id: 49a2e51d-b916-4948-a8eb-f3b677a799c5
-* title: Program Management vs. Product Management
-* points: 3
-* topics: Project Management
-
-##### !question
-
-Which of the following statements about product management are **not correct**?
-
-##### !end-question
-
-##### !options
-
-* Once built, it does NOT change much
-* CAN be used prior to completion
-* Significant information IS discovered while building/developing
-* Significant initial planning IS required
-* SHOULD change over time
-* Does NOT discover significant information while building/developing
-* Initial planning ONLY requires framework of initial assumptions and design
-* MUST be completed before using
-
-##### !end-options
-
-##### !answer
-
-* Once built, it does NOT change much
-* Significant initial planning IS required
-* Does NOT discover significant information while building/developing
-* MUST be completed before using   
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 077705e3-e33b-47e3-9489-cb9c9d932a3f
-* title: Cloud Familiarity
-* points: 3
-* topics: Cloud
-
-##### !question
-
-Rate your level of familiarity with Cloud.
-
-##### !end-question
-
-##### !options
-
-* Very Familiar/Confident
-* Moderately Familiar/Confident
-* Not Familiar/Confident
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: daaeeb1c-6705-4090-8af4-0fa543fab083
-* title: Cloud Definition
-* points: 3
-* topics: Cloud
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In your own words, how would you define Cloud?  
-
-
-##### !end-question
-
-##### !placeholder
-
-Write your definition here.
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 14db5bb8-2e9c-42b0-b039-4ed895c677fb
-* title: Self-Evaluate Cloud
-* points: 3
-* topics: Cloud
-
-##### !question
-
-**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
-
-> A network of computers, accessed over the internet, that provides some service; typically provided by a third party and not managed by users themselves.
-<br></br>
-Taking it further: These servers (the network of computers) are designed to either store and manage data, run applications, or deliver content or a service such as streaming videos, web mail, office productivity software, or social media. Instead of accessing files and data from a local or personal computer, you are accessing them online from any Internet-capable device—the information will be available anywhere you go and anytime you need it.
-
-##### !end-question
-
-##### !options
-
-* Very similar
-* Moderately similar -- missing one or two key components
-* Not Similar - the two definitions are widely different
-
-##### !end-options
-
-##### !answer
-*
-##### !end-answer
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: ae272fef-0fda-4ca6-9ec3-a20faa16640a
-* title: Technology Stack Familiarity
-* points: 3
-* topics: Tech Stack
-
-##### !question
-
-Rate your level of familiarity with Technology Stack.
-
-##### !end-question
-
-##### !options
-
-* Very Familiar/Confident
-* Moderately Familiar/Confident
-* Not Familiar/Confident
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 3253fa2a-09cd-433d-9b9b-7210e8fb8f6c
-* title: Tech Stack Definition
-* points: 3
-* topics: Tech Stack
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In your own words, how would you define Technology Stack?  
-
-##### !end-question
-
-##### !placeholder
-
-Write your definition here.
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 6a5d649f-0c50-4e91-82f3-f506934c6ccb
-* title: Self-Evaluate Tech Stack
-* points: 3
-* topics: Tech Stack
-
-##### !question
-
-**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
-
-> A tech stack is the collection of tools you choose to build a fully-operational system or application.
-
-##### !end-question
-
-##### !options
-
-* Very similar
-* Moderately similar -- missing one or two key components
-* Not Similar - the two definitions are widely different
-
-##### !end-options
-
-##### !answer
-
-*
-##### !end-answer
-
-### !end-challenge
-
-
-<!-- ======================= END CHALLENGE ======================= -->  
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 48f2e0c5-364b-4749-8d63-af059e330f2b
-* title: End-to-end
-* points: 3
-
-##### !question
-**Choose the correct phrase to fill in the blank**  
-
-_________________ bring together people, process, and technology to enable an end-to-end experience. It is when an organization has already built a team to support digital service development, they call in seasoned product managers, engineers, and UX/UI designers to develop those services. Personnel involvement is predicated on the scope and type of digital services rendered (architects, security pros, testers, deployment engineers are all possible roles as well).
-
-##### !end-question
-
-##### !options
-
-* Digital Services (organic)
-* Brown Field
-* Open source
-* Digital Services Developers - (Professional Service Vendors)
-* Greenfield
-
-##### !end-options
-
-##### !answer
-
-* Digital Services (organic)
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: a7f5278e-c984-43e2-8d1e-fb9978a840cc
-* title: Open Source Familiarity
-* points: 3
-* topics: Tech Stack
-
-##### !question
-
-Rate your level of familiarity with Open Source.
-
-##### !end-question
-
-##### !options
-
-* Very Familiar/Confident
-* Moderately Familiar/Confident
-* Not Familiar/Confident
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 7ef374ed-a174-45dc-bf68-c3e2fe7f4ef3
-* title: Open Source Definition
-* points: 3
-* topics: Open Source
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In your own words, how would you define Open Source?  
-
-##### !end-question
-
-##### !placeholder
-
-Write your definition here.
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 4e3729a4b-8e76-4df3-a2df-0897130f0ae0
-* title: Self-Evaluate Open Source
-* points: 3
-* topics: Tech Stack
-
-##### !question
-
-**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
-
-> The term open source refers to something people can modify and share because its design is publicly accessible.
-
-<Br></Br>Taking it further: The term originated in the context of software development to designate a specific approach to creating computer programs. Today, however, "open source" designates a broader set of values—what we call "the open source way." Open source projects, products, or initiatives embrace and celebrate principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development.
-
-##### !end-question
-
-##### !options
-
-* Very similar
-* Moderately similar -- missing one or two key components
-* Not Similar - the two definitions are widely different
-
-##### !end-options
-
-##### !answer
-
-*
-##### !end-answer
-
-### !end-challenge
-
-
-<!-- ======================= END CHALLENGE ======================= -->
-
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
 ### !challenge
 
 * type: multiple-choice
 * id: 7e2a0475-0d8f-4a07-9572-31d9914234cf
-* title: Risk
+* title: DevelopmentTypes
+* points: 3
+* topics: DevSecOps
 
 ##### !question
 
-Is there greater risk associated with Greenfield or Brownfield projects?
+Which type of development is characterized by a vague project direction with higher risk and more development effort than the other?
 
 ##### !end-question
 
 ##### !options
 
-* Greenfield
 * Brownfield
+* Greenfield
 
 ##### !end-options
 
 ##### !answer
 
 * Greenfield
+#### !end-answer
 
-##### !end-answer
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+### !challenge
+
+* type: multiple-choice
+* id: ae459594-a009-4469-ae7e-5288ce791801
+* title: Advantages of DevOps Team
+* points: 3
+* topics: DevSecOps
+
+##### !question
+
+What are the core advantages of implementing a DevOps Team?
+
+A. Standardize coding best practices
+B. Improve products faster
+C. Speed up development cycle
+D. Get feedback for a new release faster
+E. Allows newer technology
+##### !end-question
+
+##### !options
+* 1, 3, 4 Only
+* 2, 3, 4, 5 Only
+* 3, 4, 5 Only
+* 1, 2, 3, 4 Only
+
+##### !end-options
+
+##### !answer
+
+* 2, 3, 4, 5 Only
+
+#### !end-answer
 
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: c48b4142-079e-465d-af3f-6425cecb3ed9
-* title: Open Source Familiarity
+* id: 78ea4824-0445-44bb-8faa-f28470f32f60
+* title: Agile & DevSecOps
 * points: 3
-* topics: Tech Stack
+* topics: DevSecOps
 
 ##### !question
-
-Rate your level of familiarity with Open Source.
+Agile and DevSecOps are similar but differ in a few important aspects.  Which statement is correct?
 
 ##### !end-question
 
 ##### !options
+* DevSecOps incorporates tools and automation, which was enabled by the adoption of Agile
+* Agile is process driven whereas DevSecOps is role driven.
+* Agile is role driven whereas DevSecOps is process driven.
+* Agile is a mindset, while DevSecOps is tools and doesn’t require a mindset. 
 
-* Very Familiar/Confident
-* Moderately Familiar/Confident
-* Not Familiar/Confident
 
 ##### !end-options
 
 ##### !answer
 
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+* DevSecOps incorporates tools and automation, which was enabled by the adoption of Agile
+#### !end-answer
 
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 1ce6c40a-8d89-441e-8102-82acce257a0f
-* title: Microservices Definition
-* points: 3
-* topics: Microservices
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In your own words, how would you define Microservices  
-
-##### !end-question
-
-##### !placeholder
-
-Write your definition here.
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: 428c5bc07-9c37-4507-90ab-15df3f241fd2
-* title: Self-Evaluate Microservices
+* id: 9ee0169d-b909-4bc6-aa71-156bffb9a004
+* title: MOSA Enabling Concepts
 * points: 3
-* topics: Microservices
+* topics: Strategy
 
 ##### !question
 
-**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
-
-> A ‘microservice’ is a software development technique—a variant of the service-oriented architecture (SOA) architectural style that structures an application as a collection of loosely coupled services.
+What concepts were discussed that can help to enable Modular Open System Architecture (MOSA)?
+1. Implementation of microservices 
+1. Modular (multiple) contract strategy 
+1. Utilization of strangler pattern 
+1. Well documented APIs 
 
 ##### !end-question
 
 ##### !options
+* 1, 2, 3 Only
+* 1 and 3 Only 
+* 2 and 4 Only 
+* 1, 2, 3, 4
 
-* Very similar
-* Moderately similar -- missing one or two key components
-* Not Similar - the two definitions are widely different
 
 ##### !end-options
 
 ##### !answer
 
-*
-##### !end-answer
+* 1, 2, 3, 4
 
-### !end-challenge
-
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 536d8754-d671-42d9-b790-dcc0121b8044
-* title: Software Metrics Familiarity
-* points: 3
-* topics: Metrics
-
-##### !question
-
-Rate your level of familiarity with Software Metrics.
-
-##### !end-question
-
-##### !options
-
-* Very Familiar/Confident
-* Moderately Familiar/Confident
-* Not Familiar/Confident
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+#### !end-answer
 
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 8e3b96f9-b31f-4473-91e1-bd2ae47b1096
-* title: Software Metrics Definition
-* points: 3
-* topics: Metrics
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In your own words, how would you define Software Metrics?
-
-##### !end-question
-
-##### !placeholder
-
-Write your definition here.
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: 45c17da51-37fd-41d7-8c93-5be2ecf526c3
-* title: Self-Evaluate Software Metrics
+* id: 437c4dd2-cf2e-4263-abcd-c4af2681a040
+* title: MOSA Enabling Concepts
 * points: 3
-* topics: Metrics
+* topics: Strategy
 
 ##### !question
 
-**Compare the answer you wrote above to the current Digital DNA definition below. How similar are the two definitions?**
-
-> A software metric is a measure of software characteristics which are quantifiable or countable.
-
-<br></br>Taking it further: Software metrics are important for many reasons, including measuring software performance, planning work items, measuring productivity, and many other uses.
-
+From the list below, select the top priority that would enable DevSecOps in your organization:
 ##### !end-question
 
 ##### !options
+* Team Architecture and Communication Structures 
+* Tech Stack
+* Software Architecture
+* Development Pipeline
 
-* Very similar
-* Moderately similar -- missing one or two key components
-* Not Similar - the two definitions are widely different
 
 ##### !end-options
 
 ##### !answer
 
-*
-##### !end-answer
+* Team Architecture and Communication Structures
+
+#### !end-answer
 
 ### !end-challenge
-
 
 <!-- ======================= END CHALLENGE ======================= -->
