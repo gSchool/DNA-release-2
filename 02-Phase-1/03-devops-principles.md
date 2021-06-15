@@ -8,6 +8,9 @@ By the end of this lesson you will be able to:
 * Understand the Three Ways of DevSecOps
 * Understand the Seven Principles and Wastes
 
+## Introduction
+Throughout this lesson we define different methodologies and approaches associated with DevSecOps. Referring back to this section later (or the videos referenced) on a quarterly or bi-annual basis can provide overall feedback and identify ways to improve your organization. 
+
 ### !callout-warning
 ## Watch this
 Before proceeding with the lesson, please take a few moments to watch the following video
@@ -320,7 +323,7 @@ NOTE: This is part of the course content
    * **DevSecOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, resulting in lengthy handoffs, delays, and unplanned work.
 
 ### How This Applies to Procurement
-Strategically acquiring knowledge about how DevSecOps works, especially what it is and what it is not, enables us to develop different acquisitions strategies to better serve the user and mission. If you do not currently have any of these methods employed in your acquisition strategy, consider how you might partner with the vendor to begin adopting DevSecOps methodologies.
+Strategically acquiring knowledge about how DevSecOps works, especially what it is and what it is not, enables us to develop different acquisition strategies to better serve the user and mission. If you do not currently have any of these methods employed in your acquisition strategy, consider how you might partner with the vendor to begin adopting DevSecOps methodologies.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -375,8 +378,8 @@ What are the Seven Wastes?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-Resources
+## Resources
 
-1. Source: Kim, Gene. Phoenix Project, 5th Anniversary Edition: a Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press, 2018.
-2. [Google re:Work](https://rework.withgoogle.com/print/guides/5721312655835136/) provides more details.
-3. Coursera: [DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button)
+* **Book:** Kim, Gene. Phoenix Project, 5th Anniversary Edition: a Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press, 2018.
+* **Website:** [Google re:Work](https://rework.withgoogle.com/print/guides/5721312655835136/) provides more details.
+* **Online Course:** Coursera: [DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button)
