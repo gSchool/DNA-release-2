@@ -4,23 +4,27 @@
 * Understand technology choices are made to realize architectural and design goals/needs
 * Define technical debt and understand its needs
 * Understand tech stack diversity, how individual technologies need to complement each other, and different stack pros/cons
-* Recognize the value of baselining technology choices as late as possible
-* Understand the value of abstraction and virtualization
-* Investigate alternative tech stack implementations
+
+## Introduction
+
+As you read through this lesson, don't forget what we previously discussed and the ever prevalent influence of Conway's law. We say this not to dissuade you of the importance of the topics below, but rather to emphasize the multifaceted and tailored approach required when implementing DevSecOps.
+
+### !callout-info
+## Recall: Conway’s Law
+“Organizations which design systems...are constrained to produce designs which are copies of the communication structures of these organizations.”
+### !end-callout
 
 ## Acquisitions + Technology
 
 Before continuing this course, or even this module, we need to talk. Perhaps we should have said something a bit earlier, but we decided that posing and answering this question after talking about technology for a while was the best way to go. Why are we focusing so much on technology?  
 
-You may be thinking, “I have specifically never studied technology before - stop making me study it now!” But, advancements in technology and threats from our adversaries REQUIRE you to understand this world, so we can meet a need.   
+You may be thinking, “I have specifically never studied technology before - stop making me study it now!” But, advancements in technology and threats from our adversaries **REQUIRE** you to understand this world, so we can meet a need.   
 
 >“the thread that runs through all of our programs and all that we do is software...”  HON Ellen Lord, Undersecretary of Defense for Acquisition and Sustainment
 
-In Fiscal Year 2018, the DoD budget was $668B. Based on a GAO report, $358.3B of that was contracted, meaning we are contracting **58%** of our budget. Contracts are created and managed in large part by acquisition professionals. Hopefully this makes clear the impact we as a professional community have. [Federal Government Contracting for Fiscal Year 2018](https://blog.gao.gov/2019/05/28/federal-government-contracting-for-fiscal-year-2018-infographic/)
-
 ### !callout-secondary
 ## Disclaimer
-This section may be tech heavy for some. If not, you may just have the makings of becoming a software practitioner! Either way, the information included in this module explains how certain concepts influence your role as a software acquisition professional, and their impact. These lessons will also still be available to you after the course concludes, to serve as a continued guide and information resource.
+This section may be tech heavy for some. If not, you may just have the makings of becoming a software practitioner! Either way, the information included in this module explains how certain concepts influence your role as a software acquisition professional, and their impact. 
 ### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -30,7 +34,7 @@ This section may be tech heavy for some. If not, you may just have the makings o
 
 * type: multiple-choice
 * id: 4d79ae5c-b6f2-43a0-8f29-501ab247ef9a
-* title: Technology understanding
+* title: !Technology understanding
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -49,7 +53,7 @@ Do you personally believe that understanding the technology landscape can help y
 
 ##### !answer
 
-* Yes
+* *
 
 ##### !end-answer
 
@@ -75,11 +79,10 @@ Now, the process shifts to assign technologies to system components, in order to
 
 For example, nearly every software-intensive system needs identity and access management (IdAM) capability. IdAM is exactly what it sounds like - it ensures that individuals accessing the system should be accessing the system by creating unique identities, then managing and limiting access based on those identities. While IdAM systems concepts are an entire lesson on their own, you can start learning more here: [IdAM in a Nutshell – DoD Cyber Exchange](https://public.cyber.mil/idam/idam-in-a-nutshell/).
 
-### !callout-success
-## How this can apply to acquisitions
+### !callout-info
+## How this can apply to acquisition
 if procuring a system, a secure IdAM will most likely need to be included as part of the system or developed. That is, how can this be incorporated into your contract?   
 ### !end-callout
-
 
 Other than an IdAM, a plethora of other technologies also need to be decided on.   
 
@@ -89,7 +92,7 @@ Your software needs fast, reliable, and secure access to your data. You’ll nee
 
 So many technical details must all work together to meet your system capability needs and key performance parameters!  
 
-* Don’t sweat the small stuff though- instead, “keep calm and carry on”:
+* Don’t sweat the small stuff though- instead, [“keep calm and carry on”](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On):
 * Capture these needs in a backlog
 * Prioritize them
 * Assign a few quick analysis of alternatives (AoAs) to your technical staff, and
@@ -97,9 +100,9 @@ So many technical details must all work together to meet your system capability 
 
 Don’t be afraid to make choices and move on! Keep in mind, there is rarely a single optimal technology choice to satisfy a need- many options will usually be “good enough”. When choosing technology, it's worthwhile to remember that Voltaire once said, “Perfect is the enemy of good.” Similarly, Robert Watson-Watt, the developer of Britain's early warning radar in WWII said "Give them the third best to go on with; the second best comes too late, the best never comes."   
 
-For those less comfortable with technology decisions, that’s the benefit of a DevSecOps team- other members are there to support you! With that said, it’s important to provide some insight into the different types of technology tradeoff decisions you and your team might make. Module 3 and 4 will go into more detail.  
+For those less comfortable with technology decisions, that’s the benefit of a DevSecOps team- other members are there to support you! With that said, it’s important to provide some insight into the different types of technology tradeoff decisions you and your team might make. Module 103 and 104 will go into more detail.  
 
-Attempting perfection in every choice defers delivery indefinitely. Instead, have a thorough understanding of the choices you make, and be ready to reevaluate them. Then prepare to potentially exchange underlying technology in your design when more effective or modern alternatives emerge, or if you need capability that you don’t currently have available. These recommendations lead us next to our discussion - technical debt.  
+**Attempting perfection in every choice defers delivery indefinitely.** Instead, have a thorough understanding of the choices you make, and be ready to continuously reevaluate them. Then prepare to potentially exchange underlying technology in your design when more effective or modern alternatives emerge, or if you need capability that you don’t currently have available. These recommendations lead us next to our discussion - technical debt.  
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -145,17 +148,17 @@ There are ways you can work to enable quick decisions on tough technical choices
 <!-- ======================= END CHALLENGE ======================= -->
 
 ## Technical Debt
-What exactly is technical debt? Ward Cunningham, one of the original 17 authors of the Agile Manifesto, coined the term. Simply put, technical debt is like credit card interest. Technical debt, like credit card debt, accrues over time. While your project is in development stages, it might seem worthwhile to choose “easy”, over “better, but time consuming”. But just like credit card debt, the more you accumulate, the harder it is to “pay off”, or implement any changes.  
+What exactly is technical debt? Ward Cunningham, one of the original 17 authors of the Agile Manifesto, coined the term. Simply put, technical debt is like credit card interest. Technical debt, like credit card debt, accrues over time. While your project is in development stages, it might seem worthwhile to choose “easy” over “better, but time consuming”. But just like credit card debt, the more you accumulate, the harder it is to “pay off”, or implement any changes.  
 
 ![](../__images/mafia.png)
 
-Oftentimes we might make compromises in the technical elegance of an implementation in order to save resources (time and/or money), adding to the balance of technical debt. This is not wrong, is often required for delivery capability within a relevant timeline.   
+Oftentimes we might make compromises in the technical elegance of an implementation in order to save resources (time and/or money), adding to the balance of technical debt. This is not wrong, it is often required for delivery capability within a relevant timeline.   
 
-For a more concrete examples, let’s look at tech debt in two ways:
+For more concrete examples, let’s look at tech debt in two ways:
 
 * **Technical debt in code elegance:** Writing a string of code is like writing a sentence: that’s why we call them coding “languages”. Much like writing a clear and concise paragraph, writing clean, elegant code can sometimes be difficult. Because of that initial difficulty, teams often choose an easier, but often more lengthy and “hard-coded” method of execution. As scenarios change, failures occur because the code was written for specificity, not flexibility. A rule to remember: the more code there is, the more expensive it is to maintain, and the greater the risk for failure.
 
-* **Technical debt in aging products or hardware:** Technology is constantly evolving. A new computer today is soon superseded by next year’s more efficient model, featuring larger data storage, greater processing power, improved graphics, etc. Time also creates vulnerabilities often exploited by hackers. The longer your system is available, the greater the likelihood of hackers attempting to breach its security. Just like your personal technology, advantages exist with upgrading an outdated system that is increasingly unreliable or prone to hacking.
+* **Technical debt in aging products or hardware:** Technology is constantly evolving. A new computer today is soon superseded by next year’s more efficient model, featuring larger data storage, greater processing power, improved graphics, etc. Time also creates vulnerabilities often exploited by hackers are attempting to breach its security. The longer your system is available, the greater the likelihood of hackers attempting to breach its security. Just like your personal technology, advantages exist with upgrading an outdated system that is increasingly unreliable or prone to hacking.
 
 This leads us to two critical aspects of technical debt that you need to be mindful of:
 
@@ -213,8 +216,8 @@ If you contract out the development of an item you are not responsible for under
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-### !callout-success
-## How this can apply to acquisitions
+### !callout-info
+## How this can apply to acquisition
 As shown above, technical debt should be baked into all acquisition and contracting strategies (tech refresh is common in every Work Breakdown Structure). Use the information above to continue to defend this funding.
 ### !end-callout
 
@@ -233,8 +236,8 @@ In addition to making technology choices for each layer, teams will need to deci
 
 These are not necessarily bad choices. However, all of these choices must be documented and remembered for future reference. Even when choosing open-standards based components, technology and/or vendor lock-in may still occur. Frankly, every choice results in some kind of lock-in, and the best way to approach it is to acknowledge that fact and plan for an inevitable future where that choice must be reevaluated. Chasing technology is a never ending pursuit.   
 
-### !callout-success
-## How this can apply to acquisitions
+### !callout-info
+## How this can apply to acquisition
 Ensure that your contracts include well-documented use of proprietary software and data storage. Furthermore, require documented, standardized (if applicable) Application Programming Interfaces (APIs) to minimize long-term lock-in. Adhering to these two rules will help your program be better enabled when moving between vendors.
 ### !end-callout
 
@@ -256,8 +259,8 @@ However, when developing software for an integrated hardware and software embedd
 * Production environment is the actual weapon system hardware.
 
 
-### !callout-success
-## How this can apply to acquisitions
+### !callout-info
+## How this can apply to acquisition
 If you are relying on a vendor to support capability development ensure your contracts have the text in bold as a requirement, this is referred to as platform drift and can wreak havoc on the ability to frequently deliver capability to operations.
 ### !end-callout
 
@@ -325,8 +328,8 @@ A few things to remember:
 * For those seeing the volume of choices, **open-source does not require contract actions.** Security actions? Yes. But contracting professionals can breathe a sigh of relief on this part at least.
 * **Bad choices do exist!** Especially amongst those that are certified to meet their capabilities via a non-profit industry association like CNCF. The challenge is finding the correct combination of technologies to meet your program needs, while delivering the right capabilities, that also works well in combination with itself. In this case, not all Lego blocks are compatible.
 
-### !callout-success
-## How this can apply to acquisitions
+### !callout-info
+## How this can apply to acquisition
 Technical decisions must be made, then frequently evaluated and updated. Whether the government is leading these decisions, partnering with a vendor, solely relying on a vendor, or anywhere in between, contracts must be flexible. This allows for technical decisions to change. The list of decisions above may be a good starting point when considering the organization of your contract(s).  
 ### !end-callout
 
@@ -419,9 +422,9 @@ Again, this is a “technology free” or agnostic view of DevSecOps, but does p
 
 **NOTE**: Many of the products shown here are choices that accomplish the same thing. For example, look at the top left of the diagram. All four of the products shown (GitHub, GitLab, Git, and Jira), all provide the capability for shared source code repositories that track every version and branch of the source code. But they all are capable of much more. In fact, it’s likely that a team would only need to choose one of those options, but in some cases, you might want more than one, to account for different types of dependencies. As an example, the block listing products that “secure” the code has a number of commercial and open-source products listed. Each may provide different scanning or security evaluations, and teams will likely need several of those.  
 
-### !callout-success
-## How this can apply to acquisitions:
-Don’t worry, we are not advocating to avoid market research. These are just examples and types of supported capabilities within DevSecOps. Hopefully this is useful for understanding what parts of the process can leverage vendor-provided or open-source tools, and minimize the need for custom code. Again, always think, “Can this be automated?” Or, “Is this practice/process available in industry?” More often than not, you may find that the answer to either or both is yes!
+### !callout-info
+## How this can apply to acquisition:
+Don’t worry, we are **not** advocating to avoid market research. These are just examples and types of supported capabilities within DevSecOps. Hopefully this is useful for understanding what parts of the process can leverage vendor-provided or open-source tools, and minimize the need for custom code. Again, always think, “Can this be automated?” Or, “Is this practice/process available in industry?” More often than not, you may find that the answer to either or both is yes!
 ### !end-callout  
 
 One last example before we move on. The below is from the Joint Improvised Explosive Defeat Office (JIDO), which was an early pioneer in DevSecOps and continuous Authority To Operate (ATO) in the DoD:  
@@ -434,7 +437,7 @@ To understand the full details of this comprehensive process and development pip
 
 ## When Should I Choose My Tech?
 
-**As late as you possibly can!** We cannot overemphasize this. Again, as late as you possibly can. Seriously. Technology moves incredibly fast, especially when considering technology stacks, development pipelines, and tooling. If you choose a technology solution a mere 6 months before you start development, chances are it will be several versions advanced by the time you start coding, and may have even been supplanted by some new market leader. Which brings up another critical point- always be willing and able to move to newer technology. Embrace the phrase “strong convictions loosely held.” Embrace and commit to your tech, but always understand that newer better tech is always on the horizon.   
+**As late as you possibly can!** We cannot overemphasize this. Again, **as late as you possibly can.** Seriously. Technology moves incredibly fast, especially when considering technology stacks, development pipelines, and tooling. If you choose a technology solution a mere 6 months before you start development, chances are it will be several versions advanced by the time you start coding, and may have even been supplanted by some new market leader. Which brings up another critical point- always be willing and able to move to newer technology. Embrace the phrase **“strong convictions loosely held.”** Embrace and commit to your tech, but always understand that newer better tech is always on the horizon.   
 
 There is a delicate balance between stability and staying current. One you will constantly have to manage as a lead engineer or program manager or member of the DevSecOps team. Don’t create too much churn for your developers and users, but don’t fall too far behind. One of the most important things you can do to help with this is to create a design and architecture ready to accommodate and embrace change, re-factoring, and re-hosting.   
 
@@ -451,7 +454,9 @@ There is a delicate balance between stability and staying current. One you will 
 
 ##### !question
 
-From this lesson, what information will be most impactful in your current role
+From this lesson, what information will be most impactful in your current role:
+
+_There is no correct answer, this is your opinion._
 
 ##### !end-question
 
@@ -480,17 +485,27 @@ From this lesson, what information will be most impactful in your current role
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+### !callout-success
+## Key Takeaways: 
+* Technology and software architecture are both important, but don’t forget about the design of your team, especially internal and external communication structures. Users, leadership, and stakeholders are all involved in the success of the technology we develop. Remember Conway’s law will always be the largest bottleneck.
+* **Tech debt will always be a concern.** Tech debt can be both planned or unplanned.  Software architecture and technology choices **must** be reassessed over time, and microservice design/MOSA enables a smooth transition.
+* Tech Stacks and Development Pipelines are foundational for delivering software continuously, but do have to be developed for every program. Don’t forget, enterprise capability and re-use is a foundational concept of DevSecOps.
+### !end-callout
+
 ## Further Research Opportunity: Modular and Loosely Coupled Architectures
 While the topic of modular and loosely coupled architectures is a rich topic all on its own, here are just a few final places you can go for more:
 * [The Twelve-Factor App (12factor.net)](https://12factor.net/)
 * [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 * [Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
 
-## Sources
-*  [Keep Calm and Carry On - Wikipedia](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On)
-* L Brown (1999), Technical and Military Imperatives: A Radar History of World War 2, p. 64, ISBN 9781420050660
-*  [Technical debt - Wikipedia](https://en.wikipedia.org/wiki/Technical_debt#:~:text=Technical%20debt%20(also%20known%20as,approach%20that%20would%20take%20longer.)
-* [Ward Explains Debt Metaphor (c2.com)](http://wiki.c2.com/?WardExplainsDebtMetaphor)
-*  [IaaS vs PaaS vs SaaS: Examples and How to Differentiate](https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/#the-key-differences-between-on-premise-saas-paas-iaas) (2020) (bigcommerce.com), accessed 6 Jan 21
-*  [DevSecOps Reference Architectures](https://waterplacid.files.wordpress.com/2018/04/devsecops-reference-architectures-2018.pdf)
-* [Architecture | Office of the Chief Software Officer, U.S Air Force (af.mil)](https://software.af.mil/dsop/architecture/)
+## Resources
+
+* **Book:** L Brown (1999), [Technical and Military Imperatives: A Radar History of World War 2,](https://www.amazon.com/Technical-Military-Imperatives-Radar-History/dp/1138429929) p. 64, ISBN 9781420050660
+* **DoD Resources:** [Architecture | Office of the Chief Software Officer, U.S Air Force (af.mil)](https://software.af.mil/dsop/architecture/)
+* **Video:** [Governance and Transparency in GovSec DevOps: Leonel Garciga - YouTube.](https://www.youtube.com/watch?v=LNL5J6gIkv0)
+* **Website:** 
+   * [DevSecOps Reference Architectures](https://waterplacid.files.wordpress.com/2018/04/devsecops-reference-architectures-2018.pdf)
+   * [IaaS vs PaaS vs SaaS: Examples and How to Differentiate](https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/#the-key-differences-between-on-premise-saas-paas-iaas) (2020) (bigcommerce.com), accessed 6 Jan 21
+   * [Technical debt - Wikipedia](https://en.wikipedia.org/wiki/Technical_debt#:~:text=Technical%20debt%20(also%20known%20as,approach%20that%20would%20take%20longer.)
+   * [Ward Explains Debt Metaphor (c2.com)](http://wiki.c2.com/?WardExplainsDebtMetaphor)
+
