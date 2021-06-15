@@ -26,7 +26,7 @@ Standards:
         MaxCheckpointSubmissions: 1
         TimeLimit: 60
   -
-    Title: Phase 1
+    Title: Phase A
     Description: Self-paced material for the first week of the class
     UID: ee4650e51426c7487977eeea8e7e6850
     SuccessCriteria:
@@ -70,7 +70,7 @@ Standards:
         UID: e12c6ad7-aab0-4b02-af42-6d5c6dffcd20
         Path: /02-Phase-1/99-survey.survey.md
   -
-    Title: Phase 2
+    Title: Phase B
     Description: Self-paced material for the second week of the class
     UID: b1d06f240dcd471fbac1b563f3b92bf2
     SuccessCriteria:
