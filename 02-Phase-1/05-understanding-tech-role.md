@@ -312,7 +312,7 @@ Before moving onto the development pipeline, let’s discuss an example of the p
 * **Protocols** like IP/TCP/UDP/Multicast are next, and still technically within networking. Decisions at this layer may relate to system requirements like how much bandwidth you need, what your latency requirements are, and assessing your timing requirements, i.e. whether a system is a safety critical real time system.
 * **Storage** is next in the stack. Can you put all your data in the Cloud? Should your storage leverage widely adopted but proprietary storage APIs like AWS’ S3?  
 
-### !callout-info
+### !callout-secondary
 ## Note
 Remember with both networking and storage, you’ll probably want to encrypt everything in transit and at rest, respectively. Uh-oh, now which encryption protocols should I use? How do I do key management? So much complexity.
 ### !end-callout
