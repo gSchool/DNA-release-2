@@ -106,7 +106,7 @@ Remember that all content must be completed prior to Thursday, July 1st.
 
 | **Lessons:** | **Assessments/Checkpoints:** |
 | :---: | :---: |
-| Conclusion | Post-Asssessment|
+| Conclusion | Post-Assessment|
 
 ### !callout-info
 ## Post-Assessment and Survey
