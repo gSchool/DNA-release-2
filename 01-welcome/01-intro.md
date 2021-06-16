@@ -65,9 +65,9 @@ Below outlines the course content, identifying the lessons associated with each 
 
 ### Welcome (1 Lesson and Pre-Assessment)
 
-|**Lessons:**| Welcome to Module 102 of Digital DNA |
-| :--- | :--- |
-|**Assessments/Checkpoints:**| Pre-Asssesment|
+|**Lessons:** | **Assessments/Checkpoints:** |
+| :---: | :---: |
+| Welcome to Module 102 of Digital DNA | Pre-Asssessment|
 
 ### !callout-info
 ## Pre-Assessment Availability
@@ -78,9 +78,9 @@ Remember, the Pre-Assessment:
 
 ### Phase A (7 Lessons and Phase A Checkpoint)
 
-|**Lessons:**| The DevOps Story <br> CALMS, the Three Ways of DevSecOps, and the Seven Principles and Wastes <br> The DoD Landscape <br> Establishing DevSecOps Organizations in the DoD <br> Greenfield and Brownfield <br> Software Architecture--Microservices, Strangler Pattern, and MOSA <br> Understanding Technology’s Role |
-| :--- | :--- |
-|**Assessments/Checkpoints:**|  Phase A Checkpoint|
+|**Lessons:** | **Assessments/Checkpoints:** |
+| :---: | :---: |
+|The DevOps Story <br> CALMS, the Three Ways of DevSecOps, and the Seven Principles and Wastes <br> The DoD Landscape <br> Establishing DevSecOps Organizations in the DoD <br> Greenfield and Brownfield <br> Software Architecture--Microservices, Strangler Pattern, and MOSA <br> Understanding Technology’s Role |  Phase A Checkpoint|
 
 
 ### !callout-info
@@ -92,9 +92,9 @@ Prevents you from having to cram all the content in last minute
 
 ### Phase B (6 Lessons and Phase B Checkpoint)
 
-|**Lessons:**| The Five Thieves of Timey <br> Benefits to Making Work Visible <br> Outcomes over Outputs <br> Metrics--What are They? <br> How to Navigate the Sea of Metrics <br> Dev\*Ops Workflow within the DoD|
-| :--- | :--- |
-|**Assessments/Checkpoints:**|  Phase B Checkpoint|
+|**Lessons:**| **Assessments/Checkpoints:**|
+| :---: | :---: |
+| The Five Thieves of Timey <br> Benefits to Making Work Visible <br> Outcomes over Outputs <br> Metrics--What are They? <br> How to Navigate the Sea of Metrics <br> Dev\*Ops Workflow within the DoD| Phase B Checkpoint|
 
 
 ### !callout-info
@@ -104,9 +104,9 @@ Remember that all content must be completed prior to Thursday, July 1st.
 
 ### Wrap-up (1 Lesson and Post-Assessment)
 
-|**Lessons:**| Conclusion |
-| :--- | :--- |
-|**Assessments/Checkpoints:**| Post-Asssesment|
+| **Lessons:** | **Assessments/Checkpoints:** |
+| :---: | :---: |
+| Conclusion | Post-Asssessment|
 
 ### !callout-info
 ## Post-Assessment and Survey
