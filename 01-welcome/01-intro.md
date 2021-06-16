@@ -131,7 +131,7 @@ A few changes you may notice as you are working through:
 * **Office Hours:** We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.  
   * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 102 is offered. **These are optional.**  
 
-* Also, we have created personalized Course Completion with Continuous Learning Point (CLP) equivalent information that we will send to all those that complete all self-paced material + virtual session!
+* **Module Completion Certificates:** After completing content and receiving an 80% or greater we will provide a certificate with Continuous Learning Point (CLP) equivalent. 
 
  We hope that you enjoy the course, and as always do not hesitate to reach out to Tory or Christina if you have any questions!
 
