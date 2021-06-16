@@ -5,7 +5,7 @@ Standards:
   -
     DefaultUnitVisibility: hidden
     Title: Welcome
-    Description: Information about this course
+    Description: 1 Lesson and Pre-Assessment
     UID: 83218ac34c1834c26781fe4bde918ee4
     SuccessCriteria:
       - success criteria
@@ -22,7 +22,7 @@ Standards:
         TimeLimit: 60
   -
     Title: Phase A
-    Description: Self-paced material for the first week of the class
+    Description: 7 Lessons and Phase A Checkpoint
     UID: ee4650e51426c7487977eeea8e7e6850
     SuccessCriteria:
       - success criteria
@@ -66,7 +66,7 @@ Standards:
         Path: /02-Phase-1/99-survey.survey.md
   -
     Title: Phase B
-    Description: Self-paced material for the second week of the class
+    Description: 6 Lessons and Phase B Checkpoint
     UID: b1d06f240dcd471fbac1b563f3b92bf2
     SuccessCriteria:
       - success criteria
@@ -102,7 +102,7 @@ Standards:
         MaxCheckpointSubmissions: 1
   -
     Title: Wrap-Up
-    Description: Post-assessment and additional information
+    Description: 1 Lesson and Post-Assessment
     UID: 52e6aa94-966d-478f-91f0-dd467cbe2c14
     SuccessCriteria:
       - success criteria
