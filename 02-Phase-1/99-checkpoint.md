@@ -189,7 +189,7 @@ Which benefits of adopting a DevSecOps approach could be included in the acquisi
 1. Improved Deployment frequency, which can lead to faster time to market
 1. Lower failure rate of new releases
 1. Shortened lead time between fixes
-1. Faster mean time to recover in the event of a new release crashing or otherwise disabling the current system. 
+1. Faster mean time to recover in the event of a new release crashing or otherwise disabling the current system.
 
 ##### !end-question
 
@@ -213,51 +213,7 @@ Which benefits of adopting a DevSecOps approach could be included in the acquisi
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
-### !challenge
-
-* type: multiple-choice
-* id: c1ad5856-0ab0-4d07-81b5-5fabe49ef42f
-* title: Product Management Traits
-* points: 3
-* topics: Product/Project Management
-
-##### !question
-
-Recalling the differences between product and project management, what is not true about product management?
-1. Once built, it does NOT change much
-1. CAN be used prior to completion
-1. Significant information IS discovered while building/developing
-1. Significant initial planning IS required
-1. SHOULD change over time
-1. Does NOT discover significant information while building/developing
-1. Initial planning ONLY requires framework of initial assumptions and design
-1. MUST be completed before using
-
-
-##### !end-question
-
-##### !options
-
-* 1, 4, 6, 8 only
-* 1, 3, 5, 7 only
-* None of the above
-* All of the Above
-* 4, 5, 7, 8 Only
-
-
-##### !end-options
-
-##### !answer
-
-* 1, 4, 6, 8 only
-
-#### !end-answer
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
 ### !challenge
@@ -349,7 +305,7 @@ Agile and DevSecOps are similar but differ in a few important aspects.  Which st
 * DevSecOps incorporates tools and automation, which was enabled by the adoption of Agile
 * Agile is process driven whereas DevSecOps is role driven.
 * Agile is role driven whereas DevSecOps is process driven.
-* Agile is a mindset, while DevSecOps is tools and doesn’t require a mindset. 
+* Agile is a mindset, while DevSecOps is tools and doesn’t require a mindset.
 
 
 ##### !end-options
@@ -375,17 +331,17 @@ Agile and DevSecOps are similar but differ in a few important aspects.  Which st
 ##### !question
 
 What concepts were discussed that can help to enable Modular Open System Architecture (MOSA)?
-1. Implementation of microservices 
-1. Modular (multiple) contract strategy 
-1. Utilization of strangler pattern 
-1. Well documented APIs 
+1. Implementation of microservices
+1. Modular (multiple) contract strategy
+1. Utilization of strangler pattern
+1. Well documented APIs
 
 ##### !end-question
 
 ##### !options
 * 1, 2, 3 Only
-* 1 and 3 Only 
-* 2 and 4 Only 
+* 1 and 3 Only
+* 2 and 4 Only
 * 1, 2, 3, 4
 
 
@@ -416,7 +372,7 @@ From the list below, select the top priority that would enable DevSecOps in your
 ##### !end-question
 
 ##### !options
-* Team Architecture and Communication Structures 
+* Team Architecture and Communication Structures
 * Tech Stack
 * Software Architecture
 * Development Pipeline
