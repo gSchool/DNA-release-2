@@ -8,7 +8,7 @@ By the end of this lesson you will be able to:
 * Define steps that tie outputs to outcomes
 * Understand how to measure what matters to the business
 
-# Defining Outcomes and Outputs
+## Defining Outcomes and Outputs
 
 Let’s begin with a short, non-software related story. With no context, assess Sam’s workout regimen and answer the following questions.
 
@@ -284,7 +284,8 @@ Onboarding new personnel or reaching larger audiences through stakeholder demos 
 
 ## Outcome Goals
 Leaders and employees alike are wondering:  
-<span style="font-family:script;font-size:2em;">"What should I be measuring"</span>
+
+<span style="font-family:script;font-size:2em;text-align:center">"What should I be measuring"</span>
 
 Meetings, emails, phone calls etc. alone do not create an outcome. An outcome should maintain alignment and focus on a program/PEO/service component’s desired goal, and enable you to measure whether or not you have achieved that goal.
 
@@ -292,32 +293,6 @@ Let’s put it in another light:
 
 <p style="text-align:center">The daily tasks you complete are outputs, not outcomes.<br>      
 If you can’t connect your work to a measurable outcome, should you be doing it at all?</p>
-### !challenge
-
-* type: paragraph
-* id: 924e1089-1c90-485a-a1da-70efa7950e8e
-* title: Measurable Outcome
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-If you can not connect your work to a measurable outcome should you be doing it at all? Why or Why not?
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 If you are reading this and see yourself or your leadership style focused on outputs and not lacking the tie into the strategic imperative, this next section is for you.
 
@@ -325,9 +300,9 @@ If you are reading this and see yourself or your leadership style focused on out
 
 ## Objectives and Key Results (OKRs)
 
-What is the goal?  What questions need to be answered?
-
-One way we can look at understanding this is by creating Objective Key Results (OKRs). 
+OKRs like Kanbans are a tool that can be used by you and your organization. Even if you are familiar please use this section as a refresher. If this is a new concept for you, we hope this provides a good foundation and explanation of why they are used. 
+ 
+What is the goal?  What questions need to be answered? One way we can look at understanding this is by creating Objective Key Results (OKRs). 
 
 ![Path and Goal](__images/03_04_okr_goal.png)
 
@@ -359,7 +334,7 @@ To focus on what matters most, a high-performing team and organization will util
 When we all move in the same direction and toward the same goal, we create alignment.  
 The key to alignment is to communicate priorities across all organizations, so everyone understands what they are contributing to, with an additional bonus of increased job satisfaction. In some way, we all have the desire to belong, and thrive on a sense of ownership.
 ### 3.   Accountability  
-OKRs enable a data driven culture by creating a recurring check-in model for how we are meeting individual, team, and organizational goals. OKRs also drive accountability when achieving outcomes, and promotes a deliberate dialogue of potential accomplishments. This organizational feedback cycle is psychologically safe, and void of judgment.
+OKRs enable a data driven culture by creating a recurring check-in model for how we are meeting individual, team, and organizational goals. OKRs also drive accountability when achieving outcomes, and promote a deliberate dialogue of potential accomplishments. This organizational feedback cycle is psychologically safe, and void of judgment.
 ### 4.   Amazing  
 You might be thinking, “How weird...AMAZING. Whatever do you mean?” Step back for a moment and think back through the past three points- FOCUS, ALIGNMENT, ACCOUNTABILITY...when all of these come together, we are motivated to excel, and test our limits. We have freedom to fail, feel psychological safety to recover from that failure, and most importantly, we push ourselves beyond a checklist and as a person. We are striving to create the most creative and ambitious mindsets, to solve some of the largest problems our nation faces.  That is AMAZING!
 
@@ -406,7 +381,7 @@ OKRs can help you understand outcomes and outputs and how those align to your no
 Objectives should explain **where** you want to go:
 * **High Impact** - What will be most impactful to your organization.
 * **Aligned** - If you are an embedded organization, these should align with higher level goals.
-* **Time Bound** - Objectives should be time bound in a way that requires you to frequently revisit and adjust your organization or programs goals.
+* **Time Bound** - Objectives should be time bound in a way that requires you to frequently revisit and adjust your organization or program's goals.
 
 Key Results should explain **what** results you need to achieve to get there:
 * **High Impact** - If successful, this key result should be felt by over half of your organization.
@@ -416,26 +391,6 @@ Key Results should explain **what** results you need to achieve to get there:
 Tasks (or Initiatives) should help you define **how** you achieve those results:
 * **Specific** - This should reflect a clearly defined task
 * **Within Control** - These should be within the tasked organization or individual’s ability to complete
-
-![Individual vs Collective](__images/03_07_individual_organizational.jpg)
-
-When developing OKRs, we want to ensure we understand the responsibility of the person, team, organization and business.  
-* Who is responsible for developing and executing OKRs?
-* Who is held accountable?
-* When are OKRs reviewed?
-
-![People vs Mission](__images/03_08_people_mission.jpg)
-
-![Aspirational vs Committed](__images/03_09_aspirational_committed.jpg)
-
-![Mission Priorities](__images/03_10_alignment.jpg)
-
-## Who Else Uses These OKRs?
-Here are three companies using OKRs to address their challenges, and what benefits they derive:  
-![Companies using OKRs](__images/03_11_okr_users.jpg)
-
-To close out this section, we want to provide show an OKR Quality Continuum from _Measure What Matters_:  
-![OKR Quality Continuum](__images/03_12_okr_quality.png)
 
 If you currently lead a team, plan to lead a team, and/or you want to implement OKRs (or any strategies you have learned)- make sure you implement them yourself and post for your team to see (transparency) as well as setting OKRs for the organization and team. Hey, if it worked for Google….
 
@@ -502,6 +457,8 @@ Based upon what you have learned, how would you break down your answer to the fi
 <!-- ======================= END CHALLENGE ======================= -->
 
 ## Resources
-* **BOOK**: Making Work Visible: Exposing Time Theft to Optimize Work and Flow by Dominica DeGrandis
-* **BOOK**: Measure What Matters by John Doerr
-* **BOOK**: https://www.senseandrespondpress.com/managing-outcomes
+ 
+* **Books:** 
+    * [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow_](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis
+    * [_Measure What Matters_](https://www.google.com/books/edition/Measure_What_Matters/u2NDDwAAQBAJ?hl=en&gbpv=0)by John Doerr
+    * [_Sense and Respond_](https://www.senseandrespondpress.com/managing-outcomes) by Jeff Gothelf and Josh Seiden
