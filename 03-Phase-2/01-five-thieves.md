@@ -9,18 +9,14 @@ By the end of this lesson you will be able to:
 * Apply the Five Thieves of Time to your current role, and define what the most common thief is for you
 
 
-
-#### !callout-info
-
-## Note
+## Introduction 
 
 This lesson and the next lesson (The Five Thieves of Time and Benefit: Making Work Visible) are heavily influenced by Dominica DeGrandis’ book [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow._](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) These lessons hit the highlights, but we highly recommend you read the full book to gain a better understanding of the material.
 
-![Making Work Visible](__images/MakingWorkVisible.png)
+![Making Work Visible](__images/02_01_MakingWorkVisible.png) 
 
 Before jumping into the **how** of _Making Work Visible_, this section helps explain the **why**. This section leads you through why _Making Work Visible_ will directly benefit you as an individual and as a team member.
 
-#### !end-callout
 
 ## The Five Thieves of Time
 
