@@ -13,7 +13,7 @@ By the end of this lesson you will be able to:
 
 ## Note
 
-This is the second lesson using the book [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis as a framework and primary source of content. Again, these sections are only able to address some key ideas and themes. We highly recommend reading the full book!
+This is the second lesson using the book [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow_](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis as a framework and primary source of content. Again, these sections are only able to address some key ideas and themes. We highly recommend reading the full book!
 
 #### !end-callout
 
@@ -23,7 +23,7 @@ This is the second lesson using the book [_Making Work Visible: Exposing Time Th
 
 Much like our vendors, the Department (Government):
 * Must remain competitive in delivering value to production (operations);
-* Has many organizations running deployment strategies that are redundant, **slow** and **cumbersome**
+* Has many organizations running deployment strategies that are redundant, **slow**, and **cumbersome**
 
 ![Hourglass](/__images/102_B_2_Hourglass.png) 
 
@@ -259,7 +259,7 @@ Which Thief of time infiltrates all others?
 As you increase your capability to deliver, you will soon realize that the more teams that are working, the higher the probability that more features are worked on at the same time. This fact eventually leads to more dependencies.
 
 #### !callout-success
-##TIP
+## TIP
 
 Design your workflow to highlight dependencies. You can highlight them at the bottom of a card, create a new card, or show links between cards. There are many ways to do this, but ensuring visibility between both teams that share the dependencies and their respective Kanban boards is key.
 
@@ -276,7 +276,7 @@ Again, use your board as the rich data source it is. You can do this by tracking
 All are great ways to use the data to improve the workflow.
 
 #### !callout-success
-##TIP
+## TIP
 
 Protect your time and your team’s time by designating specific “Do Not Disturb” hours, or office hours.
 
@@ -366,7 +366,7 @@ As we discussed in Module 1, committing yourself and your team to prioritizing w
 ## <span style="font-size:2em">5.</span> Make Adjustments Based on Learning, Feedback and Metrics
 
 #### !callout-info
-##Note
+## Note
 
 This section previews a discussion on metrics, but is focused primarily on workflow optimization.
 #### !end-callout
