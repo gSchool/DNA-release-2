@@ -8,13 +8,17 @@ By the end of this lesson you will be able to:
 * Understand how the Five Thieves of Time impact your productivity
 * Apply the Five Thieves of Time to your current role, and define what the most common thief is for you
 
+
+
 #### !callout-info
 
 ## Note
 
-This lesson and the next lesson (The Five Thieves of Time and Benefit: Making Work Visible) are heavily influenced by Dominica DeGrandis’ book _Making Work Visible: Exposing Time Theft_ to Optimize Work and Flow. These lessons hit the highlights, but we highly recommend you read the full book to gain a better understanding of the material.
+This lesson and the next lesson (The Five Thieves of Time and Benefit: Making Work Visible) are heavily influenced by Dominica DeGrandis’ book [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow._](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) These lessons hit the highlights, but we highly recommend you read the full book to gain a better understanding of the material.
 
-Before jumping into the **how** of _Making Work Visible_, this section helps explain the **why**. Then, this section leads you through how _Making Work Visible_ will directly benefit you as an individual and as a team member.
+![Making Work Visible](__images/MakingWorkVisible.png)
+
+Before jumping into the **how** of _Making Work Visible_, this section helps explain the **why**. This section leads you through why _Making Work Visible_ will directly benefit you as an individual and as a team member.
 
 #### !end-callout
 
@@ -22,13 +26,7 @@ Before jumping into the **how** of _Making Work Visible_, this section helps exp
 
 Most people notice when their wallet or car is stolen - but do they notice how often their time is stolen from them? Think about it. Time is a precious resource that should be spent/allocated carefully. Have you ever asked yourself where your day went? Are there times you feel like you just can’t complete the days To Do list? Okay, okay - we know not everyone makes a To Do list - but the concept is relatable! Let’s have a closer look.
 
-The Five Thieves of Time are:
-
-1. Too Much Work-in-Progress
-1. Unknown Dependencies
-1. Unplanned Work
-1. Conflicting Priorities
-1. Neglected Work
+![5 Thieves of Time](__images/5ThievesofTime.png)
 
 ## <span style="font-size:2em">1.</span> First Thief: Too Much Work-in-Progress (WIP)
 
@@ -50,7 +48,10 @@ Why does this matter? Too much WIP can result in _delayed delivery of value_, _i
 
 Furthermore, WIP is a **leading indicator** of cycle time. As a preview to our metrics discussion: leading indicators are predictive measures, while lead time and cycle time are **trailing indicators**.
 
-**TAKEAWAY**: We must learn to **say no** to additional work when our schedules are full. As a preview to our next lesson, a great strategy for yourself and your team is to use Kanban.
+### !callout-info
+## Takeaway:
+We must learn to **say no** to additional work when our schedules are full. As a preview to our next lesson, a great strategy for yourself and your team is to use Kanban.
+### !end-callout
 
 **Kanban** is Japanese for signal card--a card that, very simply, signals your availability to do some work. 
 
@@ -104,7 +105,12 @@ One of these is true but is not a result of too much WIP
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+![Think Twice](__images/thinktwice_lesswip.png)
+
 ## <span style="font-size:2em">2.</span> Second Thief: Unknown Dependencies
+
+![Unknown Dependencies](__images/UnknownDependencies.png) 
+
 Let’s start by defining dependencies. Typically, there are three types of dependencies that emerge:
 1. **Architecture (both software and hardware)**- A change in one area causes a break or stop of functionality in another.
 1. **Expertise**- Specific knowledge of a person is needed.
@@ -164,6 +170,8 @@ Under the second thief “Unknown Dependencies”, the three dependencies that b
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+![Dependencies Matter](__images/DependenciesMatter.png) 
+
 ## <span style="font-size:2em">3.</span> Third Thief: Unplanned Work
 
 > <span style="font-family:script;font-size:2em;">Code will be used in ways we cannot anticipate, in ways it was never designed for, and for longer than it was ever intended.</span>
@@ -175,6 +183,7 @@ Under the second thief “Unknown Dependencies”, the three dependencies that b
 Unplanned and expedited work steals time away from work that’s creating value- it impacts every organization, and the goal is to minimize it as much as possible.
 
 ![Unplanned Outages](__images/01_03_dilbert.png)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/1997-01-28)</span>
 
 Unplanned work is _hard to see_ and/or predict, but it can be made visible.
 
@@ -222,7 +231,11 @@ Unplanned work is hard to see (or predict), but it can be made visible.
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+![Unplanned Work Matters](__images/UnplannedWorkMatters.png) 
+
 ## <span style="font-size:2em">4.</span> Fourth Thief: Conflicting Priorities
+
+![Conflicting Priorities](__images/ConflictingPriorities.png) 
 
 > <span style="font-family:script;font-size:2em;">Productivity isn’t about being a workhorse, keeping busy, or burning the midnight oil...It’s about priorities and fiercely protecting your time.</span>
 >
@@ -233,6 +246,8 @@ Unplanned work is hard to see (or predict), but it can be made visible.
 When people prioritize ineffectively, everything takes longer, leading to too much WIP. We know this is a relatable thief - many of you noted in Module 1 the difficulties you have when navigating priorities because you are supporting multiple projects.
 
 Again, this highlights the need to show your work in a data driven manner, i.e. using Kanban - not only for yourself, but to communicate with others. 
+
+![Conflicting Priorities Matter](__images/ConflictingPrioritiesMatter.png) 
 
 ## <span style="font-size:2em">5.</span> Fifth Thief: Neglected Work
 
@@ -264,23 +279,37 @@ The next section will show you:
 
 ### !challenge
 
-* type: paragraph
+* type: checkbox
 * id: 4d328685-8cb5-4139-913b-eb0fef184486
-* title: Five Thieves of Time
+* title: !Five Thieves of Time
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Which of the Five Thieves of Time are you most commonly witnessing in your role? How often does this impact your ability to complete tasks?
+Select which Time Thief from the Five Thieves of Time that you are **most commonly witnessing** in your role.
+
+_Note: There is no correct answer, this is an opportunity for us to learn from you!_
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-The Five Thieves are: Too Much work in Progress, Unknown Dependencies, Unplanned Work, Conflicting Priorities and Neglected Work.
+* Too Much Work in Progress
+* Unknown Dependencies
+* Unplanned Work
+* Conflicting Priorities
+* Neglected Work
 
-##### !end-placeholder
+##### !end-options
+
+
+##### !answer
+
+* * 
+
+##### !end-answer
+
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -291,7 +320,28 @@ The Five Thieves are: Too Much work in Progress, Unknown Dependencies, Unplanned
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+![Neglected Work Matters](__images/NeglectedWorkMatters.png)  
+
+### !callout-success
+## Key Takeaways: 
+* The Five Thieves of Time are: 
+      * Too Much Work-in-Progress,
+      * Unknown Dependencies,
+      * Unplanned Work,
+      * Conflicting Priorities, and
+      * Neglected Work. 
+* Time matters. Your time is a valuable resource that cannot be replenished. Awareness of the Five Thieves of Time is the first step to mitigating for yourself and your team, to prevent: 
+      * Delay of valuable (and sometimes critical) capability
+      * Increased costs
+      * Decreased team and/or individual productivity 
+      * Impact team dynamics, i.e. increased irritation  
+* Remember, one of the strongest tools in your toolkit is frequency--by frequently performing tasks they become common and eventually, habitual. Think of ways to make painful processes a nonevent, the idea behind frequent code delivery. For acquisition professionals this can be mirrored with awarding (multiple) smaller contracts.
+### !end-callout
+
+
 ## Resources
 
-* BOOK: _Making Work Visible: Exposing Time Theft to Optimize Work and Flow_ by Dominica DeGrandis
-* BOOK: _The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data_ by Gene Kim
+* **Books:** 
+    * [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow_](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis
+    * [_The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data_](https://itrevolution.com/the-unicorn-project/) by Gene Kim
+* **Video:** [How to Unmask Capacity Killing WIP](https://www.youtube.com/watch?v=KR7Y8IUgyyA), _(approximately 30 minutes)_  
