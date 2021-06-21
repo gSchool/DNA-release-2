@@ -15,7 +15,7 @@ This lesson and the next lesson (The Five Thieves of Time and Benefit: Making Wo
 
 ![Making Work Visible](/__images/02_01_MakingWorkVisible.png) 
 
-Before jumping into the **how** of _Making Work Visible_, this section helps explain the **why**. This section leads you through why _Making Work Visible_ will directly benefit you as an individual and as a team member.
+Before jumping into the **how** of Making Work Visible, this section helps explain the **why**. This section leads you through why Making Work Visible will directly benefit you as an individual and as a team member.
 
 
 ## The Five Thieves of Time
