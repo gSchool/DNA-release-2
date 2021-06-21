@@ -13,19 +13,21 @@ By the end of this lesson you will be able to:
 
 ## Note
 
-This is the second module using the book _Making Work Visible: Exposing Time Theft to Optimize Work and Flow_ by Dominica DeGrandis as a framework and primary source of content. Again, these sections are only able to address some key ideas and themes. We highly recommend reading the full book!
+This is the second lesson using the book [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis as a framework and primary source of content. Again, these sections are only able to address some key ideas and themes. We highly recommend reading the full book!
 
 #### !end-callout
 
 ## Relating to Lean
 
-_This Is Lean: Resolving the Efficiency Paradox_ defines Lean as: "a strategy of flow efficiency with key principles of just-in-time and visual management."
+[_This Is Lean: Resolving the Efficiency Paradox_](https://thisislean.com/) defines Lean as: "a strategy of flow efficiency with key principles of just-in-time and visual management."
 
 Much like our vendors, the Department (Government):
-* Must remain competitive in delivery value to production (operations);
-* Has many organizations running deployment strategies that are **slow** and **cumbersome**
+* Must remain competitive in delivering value to production (operations);
+* Has many organizations running deployment strategies that are redundant, **slow** and **cumbersome**
 
-Finally, by adding some human psychology in the mix we understand a key point; we are wired to do our best when we can clearly see what we are doing right, as well as what we are doing wrong.
+![Hourglass](/__images/102_B_2_Hourglass.png) 
+
+Finally, by adding some human psychology in the mix we understand a key point; we are wired to do our best _**when we can clearly see what we are doing right, as well as what we are doing wrong.**_
 
 What is the solution? We need to design **and use** a workflow system that does the following things:
 1. Make Work Visible
@@ -45,21 +47,14 @@ Remember:
 
 Let’s start with an example. Take a look at this diagram of a visibility grid by Philippe Kruchten: 
 
-![Visibility Grid](__images/02_01_quad_chart.png)
+![Visibility Grid](/__images/102_B_2_FourElements.png)
 
-The diagram highlights the four elements that are needed to make a visual work:
-1. Structure
-1. Usefulness
-1. Relevance
-1. Honesty
 
 Using these four elements together they achieve a visual that is: accurate, meaningful, easy on the eyes, and efficient at a glance. Again, we are all busy - how to simply communicate is an art we should all try to master!
 
-**Did you know?**
+![Pie Chart Visual Learners](/__images/102_B_2_PieChartVisualLearners.png)
 
-![2/3](__images/02_02_pie_chart.png) <span style="font-size:1.2em"> **of the population are visual learners!** </span>
-
-Visualizing work through the lens of flow improves team communication and understanding. By making work visible, we improve our work by engaging the human brain as it is designed, by allowing it to find meaningful patterns and structures perceived through sight.
+Visualizing the flow of work improves team communication and understanding. By making work visible, we improve our work by engaging the human brain as it is designed, by allowing it to find meaningful patterns and structures perceived through sight.
 
 So, do we need to track everything? How do we implement?The answer to the first question - no.
 
@@ -122,52 +117,28 @@ Any Kanban implemented by your team or organization **_should involve those who 
 
 A way to improve your Kanban board is to color-code your tasks to better understand the types of work items:
 
-![red](__images/red.png) **UNPLANNED WORK**
+![Kanban](/__images/102_B_2_Kanban.png)
 
-![green](__images/green.png) **MAINTENANCE**
+As your team grows, communication becomes a bottleneck. There is a simple example that drives this home. 
 
-![yellow](__images/yellow.png) **CAPABILITY REQUESTS (PRODUCT & INFRASTRUCTURE)**
+Let’s use the Handshake Problem as an analogy to individual conversations that occur to promote understanding and awareness across your team. **The Handshake Problem** answers the question based on the number of people on your team, how many handshakes must occur for everyone on the team to shake hands.  
 
-![blue](__images/blue.png) **TEAM IMPROVEMENTS**
+|**Number of People on a Team**|**Number of Handshakes Required**|
+|:---:|:---:|
+| 2 | 1 |
+| 3 | 3 |
+| 4 | 6 | 
+| 5 | 10 | 
+| 6 | 15 | 
+| 7 | 21 | 
+| . | . | 
+| . | . | 
+| 25 | 300 | 
 
-Using the legend above, we can visualize work using a structure with an expanded 'in progress' column:
+The handshake problem helps us easily demonstrate the impact of our growing teams. A Kanban is a tool to help increase communication _**without**_ depending on individual conversations or meetings. Additionally, it enables us to visualize what type of work is dominating the workflow. 
 
-<table>
-    <thead>
-        <tr><th rowspan="2">BACKLOG</th><th colspan="3">IN PROGRESS</th><th rowspan="2">DONE</th> </tr>
-        <tr><th>PREP</th><th>IMPLEMENT</th><th>REVIEW</th> </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="__images/green.png" alt="green"><br>
-                <img src="__images/yellow.png" alt="yellow"><br>
-                <img src="__images/blue.png" alt="blue">
-            </td>
-            <td><img src="__images/yellow.png" alt="yellow"><br>
-                <img src="__images/green.png" alt="green">
-            </td>
-            <td>
-                <img src="__images/yellow.png" alt="yellow"><br>
-                <img src="__images/red.png" alt="red">
-            </td>
-            <td>
-                <img src="__images/yellow.png" alt="yellow">
-            </td>
-            <td><img src="__images/red.png" alt="red"><br>
-                <img src="__images/yellow.png" alt="yellow"><br>
-                <img src="__images/green.png" alt="green"><br>
-                <img src="__images/red.png" alt="red">
-            </td>
-    </tbody>
-</table>
+The handshake problem explains the ‘two pizza team’ rule made famous by Amazon. Where a team is defined as no larger than 8-10 people. Thus, preventing teams from getting too large, or 28-45 handshakes. [Team Topologies](https://teamtopologies.com/book) offers additional suggestions on how to structure your organizations.
 
-Notice that this allows us to visualize what type of work is dominating the workflow. In this scenario: capability requests, then unplanned work and maintenance.
-#### !callout-warning
-##KEY
-
-KEEP IT SIMPLE.
-
-#### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -216,7 +187,7 @@ Is our goal to show that we are at 100% workload capacity
 <!-- ======================= END CHALLENGE ======================= -->
 
 
-A Kanban should be adapted to **YOUR** workflow - and it may need to be further divided to show transitions. Here is an example of how the Digital DNA team is using a Kanban to support their workflow (this is only a portion of our Kanban): 
+A Kanban should be adapted to **YOUR** context and workflow--it may need to be further divided to show transitions. Here is an example of how the Digital DNA team is using a Kanban to support their workflow (this is only a portion of our Kanban): 
 
 ![trello](__images/02_03_trello.png)
 
@@ -294,6 +265,8 @@ Design your workflow to highlight dependencies. You can highlight them at the bo
 
 #### !end-callout
 
+![Communication Problem](/__images/102_B_2_TimeProblem.png)
+
 Again, use your board as the rich data source it is. You can do this by tracking time:
 * In each state
 * For each type of work, and
@@ -309,12 +282,12 @@ Protect your time and your team’s time by designating specific “Do Not Distu
 
 #### !end-callout
 
-Working humans use various tools to keep in touch and communicate- emails, Slack, Microsoft Teams, Mattermost, Text Messages, phone calls, etc. All are distracting, and while we may not have cubicle “drop by visits” in this primarily telework environment, there are plenty of work disruptions or distractions. We highly recommend (the learning guides implement this as well) blocking off calendars for uninterrupted work time. This prevents disruptions and distractions, and increases productivity. 
+We use various tools to keep in touch and communicate- emails, Slack, Microsoft Teams, Mattermost, Text Messages, phone calls, etc. All are distracting, and while we may not have cubicle “drop by visits” in this primarily telework environment, there are plenty of work disruptions or distractions. We highly recommend (the learning guides implement this as well) blocking off calendars for uninterrupted work time. This prevents disruptions and distractions, and increases productivity. 
 ### !challenge
 
 * type: multiple-choice
 * id: b9a4ce39-8de2-434b-9138-7124b40bd21a
-* title: Flow of Work
+* title: !Flow of Work
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -376,7 +349,7 @@ Remember how we said that Too Much WIP infiltrates all other thieves? People tak
 
 So what are some ways to prioritize work:
 * **Highest paid person’s opinion (HiPPO)**: Each job is assigned a priority by the most senior person in charge
-* **Cost of Delay**: A measure of the impact of time on the outcomes we want, a preview to our next section on Outcomes over Outputs
+* **Cost of Delay (CoD)**: A measure of the impact of time on the outcomes we want, a preview to our next section on Outcomes over Outputs
 * **First-in, First-out (FIFO)**: Simple as it sounds - first in, first worked. Note there is also a reverse, last in first out.
 * **Weighted shortest job first (WSJF)**: Preference to the shortest job with the highest CoD. WSJF is calculated by dividing the CoD by job duration. NOTE: The Scaled Agile Framework (SAFe) model uses a variant of WSJF
 
@@ -399,6 +372,8 @@ This section previews a discussion on metrics, but is focused primarily on workf
 #### !end-callout
 
 When a project kicks off, it usually begins with an arbitrary due date. Someone sits down and thinks about how long it’s going to take themselves and/or the team to accomplish the goal, and they go with it. But the problem is that humans are notoriously bad at estimating, and pretty great at being overly optimistic. [There is a lot of research](https://thedecisionlab.com/biases/planning-fallacy/) to support this fact- don’t feel bad if you see some of yourself in this scenario! If you don’t, take a moment to think about how you spend your time - how often do you underestimate how long something will take to complete?
+
+![Measure Impact](/__images/102_B_2_MeasureImpact.png)
 
 Back to our arbitrary due date. In reality, setting a date before you’ve even begun sets the wrong expectations from the outset- despite all our best efforts, we end up surpassing that due date, then losing faith and confidence in leadership, stakeholders, and our users. It’s a vicious cycle.
 
@@ -446,7 +421,7 @@ This is just the beginning of this conversation. Implementing and visualizing yo
 
 * type: paragraph
 * id: 0139cccd-eac1-4759-b849-1a8e97b77362
-* title: Making work visible
+* title: !Making work visible
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -473,5 +448,14 @@ NOTE: If you already use a Kanban in your organization - please describe who use
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+### !callout-success
+## Key Takeaways: 
+* At some point, every team will grow to the point that communication is a bottleneck. Making Work Visible through Kanbans or other tools helps to mitigate **and** provides the foundation for trend and data analysis to support improving workflow and communicating with leadership and stakeholders. 
+* Majority of individuals are visual learners. Use visuals to increase communication within your team **and** in external engagements. 
+* Tools are only effective if they are used by the entire team. Work to find what is most effective for your team, and continue to improve. Remember to evaluate tools and processes as your team grows and/or scope increases.
+### !end-callout
+
 ## Resources
-* BOOK: _Making Work Visible: Exposing Time Theft to Optimize Work and Flow_ by Dominica DeGrandis
+* **Books:** 
+    * [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow_](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis
+    * [_Team Topologies_](https://teamtopologies.com/book)
