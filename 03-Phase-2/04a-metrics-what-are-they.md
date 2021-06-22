@@ -36,7 +36,7 @@ This is an introduction to this topic. We have two metric sections, and we are s
 >
 > <span style="clear:both">&nbsp;</span>
 
-An alternative to the above quote is, you manage what you measure. **Metrics matter** - they impact individual and team behavior alike. In Module 1, we asked you the current measure of progress in your organization. Overwhelmingly, many of you stated obligations and expenditures, or planning documents. Take a minute and ask yourself- what unintended consequences do these current metrics cause?
+An alternative to the above quote is, you manage what you measure. **Metrics matter** - they impact individual and team behavior alike. In Module 101, we asked you the current measure of progress in your organization. Overwhelmingly, many of you stated obligations and expenditures, or planning documents. Take a minute and ask yourself- what unintended consequences do these current metrics cause?
 
 Some answers that come to mind: overemphasis on obligation and expenditures (spending money) versus valuable capability delivery or planning vice execution.
 
@@ -54,7 +54,7 @@ So if you can’t say no, what can you do? We provide strategies below, but thin
 * Measurable, and
 * Support decision-making
 
-Metrics should align to improvement goals communicated from the top-- the National Defense Strategy (NDS) articulates DoD goals and serves as the top strategy.
+Metrics should align to improvement goals communicated from the top--in March 2021 the [Interim National Security Strategic Guidance](https://www.whitehouse.gov/wp-content/uploads/2021/03/NSC-1v2.pdf) was published and articulates goals and serves as the top strategy. A best practice is to check for updated guidance and publications. 
 
 The books _[Lean Analytics](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675)_ and _[The StartUp Way](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)_ both define several characteristics of good metrics:
 
@@ -64,7 +64,7 @@ The books _[Lean Analytics](https://www.amazon.com/Lean-Analytics-Better-Startup
 
 ## Types of Metrics
 
-Spending time securing a common understanding and language is worth the time, especially when communicating why a ‘new’ or alternative metric than traditionally reported is valuable. We know that many of the below definitions are not new for many of you, so we will be brief:
+Spending time establishing a common understanding and language is worth it, especially when communicating why a ‘new’ or less traditional metric being  reported is valuable. Let’s start with establishing a common understanding of metrics: 
 
 ### Quantitative vs. Qualitative Metrics
 
@@ -124,7 +124,7 @@ Qualitative metrics are:
 ![Qualitative vs Quantitative](__images/04a_01_Product_Development.png)
 
 ### Leading vs. Lagging Metrics
-From _Lean Analytics_:
+Also from _Lean Analytics_:
 
 A _**lagging metric**_ indicates that there’s a problem—but by the time you collect the data and identify the problem, it’s too late.
 * Caveat: they are still useful, and can provide a solid baseline of performance/value.
@@ -146,7 +146,7 @@ An _**actionable metric**_ changes your behavior by helping you pick a course of
 
 ![Vanity vs Actionable](__images/04a_03_metric_types.png)
 
-Notice that we haven’t yet told you what metrics to track. As per usual, it depends. Metrics that you choose will change over time depending on what phase of the program you and your team are in. 
+Notice that we haven’t yet told you what metrics to track. As per usual, **it depends** and your context and goals matter. Metrics that you choose will change over time depending on what phase of the program you and your team are in. 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -239,3 +239,23 @@ Do all of these look like ideal characteristics?
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+### !callout-success
+## Key Takeaways: 
+* You get what you measure. Take time to think about metrics, apply continuous learning and improvement to ensure metrics drive your team and effort towards desired outcomes. 
+* Ideal characteristics of metrics:
+    * Easy to understand 
+    * Measurable
+    * Comparative, i.e. a ratio or rate
+    * Actionable or changes the way you behave
+* Be careful of lagging or vanity metrics and the false sense of security they can provide. Use the ideal characteristics to help to create and define metrics as appropriate for your program and context. 
+
+### !end-callout
+
+## Resources:
+
+* **Books:**
+    *  [_Lean Analytics_](https://leananalyticsbook.com/) by Benjamin Yoskovitz, Alistair Croll
+    *  [_The StartUp Way_](http://www.thestartupway.com/) by Eric Reis 
+* **White House Publication:** [Interim National Security Strategic Guidance,](https://www.whitehouse.gov/wp-content/uploads/2021/03/NSC-1v2.pdf) March 2021
+
