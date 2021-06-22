@@ -395,66 +395,13 @@ Tasks (or Initiatives) should help you define **how** you achieve those results:
 If you currently lead a team, plan to lead a team, and/or you want to implement OKRs (or any strategies you have learned)- make sure you implement them yourself and post for your team to see (transparency) as well as setting OKRs for the organization and team. Hey, if it worked for Google….
 
 Finally, you are not going to get OKRs right the first time. You will learn, just be patient! 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
 
-### !challenge
-
-* type: paragraph
-* id: d71a0b35-f4cb-4f56-b6d9-d5365279ff86
-* title: Outcome
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Take a look at the outcomes of the programs you work on today. Provide an example of an outcome as written here:
-
-##### !end-question
-
-##### !placeholder
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 80a421c2-d18c-4e13-b793-6b8530ec2fe2
-* title: OKR
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Based upon what you have learned, how would you break down your answer to the first question into an OKR?
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
+### !callout-success
+## Key Takeaways: 
+Outputs are easier to identify and quantify thus making them appealing to focus on, but do not provide insight or drive to strategic goals. Outcomes are more difficult to define, but when properly identified can support measurable valuable capability outcomes. 
+Objectives and Key Results (OKRs) are one tool that can be utilized to help to identify desired outcomes and how to achieve through specific, measurable, time-bound and verifiable metrics or key results. 
+Regardless of the specific tool your team uses to identify outcomes, apply continuous improvement to defining (and refining) outcomes. Remember to involve stakeholders, users, and the larger overall team!
+### !end-callout
 
 ## Resources
  
