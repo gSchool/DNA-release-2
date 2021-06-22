@@ -398,9 +398,9 @@ Finally, you are not going to get OKRs right the first time. You will learn, jus
 
 ### !callout-success
 ## Key Takeaways: 
-Outputs are easier to identify and quantify thus making them appealing to focus on, but do not provide insight or drive to strategic goals. Outcomes are more difficult to define, but when properly identified can support measurable valuable capability outcomes. 
-Objectives and Key Results (OKRs) are one tool that can be utilized to help to identify desired outcomes and how to achieve through specific, measurable, time-bound and verifiable metrics or key results. 
-Regardless of the specific tool your team uses to identify outcomes, apply continuous improvement to defining (and refining) outcomes. Remember to involve stakeholders, users, and the larger overall team!
+* Outputs are easier to identify and quantify thus making them appealing to focus on, but do not provide insight or drive to strategic goals. Outcomes are more difficult to define, but when properly identified can support measurable valuable capability outcomes. 
+* Objectives and Key Results (OKRs) are one tool that can be utilized to help to identify desired outcomes and how to achieve through specific, measurable, time-bound and verifiable metrics or key results. 
+* Regardless of the specific tool your team uses to identify outcomes, apply continuous improvement to defining (and refining) outcomes. Remember to involve stakeholders, users, and the larger overall team!
 ### !end-callout
 
 ## Resources
