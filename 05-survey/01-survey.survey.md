@@ -1,4 +1,4 @@
-#Survey
+# Survey
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -6,22 +6,23 @@
 
 * type: multiple-choice
 * id: 0bb14b71-9735-4205-9f38-6cbb93a2a184
-* title: Course Structure
+* title: Applying Concepts
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-This course's structure (content spread over two weeks with expected completion for each weekly session) was effective.
+I am committed to applying what I learned in Module 102, _DevSecOps Foundations_, to my work:
 
 ##### !end-question
 
 ##### !options
 
-* Strongly agree
-* Somewhat agree
-* Somewhat disagree
-* Strongly disagree
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
+
 ##### !end-options
 
 ##### !answer
@@ -46,22 +47,23 @@ This course's structure (content spread over two weeks with expected completion 
 
 * type: multiple-choice
 * id: ece42ad8-e108-4c80-b211-abdec8ca7abe
-* title: Module Size
+* title: Learning Approach
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Should this course be offered in smaller modules? (e.g. a 1-week span rather than a 2-week span)
+The learning materials in Module 102, supported effective learning:
 
 
 ##### !end-question
 
 ##### !options
 
-* Yes
-* No; this timing was perfect
-* No; in fact a longer course would be better
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 
 ##### !end-options
 
@@ -87,13 +89,13 @@ Should this course be offered in smaller modules? (e.g. a 1-week span rather tha
 
 * type: multiple-choice
 * id: 7a3bac0d-f31c-42a9-bf3c-03db7d0a4c27
-* title: Virtual Setup
+* title: Course Structure
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-You preferred the structure of the second course, DevSecOps Foundations, being fully virtual (self-paced).
+I am settling into a rhythm with Digital DNA and the time commitment required:
 
 ##### !end-question
 
@@ -126,13 +128,13 @@ You preferred the structure of the second course, DevSecOps Foundations, being f
 
 * type: multiple-choice
 * id: d632d96f-039d-4be7-8558-3a215decb309
-* title: Virtual Session Loss
+* title: Time Commitment 1
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-The loss of virtual sessions did not impact your understanding of the content.
+I feel comfortable with the time commitment Module 102 required:
 
 ##### !end-question
 
@@ -165,21 +167,22 @@ The loss of virtual sessions did not impact your understanding of the content.
 
 * type: multiple-choice
 * id: 85f944d8-95ee-4fa7-8968-da02d4fdee0b
-* title: Recommended Pace
+* title: Time Commitment 2
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-You completed the content as recommended -- Phase A was completed during the first week and Phase B during second week. 
+I completed a majority of Module 102 during normal work hours:
 
 ##### !end-question
 
 ##### !options
 
-* Yes
-* Somewhat, the ability to complete content throughout the full two weeks was advantageous and Phase A content was completed after Phase B content was made available
-* No
+* Strongly agree
+* Somewhat agree
+* Somewhat disagree
+* Strongly disagree
 
 ##### !end-options
 
@@ -203,13 +206,13 @@ You completed the content as recommended -- Phase A was completed during the fir
 
 * type: multiple-choice
 * id: d6b54078-6ef8-4f31-a27e-f568170f0d08
-* title: Thursday Start
+* title: Office Hours
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Is a Thursday start date for class helpful? (as compared to a Monday start date)
+I dialed in to speak with the instructors during their office hours:
 
 ##### !end-question
 
@@ -217,6 +220,8 @@ Is a Thursday start date for class helpful? (as compared to a Monday start date)
 
 * Yes
 * No
+* They had office hours available?
+
 
 ##### !end-options
 
@@ -240,23 +245,206 @@ Is a Thursday start date for class helpful? (as compared to a Monday start date)
 
 ### !challenge
 
-* type: paragraph
-* id: 53ac0e45-c822-448b-9eb5-33a4c27753d4
-* title: Expanded Answers
+* type: multiple-choice
+* id: c8c867a6-d444-11eb-b8bc-0242ac130003
+* title: Phase A Most
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Please expand on your answers to the questions above about scheduling. Do you have any recommendations for future course structures/scheduling?
+Which lesson in Module 102 Phase A did you learn the **MOST** from?
 
 ##### !end-question
 
-##### !placeholder
+##### !options
+
+* The DevOps Story
+* CALMS, the Three Ways of DevSecOps, and the Seven Principles and Wastes
+* The DoD Landscape
+* Establishing DevSecOps Organizations in the DoD 
+* Greenfield and Brownfield
+* Software Architecture--Microservices, Strangler Pattern and MOSA
+* Understanding Technology’s Role
+
+##### !end-options
+
+##### !answer
+
+* *
 
 
+##### !end-answer
 
-##### !end-placeholder
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 8f3a69a0-d447-11eb-b8bc-0242ac130003
+* title: Phase A Least
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 102 Phase A did you learn the **LEAST** from?
+
+##### !end-question
+
+##### !options
+
+* The DevOps Story
+* CALMS, the Three Ways of DevSecOps, and the Seven Principles and Wastes
+* The DoD Landscape
+* Establishing DevSecOps Organizations in the DoD 
+* Greenfield and Brownfield
+* Software Architecture--Microservices, Strangler Pattern and MOSA
+* Understanding Technology’s Role
+
+##### !end-options
+
+##### !answer
+
+* *
+
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: b64ae9f2-d447-11eb-b8bc-0242ac130003
+* title: Phase B Most
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 102 Phase B did you learn the **MOST** from?
+
+##### !end-question
+
+##### !options
+
+* The Five Thieves of Time
+* Benefits to Making Work Visible
+* Outcomes over Outputs
+* Metrics, What are they?
+* How to Navigate the Sea of Metrics
+* Dev\*Ops Workflow Within the DoD
+
+##### !end-options
+
+##### !answer
+
+* *
+
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: b1d08166-d447-11eb-b8bc-0242ac130003
+* title: Phase B Least
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 102 Phase B did you learn the **LEAST** from?
+
+##### !end-question
+
+##### !options
+
+* The Five Thieves of Time
+* Benefits to Making Work Visible
+* Outcomes over Outputs
+* Metrics, What are they?
+* How to Navigate the Sea of Metrics
+* Dev\*Ops Workflow Within the DoD
+
+##### !end-options
+
+##### !answer
+
+* *
+
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: f4236f4c-d447-11eb-b8bc-0242ac130003
+* title: Key Takeaways Section
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+I dialed in to speak with the instructors during their office hours:
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+* Wait, there were key takeaways?
+
+##### !end-options
+
+##### !answer
+
+* *
+
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -311,31 +499,54 @@ Overall, this content was valuable and related to my current role
 
 ### !challenge
 
-* type: multiple-choice
-* id: 404cce98-bd0b-489c-98d7-55daf526d39e
-* title: Office Hours
+* type: paragraph
+* id: 4555d8a0-d448-11eb-b8bc-0242ac130003
+* title: Applying Concepts
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-I dialed in to speak with the instructors during their office hours:
+What were your three (3) takeaways from Module 102 that you can incorporate into your day to day work? Be specific.
 
 ##### !end-question
 
-##### !options
+##### !placeholder
 
-* Yes
-* They had office hours available?
-* No
-##### !end-options
+Please provide at least one (1), _maximum three (3)_, takeaways. 
 
-##### !answer
+##### !end-placeholder
 
-* *
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
+### !end-challenge
 
-##### !end-answer
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: 7d409ef8-d448-11eb-b8bc-0242ac130003
+* title: Course Improvements
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If you could make 2-3 changes to Module 102 what would they be?
+
+##### !end-question
+
+##### !placeholder
+
+We use this to help improve the course for future offerings!
+
+##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -358,24 +569,16 @@ I dialed in to speak with the instructors during their office hours:
 
 ##### !question
 
-How likely are you to recommend this training?
-
+Would you recommend Module 102 of Digital DNA to a coworker? If yes, feel free to email them the Digital DNA registration link: https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5
 
 ##### !end-question
 
 ##### !options
 
-* 10 (very likely)
-* 9
-* 8
-* 7
-* 6
-* 5
-* 4
-* 3
-* 2
-* 1
-* 0 (not at all likely)
+* Strongly Disagree
+* Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
@@ -399,54 +602,31 @@ How likely are you to recommend this training?
 
 ### !challenge
 
-* type: paragraph
-* id: 3ee57740-33bc-4cb8-8e00-02ea282c814e
-* title: Most Valueable Thing
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-What was the most valuable thing you learned in this module?
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
+* type: multiple-choice
 * id: 36110a85-1446-415c-8f34-ced46acfcbcd
-* title: Changes
+* title: Emailing Colleagues 
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What changes would you like to see made to this Module moving forward?
+Did you email and share the registration link with others?  
 
 ##### !end-question
 
-##### !placeholder
+##### !options
+
+* Yes
+* No
+
+##### !end-options
+
+##### !answer
+
+* *
 
 
-
-##### !end-placeholder
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
