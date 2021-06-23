@@ -37,7 +37,7 @@ The point here isnâ€™t to confuse you. Many of you might be asking yourselves, â
 
 Again, the right approach is dependent on your scenario -- there is no magic pill, one-size-fits-all, specified play or playbook, etc.
 
-For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read at least the **Netflix** example:
+For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read at least the [**Netflix** example](https://blog.dreamfactory.com/microservices-examples/#:~:text=Some%20of%20the%20most%20innovative,to%20the%20adoption%20of%20microservices):
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
