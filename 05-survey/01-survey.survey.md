@@ -253,7 +253,7 @@ I dialed in to speak with the instructors during their office hours:
 
 ##### !question
 
-Which lesson in Module 102 Phase A did you learn the **MOST** from?
+Which lesson in Module 102 **Phase A** did you learn the **MOST** from?
 
 ##### !end-question
 
@@ -297,7 +297,7 @@ Which lesson in Module 102 Phase A did you learn the **MOST** from?
 
 ##### !question
 
-Which lesson in Module 102 Phase A did you learn the **LEAST** from?
+Which lesson in Module 102 **Phase A** did you learn the **LEAST** from?
 
 ##### !end-question
 
@@ -341,7 +341,7 @@ Which lesson in Module 102 Phase A did you learn the **LEAST** from?
 
 ##### !question
 
-Which lesson in Module 102 Phase B did you learn the **MOST** from?
+Which lesson in Module 102 **Phase B** did you learn the **MOST** from?
 
 ##### !end-question
 
@@ -384,7 +384,7 @@ Which lesson in Module 102 Phase B did you learn the **MOST** from?
 
 ##### !question
 
-Which lesson in Module 102 Phase B did you learn the **LEAST** from?
+Which lesson in Module 102 **Phase B** did you learn the **LEAST** from?
 
 ##### !end-question
 
