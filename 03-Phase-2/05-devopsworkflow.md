@@ -74,7 +74,7 @@ While much progress has been made, there is, and likely always will be, more to 
 
 * type: multiple-choice
 * id: c61d8994-f0e6-4032-9ce3-f8765593d90b
-* title: DSAWG
+* title: !DSAWG
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -355,3 +355,25 @@ Regardless of Yes or No to the previous question, please explain.
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+### !callout-success
+## Key Takeaways: 
+* Why Dev\*Ops? To emphasize that DevOps is not merely Developers and Operators, there are significantly more functions and roles that are incorporated in a DevOps team to deliver valuable capability as required by users for defense business and weapon systems. This “\*” is a tribute to all the other roles and functions--it’s the entire team! 
+* Capability cannot be delivered without the support of many different communities and stakeholders. It is the Program Management Office (PMO) responsibility to work with stakeholders--testing, security, funding, requirements, etc.--to establish buy-in and advocacy. Remember it is best to have many supporting and defending your program--it makes a powerful statement! 
+* Don’t forget about Conway’s Law and the powerful influence communication and organizational structures have on software architecture. Use the Inverse Conway’s Maneuver to help combat. 
+### !end-callout
+
+## Resources:
+* **Book:** [_Team Topologies_](https://teamtopologies.com/book)
+* **DAU Resources:**
+      * [Adaptive Acquisition Framework](https://aaf.dau.edu/) 
+      * [Middle Tier of Acquisition (MTA)](https://aaf.dau.edu/aaf/mta/)
+      * [Software Acquisition Pathway](https://aaf.dau.edu/aaf/software/)
+* **DoD Publications/Resources:**
+      * [Defense Security Accreditation Working Group (DSAWG)](https://software.af.mil/dsop/dsawg/)
+      * [DevStar](https://software.af.mil/dsop/dsop-devstar/)
+      * [Operational Test & Evaluation (OT&E)](https://acqnotes.com/acqnote/careerfields/operational-test-and-evaluation-ote)
+      * [PPBE Process Overview](https://acqnotes.com/acqnote/acquisitions/ppbe-overview)
+      * Video: [Continuous Authority to Operate (cATO)](https://us02web.zoom.us/rec/play/EJlDdXMFg-f2DWn5AbKPkl5qz6KqV1T-DlMUZLii_FeApu0JLsf8wCqmfqqiRTc8nqBPrf3pqbt_G15S.hOuBDZmhwHyxSiSL?startTime=1606848985000&_x_zm_rtaid=927T8-C6Tr2K5ZPfNbInig.1624461556429.68aa403c51c683071427ec6304f540cd&_x_zm_rhtaid=391), cATO Ask Me Anything with AF/CSO, _approximately 2 hours_
+
+
