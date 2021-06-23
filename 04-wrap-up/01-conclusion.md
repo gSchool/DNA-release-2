@@ -4,9 +4,10 @@ Thank you for your participation in this course. We really appreciate the time y
 
 ### !callout-warning
 ## Post-Assessment and Survey
-Don’t forget that you still need to complete and **receive at least an 80%** on the Post-Assessment to continue. Reach out to the learning guides if you have questions--are goal is that everyone passes! 
+Don’t forget that you still need to complete and **receive at least an 80%** on the Post-Assessment to continue. Reach out to the learning guides if you have questions--are goal is that everyone passes.
 
-Finally, please provide feedback by completing the survey. We use your feedback to help improve the course! 
+
+Finally, **please complete the survey.** We use your feedback to help improve the course! 
 ### !end-callout
 
 ## Next Steps
