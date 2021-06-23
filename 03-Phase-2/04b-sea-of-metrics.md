@@ -8,6 +8,8 @@ By the end of this lesson you will be able to:
 * Identify ways metrics can be improved
 * Identify ways metrics can be manipulated
 
+## Introduction
+
 Velocity, Change Failure Rate, Source Lines of Code, Lead Time, Deployment Frequency,  Mean Time to Restore, Latency, Traffic, Saturation- is anyone else’s head swimming?
 
 Are you thinking these are additions to what you are already expected to track programmatically, like obligations, expenditures, schedule, risk?
@@ -27,11 +29,13 @@ This allows us to answer: **who** we are measuring for, **what** we are measurin
 
 This can be used at a feature, product, or portfolio (program) just to name some ways. Using a feature measure (metric) at a portfolio level wouldn’t make sense, nor would a product measure (metric) at portfolio level. 
 
+![User Story Examples](/__images/102_2_5_UserStory.png) 
+
 #### !callout-secondary
 
 ## Note
 
-User stories typically have acceptance criteria associated with them.  This allows you to answer the question, ”How do I know when I have met the user's need?”
+User stories typically have acceptance criteria associated with them.  This allows you to answer the question, ”How do I know when I have met the user's needs?”
 
 #### !end-callout
 
@@ -40,23 +44,43 @@ User stories typically have acceptance criteria associated with them.  This allo
 
 ### !challenge
 
-* type: paragraph
-* id: 333642a6-3d46-4f7a-8e90-77c8ba6051aa
+* type: multiple-choice
+* id: 7b3b377c-d38e-11eb-b8bc-0242ac130003
 * title: Process Improvement
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Using the above format, explain how a current process or product currently part of your role could be improved. This is an opportunity to make recommendations for improvements and for us to learn from you!
+Which of the following are properly written user stories?
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
+* User Story 1: As a manager, I want to view a list of my employees so that I can manage my people
+* User Story 2: As a Manager within the US Government, I want to view a list of my non-compliant employees so that, I can take action to bring them back into compliance
+* User Story 3: As a Manager of the X-Files department within the FBI, I want to view a list of my Employees that are non-compliant with their annual Extraterrestrial Autopsy Training, so that I can help them schedule a training session and bring them back into compliance.
 
+##### !end-options
 
-##### !end-placeholder
+##### !answer
+
+* User Story 3: As a Manager of the X-Files department within the FBI, I want to view a list of my Employees that are non-compliant with their annual Extraterrestrial Autopsy Training, so that I can help them schedule a training session and bring them back into compliance.
+
+##### !end-answer
+
+### !explanation-correct
+Even better. We know who we are solving the problem for, what the goal state is, and why. Notice that this User Story has not dictated any specific technical solution. This is important for the developers & the team! This allows the team to exercise their unique problem solving abilities and technical expertise.
+### !end-explanation
+
+### !explanation: User Story 1: As a manager, I want to view a list of my employees so that I can manage my people
+Ok, possibly a good Epic. But could this be better defined?
+### !end-explanation
+
+### !explanation: User Story 2: As a Manager within the US Government, I want to view a list of my non-compliant employees so that, I can take action to bring them back into compliance
+Better, but this could be more specific.  
+### !end-explanation
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -64,6 +88,7 @@ Using the above format, explain how a current process or product currently part 
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
 
 <!-- ======================= END CHALLENGE ======================= -->
 
@@ -141,9 +166,9 @@ Recall,
 
 **Enabling your Team**. You already have a head start on this one- this recommendation is what inspired this course! Now it’s your turn to ensure your team has the same opportunity. Training your team with either this course or others will be the best launch point.
 
-**Establishing a repeatable path to production**. Books like _[Ahead in the Cloud](https://www.amazon.com/Ahead-Cloud-Practices-Navigating-Enterprise/dp/1981924310)_ provide details for establishing a repeatable path to production (operations) for a few products. This is the embodiment of start small, then establish feedback loops that include your users.
+**Establishing a repeatable path to production**. Books like _[Ahead in the Cloud](https://www.amazon.com/Ahead-Cloud-Practices-Navigating-Enterprise/dp/1981924310)_ provide details for establishing a repeatable path to production (operations) for a few products. This is the embodiment of starting small, then establish feedback loops that include your users.
 
-**Preparing for scale**. While that is ongoing, if you are a modernization program, upgrade or even if you have to interface with additional systems start thinking about architecture and data. 
+**Preparing for scale**. While that is ongoing, if you are in a modernization program, upgrade or even if you have to interface with additional systems, start thinking about architecture and data. 
 
 ### Scaling a Digital Transformation:
 
@@ -158,7 +183,7 @@ Recall,
 
 * type: checkbox
 * id: d03d2738-8312-450f-b888-8e40d1da72b0
-* title: Your Metrics 1
+* title: !Your Metrics 1
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -206,22 +231,34 @@ The instructors have provided some of their thoughts on metrics. What are some s
 
 ### !challenge
 
-* type: paragraph
-* id: 9e76c3a1-0d69-4745-b0d0-1af80c3e48fc
-* title: Your Metrics 2
+* type: multiple-choice
+* id: 99b7dffe-d422-11eb-b8bc-0242ac130003
+* title: !Your Metrics 2
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
+
 ##### !question
 
-Have these metrics changed your decision processes?
+How do you track these metrics:
+
+_Note: There is no right answer, we are using this as an opportunity to learn from you_
 
 ##### !end-question
 
-##### !placeholder
+##### !options
+* CDRL Documentation only
+* CDRL Documentation and Automated Dashboard
+* Automated Dashboard only
+* We don’t track any of the metrics from the previous question
+* I do not know how or if we are tracking these metrics 
+##### !end-options
 
+##### !answer
 
-##### !end-placeholder
+* *
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -232,7 +269,7 @@ Have these metrics changed your decision processes?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-As a preview to Module 3 and 4, there are programmatic metrics that help show that you are de-risking your program. Here are some examples:
+As a preview to Module 103 and 104, there are programmatic metrics that help show that you are de-risking your program. Here are some examples:
 
 * **Team Composition**: Utilizing civilians, military, and vendors across teams, coupled with onboarding to help mitigate known movement of personnel
 * **FAR 39.103 Modular Contracting**. Modular contracting is intended to reduce program risk and to incentivize contractor performance, while meeting the government's need for timely access to rapidly changing technology. **Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems (see 2.1010) of information technology**, consistent with the agency's information technology architecture. Agencies may also use modular contracting to acquire non-major systems of information technology.
@@ -251,7 +288,7 @@ As a preview to Module 3 and 4, there are programmatic metrics that help show th
 
 * type: paragraph
 * id: 39706441-5677-411e-aa5e-ecf6a394f8ab
-* title: Acquisition Metrics
+* title: !Acquisition Metrics
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -264,7 +301,7 @@ What are some software **acquisition** metrics that you currently are using, or 
 
 ##### !placeholder
 
-If you don’t know how to answer this for your specific program or effort, utilize the user story approach and share what SW Acquisition metrics you believe are critical to be tracked.
+If you don’t know how to answer this for your specific program or effort, utilize the user story approach and share what SW Acquisition metrics you believe are critical to be tracked based upon what you have learned to date.
 
 ##### !end-placeholder
 
@@ -347,15 +384,27 @@ Above all else, metrics should be used as:
 
 ### !end-challenge
 
+### !callout-success
+## Key Takeaways: 
+The volume of metrics available with software intensive systems can be overwhelming. Be careful of falling into the trap of collecting and tracking all the metrics. Look to automate metrics when feasible -- and only track a subset. 
+Playbooks are not a silver bullet. They can be a tool but context matters. Using a football playbook as an analogy, a playbook is tailored for that team and often the opponent they play--it is only useful for their skills. If your running back is hurt you wouldn’t run a lot of running plays. Applying back to your team, keep in mind who you have to build your plays or tailor others.
+All metrics can be manipulated. When defining metrics, think of how it can be ‘gamed’ or manipulated and make sure the team is aware of antipatterns. 
+### !end-callout
+
+
 
 ## Resources:
-* ARTICLE: Proof that Positive Work Cultures are More Productive https://hbr.org/2015/12/proof-that-positive-work-cultures-are-more-productive
-* BOOK: _Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology_ by Nicole Forsgren, Jez Humble and Gene Kim
-* BOOK: _Ahead in the Cloud: Best Practices for Navigating the Future of Enterprise IT_ by Stephen Corban
-* BOOK: _Lean Analytics: Use Data to Build a Better Startup Faster_ by Alistair Croll & Benjamin Yoskovitz
-* BOOK: _The Startup Way_ by Eric Ries
-* WEBSITE: https://dojoconsortium.org/docs/playbooks/index.html
-* WEBSITE: [Google’s Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/)
+* **Article:** Proof that Positive Work Cultures are More Productive https://hbr.org/2015/12/proof-that-positive-work-cultures-are-more-productive
+* **Books:** 
+   * [_Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology_](https://itrevolution.com/book/accelerate/) by Nicole Forsgren, Jez Humble and Gene Kim
+   * [_Ahead in the Cloud: Best Practices for Navigating the Future of Enterprise IT_](https://www.amazon.com/Ahead-Cloud-Practices-Navigating-Enterprise/dp/1981924310) by Stephen Corban
+   * [_Lean Analytics: Use Data to Build a Better Startup Faster_](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) by Alistair Croll & Benjamin Yoskovitz
+   * [_The Startup Way_](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201) by Eric Ries
+* **Websites:**
+   * https://dojoconsortium.org/docs/playbooks/index.html
+   * [Google’s Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/)
+
+
 
 ## Bonus Material: Additional Metric Playbooks
 
@@ -938,3 +987,5 @@ If yes, please share how these metrics are collected and what the data is utiliz
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+
