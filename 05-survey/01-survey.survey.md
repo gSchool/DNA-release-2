@@ -513,7 +513,7 @@ What were your three (3) takeaways from Module 102 that you can incorporate into
 
 ##### !placeholder
 
-Please provide at least one (1), _maximum three (3)_, takeaways. 
+Please provide at least one (1), maximum three (3), takeaways. 
 
 ##### !end-placeholder
 
