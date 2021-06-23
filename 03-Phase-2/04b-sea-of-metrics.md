@@ -160,7 +160,7 @@ The following recommendations are made based on our personal experiences, and ma
 Recall,
 > <span style="font-size:2em;"><strong>Software is made by  people and for  people, so digital talent matters.</strong></span>
 >
-> <span style="float:right">2019 Software is Never Done by Defense Innovation Board</span>
+> <span style="float:right">2019 [Software is Never Done](https://innovation.defense.gov/software/) by Defense Innovation Board</span>
 >
 > <span style="clear:both">&nbsp;</span>
 
@@ -272,7 +272,7 @@ _Note: There is no right answer, we are using this as an opportunity to learn fr
 As a preview to Module 103 and 104, there are programmatic metrics that help show that you are de-risking your program. Here are some examples:
 
 * **Team Composition**: Utilizing civilians, military, and vendors across teams, coupled with onboarding to help mitigate known movement of personnel
-* **FAR 39.103 Modular Contracting**. Modular contracting is intended to reduce program risk and to incentivize contractor performance, while meeting the government's need for timely access to rapidly changing technology. **Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems (see 2.1010) of information technology**, consistent with the agency's information technology architecture. Agencies may also use modular contracting to acquire non-major systems of information technology.
+* **[FAR 39.103 Modular Contracting](https://www.acquisition.gov/far/39.103)**. Modular contracting is intended to reduce program risk and to incentivize contractor performance, while meeting the government's need for timely access to rapidly changing technology. **Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems (see 2.1010) of information technology**, consistent with the agency's information technology architecture. Agencies may also use modular contracting to acquire non-major systems of information technology.
   * When using modular contracting, an acquisition of a system of information technology may be **divided into several smaller acquisition increments** that:
     * Are **easier to manage individually** than one comprehensive acquisition;
     * Address complex information technology objectives incrementally, in order to **enhance the likelihood of achieving workable systems or solutions** for attaining those objectives
