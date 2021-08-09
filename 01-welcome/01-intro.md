@@ -73,7 +73,7 @@ Below outlines the course content, identifying the lessons associated with each 
 ## Pre-Assessment Availability
 Remember, the Pre-Assessment:
 * Must be completed *prior* to starting Phase A **and** 
-* Must be completed prior to COB Monday, June 21st. _If you do not complete before you will be deferred to the next offering of 102 DevSecOps Foundations._
+* Must be completed prior to COB Monday, August 16th. _If you do not complete before you will be deferred to the next offering of 102 DevSecOps Foundations._
 ### !end-callout
 
 ### Phase A (7 Lessons and Phase A Checkpoint)
@@ -99,7 +99,7 @@ Prevents you from having to cram all the content in last minute
 
 ### !callout-info
 ## Course Completion
-Remember that all content must be completed prior to Thursday, July 1st. 
+Remember that all content must be completed by Wednesday, August 25th.
 ### !end-callout
 
 ### Wrap-up (1 Lesson and Post-Assessment)
@@ -110,13 +110,13 @@ Remember that all content must be completed prior to Thursday, July 1st.
 
 ### !callout-info
 ## Post-Assessment and Survey
-To continue on to Module 103, you must receive an 80% or greater on the post assessment. Don’t forget about the _survey_ this is how we continue to improve the course! 
+To continue on to Module 103, you must receive an **80% or greater** on the post assessment. Don’t forget about the _survey_ this is how we continue to improve the course! 
 ### !end-callout
 
 
-## Updates
+## Key Reminders
 
-A few changes you may notice as you are working through:
+As you are work through the content:
 
 * **Grading:** In order to continue with the next Module of Digital DNA, you must receive **80% or greater on the post-assessment.**
 
@@ -148,7 +148,7 @@ A few changes you may notice as you are working through:
 
  ##### !question
 
-I understand that all information within this course will need to be completed by Thursday, July 1st **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 102 certificate of completion:
+I understand that all information within this course will need to be completed by Wednesday, August 25th **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 102 certificate of completion:
 
  ##### !end-question
 
