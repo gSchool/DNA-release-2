@@ -498,6 +498,35 @@ While the topic of modular and loosely coupled architectures is a rich topic all
 * [Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)
 * [Modular Open Systems Approach – DDR&E(AC) (cto.mil)](https://ac.cto.mil/mosa/)
 
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 0251418c-faa6-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Understanding Technology’s Role
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Resources
 
 * **Book:** L Brown (1999), [Technical and Military Imperatives: A Radar History of World War 2,](https://www.amazon.com/Technical-Military-Imperatives-Radar-History/dp/1138429929) p. 64, ISBN 9781420050660
