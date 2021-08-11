@@ -386,6 +386,34 @@ Moving forward, we will use DevSecOps to refer to the values, principles, method
 * DevOps is more than tools. Similar to Agile, DevOps is rooted in a mindset that first drives values and principles to _support_ practices, and finally is enabled by tools. If you only have ‘tools’, you are not DevOps.
 ### !end-callout
 
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 1d63fac2-faa2-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: DevOps Story
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Resources
 * **Article:** Basis of lesson:  https://theagileadmin.com/what-is-devops/
 * **Book:** The Phoenix Project: a Novel about IT, DevOps, and Helping Your Business Win by Gene Kim
