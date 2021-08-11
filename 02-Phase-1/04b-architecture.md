@@ -323,6 +323,34 @@ API stands for Application Programming Interface. It’s an old term, but has be
 
 This is a great video to learn about APIs: [APIs 101: What Exactly is an API? Part 1](https://www.youtube.com/watch?v=cpRcK4GS068)
 
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: b7ef9436-faa5-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Software Architecture
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Resources
 
 These resources are used throughout the lesson and are provided for you to continue learning on your own time.
