@@ -352,6 +352,34 @@ Please identify your current role
     * Software practitioners.
 ### !end-callout
 
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: ac2ec4c6-faa2-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: The DoD Landscape
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Resources
 These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
 
