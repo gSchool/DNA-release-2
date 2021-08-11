@@ -318,6 +318,34 @@ Tell us two (2) important takeaways from this lesson and the prior lesson (An In
 
 
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 162a55ac-faa3-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Establishing DevSecOps Organizations in DoD
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+
 ## BONUS SECTION: A DevSecOps Organization
 
 Now that you have been introduced to basic DevSecOps competency areas and teams, we have added an **optional** bonus section for those who can't get enough, and/or want to keep learning and stay ahead of the curve!
