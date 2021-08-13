@@ -391,6 +391,33 @@ Playbooks are not a silver bullet. They can be a tool but context matters. Using
 All metrics can be manipulated. When defining metrics, think of how it can be ‘gamed’ or manipulated and make sure the team is aware of antipatterns. 
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 361e193c-fc4e-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Navigating Metrics
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 
 
 ## Resources:
