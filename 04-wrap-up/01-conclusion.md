@@ -6,6 +6,11 @@ Thank you for your participation in this course. We really appreciate the time y
 ## Post-Assessment and Survey
 Don’t forget that you still need to complete and **receive at least an 80%** on the Post-Assessment to continue. Reach out to the learning guides if you have questions--are goal is that everyone passes.
 
+## Next Steps
+
+* **Grading:** Our goal is  to complete grading by **Wednesday, September 1st**. 
+* **Certificates:** After grading has been completed and you receive an 80% or greater on Post-Assessment we will create your Course Certificate for DevSecOps Foundations. _Please be patient, this is still a manual process on our end, if you need a certificate immediately please send us a note and we will do our best to support._
+* **Next Module:** If you receive an 80% or greater on the Post-Assessment you will be automatically enrolled in the next module: _103 From User Need to Contract Evaluation_ starting **Wednesday, September 8th**. The full course will be offered _September 8-22nd_ so you can mark your calendars. 
 
 Finally, **please complete the survey.** We use your feedback to help improve the course! 
 ### !end-callout
