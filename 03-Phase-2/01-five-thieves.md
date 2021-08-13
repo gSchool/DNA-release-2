@@ -334,6 +334,33 @@ _Note: There is no correct answer, this is an opportunity for us to learn from y
 * Remember, one of the strongest tools in your toolkit is frequency--by frequently performing tasks they become common and eventually, habitual. Think of ways to make painful processes a nonevent, the idea behind frequent code delivery. For acquisition professionals this can be mirrored with awarding (multiple) smaller contracts.
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 8fa0b9da-fc4c-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Five Thieves of Time
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 
 ## Resources
 
