@@ -448,6 +448,33 @@ NOTE: If you already use a Kanban in your organization - please describe who use
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 9625496e-fc4d-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Making Work Visible
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ### !callout-success
 ## Key Takeaways: 
 * At some point, every team will grow to the point that communication is a bottleneck. Making Work Visible through Kanbans or other tools helps to mitigate **and** provides the foundation for trend and data analysis to support improving workflow and communicating with leadership and stakeholders. 
