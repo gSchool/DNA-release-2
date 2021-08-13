@@ -402,6 +402,33 @@ Finally, you are not going to get OKRs right the first time. You will learn, jus
 * Objectives and Key Results (OKRs) are one tool that can be utilized to help to identify desired outcomes and how to achieve through specific, measurable, time-bound and verifiable metrics or key results. 
 * Regardless of the specific tool your team uses to identify outcomes, apply continuous improvement to defining (and refining) outcomes. Remember to involve stakeholders, users, and the larger overall team!
 ### !end-callout
+ 
+ <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: d4ca8670-fc4d-11eb-9a03-0242ac130003
+* title: !Opt. Lesson Feedback: Outcomes over Outputs
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## Resources
  
