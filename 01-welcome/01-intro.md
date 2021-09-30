@@ -63,54 +63,23 @@ Below outlines the course content, identifying the lessons associated with each 
 | Wrap-up | 1 | Post-Assessment | 
 
 
-### Welcome (1 Lesson and Pre-Assessment)
-
-|**Lessons:** | **Assessments/Checkpoints:** |
-| :---: | :---: |
-| Welcome to Module 102 of Digital DNA | Pre-Asssessment|
-
 ### !callout-info
 ## Pre-Assessment Availability
-Remember, the Pre-Assessment:
+Remember, the Pre-Assessment
 * Must be completed *prior* to starting Phase A **and** 
-* Must be completed prior to COB Monday, August 16th. _If you do not complete before you will be deferred to the next offering of 102 DevSecOps Foundations._
+* It must be completed *prior* to **COB Tuesday, October 12th.** *If you do not complete the Pre-Assessment before 10/12, you will be deferred to the next offering of 102: DevSecOps Foundations.*
 ### !end-callout
 
-### Phase A (7 Lessons and Phase A Checkpoint)
 
-|**Lessons:** | **Assessments/Checkpoints:** |
-| :---: | :---: |
-|The DevOps Story <br> CALMS, the Three Ways of DevSecOps, and the Seven Principles and Wastes <br> The DoD Landscape <br> Establishing DevSecOps Organizations in the DoD <br> Greenfield and Brownfield <br> Software Architecture--Microservices, Strangler Pattern, and MOSA <br> Understanding Technology’s Role |  Phase A Checkpoint|
-
-
-### !callout-info
-## Phasing Content
-We will send reminders throughout the course to complete content and to ensure you are progressing. This recommended phasing is beneficial because it: 
-Allows for you to get maximum interaction with learning guides and feedback on your answers, and
-Prevents you from having to cram all the content in last minute 
-### !end-callout
-
-### Phase B (6 Lessons and Phase B Checkpoint)
-
-|**Lessons:**| **Assessments/Checkpoints:**|
-| :---: | :---: |
-| The Five Thieves of Timey <br> Benefits to Making Work Visible <br> Outcomes over Outputs <br> Metrics--What are They? <br> How to Navigate the Sea of Metrics <br> Dev\*Ops Workflow within the DoD| Phase B Checkpoint|
+### Phasing Content
+Course instructors will send reminders throughout the course to ensure you are completing content and progressing as you should be. The recommended phasing is beneficial, because it encourages you to get maximum interaction with learning guides, timely feedback on your answers, and prevents you from cramming all the content at the last minute.
 
 
 ### !callout-info
 ## Course Completion
-Remember that all content must be completed by Wednesday, August 25th.
-### !end-callout
-
-### Wrap-up (1 Lesson and Post-Assessment)
-
-| **Lessons:** | **Assessments/Checkpoints:** |
-| :---: | :---: |
-| Conclusion | Post-Assessment|
-
-### !callout-info
-## Post-Assessment and Survey
-To continue on to Module 103, you must receive an **80% or greater** on the post assessment. Don’t forget about the _survey_ this is how we continue to improve the course! 
+* Remember that **all content** must be completed by **Wednesday , October 20th.**
+* Before continuing on to Module 103, you must receive a grade of **80% or better** on the post-assessment. 
+* Also, don't forget about the survey - this is how we continually improve the course!
 ### !end-callout
 
 
@@ -118,22 +87,18 @@ To continue on to Module 103, you must receive an **80% or greater** on the post
 
 As you are work through the content:
 
-* **Grading:** In order to continue with the next Module of Digital DNA, you must receive **80% or greater on the post-assessment.**
+* **Key Takeaways:** We have created three (3) key takeaways for each individual lesson. Additionally, we are compiling a full list of all key takeaways as well as relevant resources for further study will be provided with successful completion of the course, and delivered in conjunction with your course certificate.
 
-* **Key Takeaways:** For each individual lesson we have created three (3) key takeaways. We will also provide the entire list of key takeaways and resources as a PDF provided with course certificate. 
+* **Resource Section:** Resource sections are intended to provide additional learning opportunities for students who wish to continue studying and completing research on their own. Selections will include articles, books, videos, and presentations that supplement the course content and further define topics we aren't able to cover in more depth.  
 
-* **Resource Section:** 
-   * We are only able to scratch the surface with these topics, but we do not want to prevent anyone from continuing to learn. 
-   * Within most sections resources will include articles, books, videos, and presentations that you are able to dive into if you want to get lost in learning.  
+* **Bonus Sections:** These are *not* required - however, if the topic is interesting, directly impacting you, or you love to learn, these are available for your use.
 
-* **Bonus Sections:** These are not required but are available if the topic is interesting, directly impacting you, or like the learning guides just love soaking up as much information as possible.  
-
-* **Office Hours:** We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.  
-  * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 102 is offered. **These are optional.**  
+* **Office Hours:** Office hours will continue to be offered. Feel free to drop in and speak with your learning guides about any part of the material or the program itself.
+  * All attendees will receive calendar invites for Office Hours for dates throughout the two-week period of the module. *These are optional.*
 
 * **Module Completion Certificates:** After completing content and receiving an 80% or greater we will provide a certificate with Continuous Learning Point (CLP) equivalent. 
 
- We hope that you enjoy the course, and as always do not hesitate to reach out to Tory or Christina if you have any questions!
+We hope that you enjoy the course! As always, reach out to Tory or Christina if you have any questions.
 
  <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
  <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -147,8 +112,8 @@ As you are work through the content:
  <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
  ##### !question
-
-I understand that all information within this course will need to be completed by Wednesday, August 25th **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 102 certificate of completion:
+ 
+I understand all information in this course must be completed by Wednesday, October 20th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Release 102 Certificate of Completion.
 
  ##### !end-question
 
