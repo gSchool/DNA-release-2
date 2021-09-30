@@ -113,7 +113,7 @@ We hope that you enjoy the course! As always, reach out to Tory or Christina if 
 
  ##### !question
  
-I understand all information in this course must be completed by Wednesday, October 20th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Release 102 Certificate of Completion.
+I understand all information in this course must be completed by Wednesday, October 20th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Module 102 Certificate of Completion.
 
  ##### !end-question
 
