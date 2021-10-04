@@ -1,79 +1,69 @@
-# CALMS, the Three Ways of DevSecOps, and the Seven Principles of Wastes
+# CALMS, the Three Ways of DevOps, and the Seven Principles of Wastes
 
 ## Learning Objectives
 
 By the end of this lesson you will be able to:
 
-* Describe the CALMS model in DevSecOps
-* Understand the Three Ways of DevSecOps
-* Understand the Seven Principles and Wastes
+* Describe the CALMS model in DevOps
+* Define the Three Ways of DevOps
+* Define the Seven Principles and Wastes
 
 ## Introduction
-Throughout this lesson we define different methodologies and approaches associated with DevSecOps. Referring back to this section later (or the videos referenced) on a quarterly or bi-annual basis can provide overall feedback and identify ways to improve your organization. 
+Throughout this lesson, we define different methodologies and approaches associated with DevSecOps. Revisiting this section or the videos referenced on a quarterly or bi-annual basis will provide overall feedback, and identify ways to improve your organization.
+
+### !callout-info
+## Note:
+This lesson defines different methodologies and approaches for DevOps -- do not think of it as you have to memorize all three, but rather options to help you understand. Look for themes that undercut the concepts discussed.  
+### !end-callout
+
+We use part of Coursera's Agile Software Training Program via a DAU/Coursera Partnership to supplement this module. **Current** DoD acquisition professionals--both civilian and military--may gain access and receive certificates for both course and curriculum completion. To get started, contact [Mr. Dave Pearson](mailto:david.pearson@dau.edu) - all three videos referenced in this section are accessible **without** a Coursera account.
+
+## CALMS
+
+In the previous lesson, we explored what is **not** considered DevOps. Now, let's put the spotlight on understanding what **is** considered DevOps, and the underlying frameworks employed by organizations both inside and outside the DoD.
 
 ### !callout-warning
 ## Watch this
-Before proceeding with the lesson, please take a few moments to watch the following video
+Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
-Click here:  [DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button)
+[DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button) </br>
 
-NOTE: This is part of the course content
+**NOTE:** This is part of the course content.
 ### !end-callout
-## CALMS
 
-#### !callout-info
+**Be advised:** This lesson is not designed to repeat what's been covered in the video. Instead, we provide context for implementing the video's curriculum knowledge within the DoD. 
 
-## Note
-To supplement this lesson, we use part of the Agile Software Training
-Program available on Coursera via a DAU/Coursera Partnership. **Current** DoD Acquisition
-professionals (civilian and military) can gain access and receive certificates for class/curriculum
-completion by contacting [Mr. Dave Pearson](mailto:david.pearson@dau.edu). All three videos
-referenced in this section are accessible without a Coursera account.
-
-#### !end-callout
-
-In lesson 2.1.1, we explored what is _not_ considered DevSecOps- now let’s put the spotlight on understanding what _is_ considered DevSecOps, and some underlying frameworks employed by many organizations both inside and outside the DoD.
-
-
-Recall the CALMS framework from the video (shown below):
+Recall the CALMS framework from the video ‘DevOps Culture and Mindset’, shown below: 
 
 ![CALMS](../__images/03_01_calms.jpg)
 
-Be advised- as we continue this lesson, the intent is not to repeat what’s been covered in the video. Instead, our goal is to provide context for implementing curriculum knowledge within the DoD.
 
-### <span style="font-size: 2em">C.</span> Culture
-_DevSecOps isn’t simply a process, or a different approach to development -- **it’s a culture change**._
+### <span style="font-size: 2em">C. </span> Culture
 
-That being said, unfortunately:
+DevOps isn’t simply a process, or a different approach to development -- ***it’s a culture change.*** With that being said, this quote is also true:
 
-“You **can’t** directly change culture. But you **can** change behavior, and behavior becomes culture”.
-<br><span style="float:right">--Lloyd Taylor VP Infrastructure, Ngmoco</span>
+> “You **can’t** directly change culture. But you **can** change behavior, and behavior becomes culture”. </br>
+> <span style="float:right">--Lloyd Taylor VP Infrastructure, Ngmoco </span>
 
 <span style="clear:both"></span>
-#### !callout-success
-
-## Definition
-Behavior
-
-<ol>
-<li>the manner of conducting oneself</li>
-<li>anything that an organism does involving action and response to stimulation</li>
-<li>the response of an individual, group, or species to its environment</li>
-<li>The tools the group uses (i.e.an Iron Age culture used Iron tools)</li>
-<li>The language and symbols the group used to define itself</li>
-<li>The stories we tell to ourselves and others - and the way we tell them are behaviors that foster a culture</li>
-<li>The way in which someone behaves; also, an instance of such behavior</li>
-<li>The way in which something functions or operates</li>
-</ol>
-#### !end-callout
 
 ![Culture is the #1 metric](../__images/03_02_culture.png)
 
-Remember- processes, practices, and tools not only influence but also drive behavior.
+Remember- processes, practices, and tools not only _influence_ but also _drive_ behavior.
 
-For example, the DoD creates functional alignments, placing value on individuals and their functional areas. However, successful implementation of DevSecOps requires collaboration and value placed on the **team**. We need to eliminate function-based teams, and create capability- (or product-) based teams.
+As an example, the DoD creates functional alignments, placing value on individuals and their functional areas rather than the team as a whole. The DoD needs to eliminate function-based teams, and create capability- or product-based teams to successfully implement DevOps.
 
-Development, quality, acquisitions, product management, requirements, design, operations (and any other function necessary to enable the team) need to come together and work collaboratively towards a shared purpose to deliver valuable capability to the user.
+Several teams need to come together and work collaboratively:
+* Development
+* Quality
+* Acquisitions
+* Product Management
+* Requirements
+* Design
+* Operations
+* Etc.
+
+By doing so, they aim toward the shared purpose of delivering valuable capability to the user.
 
 DevSecOps isn’t the responsibility of just one person, or one team, or one specific mission...it’s EVERYONE’S!
 
@@ -87,13 +77,12 @@ Why is this important?
 
 ![The network is more powerful than the node](../__images/03_03_automation.png)
 
-Running code changes through automated tests during development catches bugs and security flaws earlier, eliminating rework and increasing the likelihood of continuously delivering working software within operational systems.
+How often do mistakes happen when you are writing in a Word document or entering data in an Excel spreadsheet (or if you can code, when you are coding)? Human errors like these are normal- _automated tests help reduce risk._ 
 
-This reduces risk!
+Testing code changes during development catches bugs and security flaws earlier, eliminating rework and increasing the likelihood of delivering continuously working software, thereby reducing risk!
 
-The DoD provides military forces with support to deter war and ensure our nation’s security. The software and technology you support directly impacts our ability to achieve that mission. Time delay is not solely a project management issue- but, it is a risk in our ability to meet the mission.
+Time delay like what we described above is not solely a project management issue. However, it **is our responsibility** to mitigate risk in our ability to meet the mission. The DoD provides military forces with support in deterring war and ensuring our nation's security- the software and technology you support directly impacts our ability to achieve that mission.
 
-How often do mistakes happen when you are writing in a Word document or entering data in an Excel spreadsheet (or if you can code, when you are coding)? Human errors like these are normal- automated tests help reduce risk.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -101,33 +90,33 @@ How often do mistakes happen when you are writing in a Word document or entering
 ### !challenge
 
 * type: checkbox
-* id: 51690316-2c2d-4381-a18d-e2975939499c
+* id: 74f5c17a-2541-11ec-9621-0242ac130002
 * title: Automated Testing
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What of the following **do not** best explain automated testing in a DevSecOps Environment?
+Which of the following are **benefits** of automated testing in a DevSecOps environment?
 
 ##### !end-question
 
 ##### !options
-
-* Catches bugs and security flaws earlier
-* Tests should be slower so that our enemy has the advantage
-* Eliminating rework and increasing the likelihood of continuously delivering working software within operational systems
-* End to end testing reduces risk to the overall cost, schedule and performance of the system and mission
-
-
+* Bugs and security flaws are caught earlier.
+* Automated testing is expensive to implement. 
+* Increased likelihood of continuously delivering working software within operational systems and minimizing rework.
+* Reduced risk to the overall cost, schedule and performance of the system and mission.
 ##### !end-options
 
 ##### !answer
-
-* Tests should be slower so that our enemy has the advantage
-* End to end testing reduces risk to the overall cost, schedule and performance of the system and mission
-
+* Bugs and security flaws are caught earlier.
+* Increased likelihood of continuously delivering working software within operational systems and minimizing rework.
+* Reduced risk to the overall cost, schedule and performance of the system and mission.
 ##### !end-answer
+
+### !explanation
+Automated testing does have an upfront investment cost, but has potential significant benefits and long-term cost-savings both. There are many examples in commercial industry that have shown value for those who choose to implement the use  of automated testing upfront.
+### !end-explanation
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -140,23 +129,35 @@ What of the following **do not** best explain automated testing in a DevSecOps E
 
 ### <span style="font-size: 2em">L.</span> Lean
 
-_A DevSecOps mindset recognizes opportunities for continuous improvement everywhere._
+### !callout-info
+## Recall
+From Module 101, the seven (7) key areas that support successful incorporation of lean processes for your program are:
+* Eliminate Waste
+* Amplify Learning
+* Deliver as late as possible 
+* Deliver as fast as possible
+* Empower the Team
+* Build Quality In
+* Understand the entire system 
 
-Continuous improvement occurs when entire teams work to optimize the workflow. That is, teams making use of Lean principles to:
-* Eliminate waste, and
-* Optimize the value stream by
-  * Minimizing work in progress (WIP)
-  * Making work visible, and
-  * Reducing hand-off complexity/wait times
+### !end-callout
+
+
+ _A DevSecOps mindset in conjunction with Lean principles recognizes opportunities for continuous improvement everywhere._
+
+Continuous improvement occurs when **entire** teams make use of Lean principles to eliminate waste and optimize value streams by:
+* minimizing Work in Progress (WIP)
+* making work visible, and
+* reducing hand-off and complexity wait times.
 
 ![Failure is a prerequisite for learning...](../__images/03_04_lean.png)
 
-The only true failure is not learning from your mistakes. To learn from our mistakes, we must be willing to acknowledge our failures, discuss them, study them, and learn from them. We must understand the goal (intent), process (bottlenecks), and success metrics or constantly conduct and document experiments.
+The only true failure is not learning from mistakes made. To avoid this, we must acknowledge our failures, discuss and study them, then learn from them. We must understand the goal, process, and success metrics, and constantly conduct and document experiments.
 
 #### !callout-warning
 
 ## Reminder
-Keep in mind an important aspect of these experiments is success and failures (stumbling or roadblocks) occur to the ENTIRE team.
+Keep something in mind- an important aspect of these experiments is success, and any failures (real or perceived) occur to the ENTIRE team. 
 #### !end-callout
 
 **Bottlenecks occur in every workflow.** A learning organization cannot be established when threats of blame or finger-pointing (private or public) are practiced. Google (and other groups) have extensively researched this. [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) provides more details.
@@ -165,14 +166,16 @@ Keep in mind an important aspect of these experiments is success and failures (s
 
 _Metrics are key to organizational improvement._
 
-Without data, any attempt at improvement is fruitless, and like any tool, metrics to secure that data must be used correctly to drive needed improvements. Metrics will be explored more extensively later on, but some metrics questions helping inform software delivery and performance include:
-* How long did it take to go from development to deployment?
+Without data, any attempt at improvement is fruitless, and like any tool, metrics to secure that data must be used correctly to drive needed improvements. Some metrics that help inform software delivery and performance include: 
+* How long does it take to go from development to deployment?
 * How often do recurring bugs or failures happen?
 * How long does it take to recover after a system failure?
 * How many people are using your product right now?
 * How many users did you gain / lose this week?
 
-Proceed with caution when selecting metrics, and be sure to avoid "vanity metrics" that may sound impressive but do not actually provide meaningful insight on the current status or future trajectory of the work. Remember, the goal is not merely moving fast:Remember, the goal is not merely moving fast:
+Proceed with caution when selecting metrics. Be sure to avoid "vanity metrics" that may sound impressive, but do not actually provide meaningful insight on the current status or future trajectory of the work. 
+
+Remember, the goal is not merely moving fast:Remember, the goal is not merely moving fast:
 
 ![Direction is so much more important that speed, many are going nowhere fast](../__images/03_05_measurement.png)
 
@@ -182,9 +185,9 @@ Direction is informed by data, which allows for speed to VALUE. We need data and
 
 _Responsibility and success go a long way toward bridging the Dev and Ops divide._
 
-Development and operations work more efficiently when they are considered **two halves of a whole, not separate entities**. Because both are necessary to improve the resource chain between business goals and deployment, complete cooperation between the two is necessary (#2 Key Takeaway Phoenix Project).
-
-<span style="font-size:.8em">Source: Kim, Gene. Phoenix Project, 5th Anniversary Edition: a Novel about IT, DevOps, and
+> Development and operations work more efficiently when they are considered **two halves of a whole, not separate entities**. Because both are necessary to improve the resource chain between business goals and deployment, complete cooperation between the two is necessary (#2 Key Takeaway Phoenix Project).
+>
+> <span style="font-size:.8em">Source: Kim, Gene. Phoenix Project, 5th Anniversary Edition: a Novel about IT, DevOps, and
 Helping Your Business Win. IT Revolution Press, 2018.</span>
 
 The DoD has an opportunity to yield significant benefits by undergoing a DevSecOps transformation. However, this is no small task. As discussed in 2.1.1, there is no one set of philosophies that comprise DevSecOps.
@@ -194,13 +197,15 @@ The DoD has an opportunity to yield significant benefits by undergoing a DevSecO
 DevSecOps is a blend of practices, cultural philosophies and tools. Breaking down our functional silos will skyrocket the mission value we collectively aim to deliver by increasing trust, faster (but smaller) software releases, and a tight feedback loop within and across DevSecOps teams and the users/mission they serve.
 
 ## The Three Ways
+
 ### !callout-warning
-## Watch this
-Before proceeding with the lesson, please take a few moments to watch the following video
+## Watch This!
+Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
-Click here:  [DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus)
+[DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus) </br>
 
-NOTE: This is part of the course content
+**NOTE:** This is part of the course content.
+
 ### !end-callout
 
 
@@ -217,7 +222,7 @@ NOTE: This is part of the course content
 
 ##### !question
 
-What are the Three Ways
+What are the Three Ways of DevOps?
 
 ##### !end-question
 
@@ -245,61 +250,19 @@ What are the Three Ways
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
 
-### !challenge
-
-* type: checkbox
-* id: f6bb8ad7-bb83-4a2e-9fe1-d9b8ebd2ebbb
-* title: The Third Way
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In the Third Way, we:
-
-##### !end-question
-
-##### !options
-
-* Reward people for failing by introducing faults into the system
-* Understand that repetition and mastery are the prerequisite to mastery
-* Emphasize performance of an entire system
-* Emphasize continual risk taking while learning from failure
-
-
-##### !end-options
-
-##### !answer
-
-
-* Understand that repetition and mastery are the prerequisite to mastery
-* Emphasize continual risk taking while learning from failure
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
 ## The Seven Principles and Wastes
-Now that you know what the Three ways and the Seven Principles and Wastes are, we will address how DevOps can help address each of the following areas of waste:
 
 ### !callout-warning
-## Watch this
-Before proceeding with the lesson, please take a few moments to watch the following video
+## Watch This!
+Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
-Click here:  [DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g)
+[DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g) </br>
 
-NOTE: This is part of the course content
+**NOTE:** This is part of the course content.
 ### !end-callout
 
+Now that you know what the Three ways and the Seven Principles and Wastes are, we will address how DevOps can help address each of the following areas of waste: 
 
 #### 1. Partially Done Work
    * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user- this shift in mindset is part of the solution. It also ensures capabilities and team structures are in place enabling people to finish what they’ve started. Reducing dependencies between teams and boosting autonomy within teams is a powerful way to address this.
@@ -322,8 +285,11 @@ NOTE: This is part of the course content
 #### 7. Defects
    * **DevSecOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, resulting in lengthy handoffs, delays, and unplanned work.
 
-### How This Applies to Procurement
-Strategically acquiring knowledge about how DevSecOps works, especially what it is and what it is not, enables us to develop different acquisition strategies to better serve the user and mission. If you do not currently have any of these methods employed in your acquisition strategy, consider how you might partner with the vendor to begin adopting DevSecOps methodologies.
+### !callout-info
+## How This Applies to Procurement
+Strategically acquiring knowledge about how DevOps works, especially what it is and what it is not, enables us to develop different acquisition strategies to better serve the user and mission. If you do not currently have any of these methods employed in your acquisition strategy, consider how you might partner with the vendor to begin adopting DevOps methodologies. 
+
+### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -420,17 +386,17 @@ _There is no correct answer, this is your opinion._
 
 ### !callout-success
 ## Key Takeaways: 
-* CALMS provides an alternative way to approach DevSecOps by highlighting key attributes that should be foundational to your organization, namely: 
+1. CALMS provides an alternative way to approach DevSecOps by highlighting key attributes that should be foundational to your organization, namely: 
    * Culture 
    * Automation 
    * Lean 
    * Measurement, and 
    * Sharing
-* The Three Ways define the principles that underpin DevSecOps, which are: 
+2. The Three Ways define the principles that underpin DevSecOps, which are: 
    * Principle of Flow
    * Principles of Feedback, and
    * Principle of Continuous Learning.
-* Think of the Seven Wastes as the _Seven Pitfalls to Avoid._ We intentionally teach proven mitigation strategies as potential options when addressing any issues. Just don’t forget to apply the Three Ways and continually improve and adjust!
+3. Think of the Seven Wastes as the _Seven Pitfalls to Avoid._ We intentionally teach proven mitigation strategies as potential options when addressing any issues. Just don’t forget to apply the Three Ways and continually improve and adjust!
 ### !end-callout
 
 
@@ -463,6 +429,6 @@ Remember, this is optional - this is a way for you to provide input while workin
 
 ## Resources
 
-* **Book:** Kim, Gene. Phoenix Project, 5th Anniversary Edition: a Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press, 2018.
+* **Book:** [The Phoenix Project: a Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) by Gene Kim
 * **Website:** [Google re:Work](https://rework.withgoogle.com/print/guides/5721312655835136/) provides more details.
 * **Online Course:** Coursera: [DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button)
