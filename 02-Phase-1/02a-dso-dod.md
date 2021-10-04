@@ -259,7 +259,7 @@ Remember, the DoD needs both!
 
 > The DoD **cannot compete and dominate** in defense software without a technical and design workforce within the Department that **can build software natively and effectively manage vendors** to do the same.
 >
-> span style="font-size:.8em">Source: [2019 Defense Innovation Board Report: _Software is Never Done_](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF)  </span>
+> <span style="font-size:.8em">Source: [2019 Defense Innovation Board Report: _Software is Never Done_](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF)  </span>
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
