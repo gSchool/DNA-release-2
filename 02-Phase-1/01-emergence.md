@@ -175,7 +175,7 @@ Culture is undoubtedly important- but think of culture as a shadow. it is observ
 
 ### !callout-success
 ## Note:
-Culture can be defined as “shared beliefs and behaviors,” or as Seth Godin often puts it, “People like us do stuff like this.” Groups can deliberately adopt explicit beliefs and behaviors to build a specific type or culture. </br>
+Culture can be defined as “shared beliefs and behaviors,” or as Seth Godin often puts it, “People like us do stuff like this.” Groups can deliberately adopt explicit beliefs and behaviors to build a specific type or culture. </br></br>
 
 **<center><span style="font-family:script; font-size:2em">Culture eats strategy for breakfast</span></center>** </br>
 
