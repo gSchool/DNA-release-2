@@ -177,7 +177,7 @@ Culture is undoubtedly important- but think of culture as a shadow. it is observ
 ## Note:
 Culture can be defined as “shared beliefs and behaviors,” or as Seth Godin often puts it, “People like us do stuff like this.” Groups can deliberately adopt explicit beliefs and behaviors to build a specific type or culture. </br>
 
-**<center><span style="font-family:script; font-size:3em">Culture eats strategy for breakfast</span></center>** </br>
+**<center><span style="font-family:script; font-size:2em">Culture eats strategy for breakfast</span></center>** </br>
 
 Although culture cannot be addressed directly, through implementation of the DevOps Mindset, Values, and Principles (beliefs) as well as the practices and tools (behaviors) you can create the environment that allows for continued innovation and valuable capability delivery at the speed of relevance.
 ### !end-callout
