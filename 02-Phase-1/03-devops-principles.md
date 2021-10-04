@@ -26,7 +26,7 @@ In the previous lesson, we explored what is **not** considered DevOps. Now, let'
 ## Watch this
 Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
-[DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button) </br>
+[DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button) </br></br>
 
 **NOTE:** This is part of the course content.
 ### !end-callout
@@ -202,7 +202,7 @@ DevSecOps is a blend of practices, cultural philosophies and tools. Breaking dow
 ## Watch This!
 Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
-[DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus) </br>
+[DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus) </br></br>
 
 **NOTE:** This is part of the course content.
 
@@ -257,7 +257,7 @@ What are the Three Ways of DevOps?
 ## Watch This!
 Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
-[DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g) </br>
+[DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g) </br></br>
 
 **NOTE:** This is part of the course content.
 ### !end-callout
