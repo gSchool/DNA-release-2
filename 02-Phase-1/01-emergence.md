@@ -195,7 +195,7 @@ Implementation cannot be achieved by rebranding a team as ‘DevOps’ or by an 
 
 DevOps consists of multiple levels: </br> 
  
- **<center><span style="font-family:script; font-size:2em">Values → Principles → Methods → Practices → Tools</span></center>**
+ **<center><span style="font-family:script; font-size:1em">Values → Principles → Methods → Practices → Tools</span></center>**
 
 ### !end-callout
 
