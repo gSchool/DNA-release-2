@@ -23,7 +23,7 @@ We use part of Coursera's Agile Software Training Program via a DAU/Coursera Par
 In the previous lesson, we explored what is **not** considered DevOps. Now, let's put the spotlight on understanding what **is** considered DevOps, and the underlying frameworks employed by organizations both inside and outside the DoD.
 
 ### !callout-warning
-## Watch this
+## Watch This!
 Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
 
 [DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button) </br></br>
