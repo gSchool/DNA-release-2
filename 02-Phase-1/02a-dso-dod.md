@@ -2,14 +2,14 @@
 
 ## Learning Objectives
 
-By the end of this lesson you will be able to:
+By the end of this lesson you should be able to:
 
 * Understand the DoD workflow complexity supporting DevSecOps
-* Contrast the responsibilities of Software Acquisition Professionals versus Software Practitioners
+* Recognize the differences in responsibilities for Software Acquisition Professionals versus Software Practitioners
 
 ### !callout-info
 ## Note:
-From this lesson on we will use ‘DevSecOps’ vice ‘DevOps’. We first introduced DevOps, as it is the terminology commonly used in industry and validated the overall approach. While in the DoD you will more commonly hear the term ‘DevSecOps’. The emphasis on ‘Sec’ largely is influenced by the importance of security in many DoD capabilities, but also serves to remind that ‘DevSecOps’ is more than three functions--it encompasses many roles and highlights the value of a multi-functional team. 
+From this lesson on, we will use ‘DevSecOps’ instead of ‘DevOps’. The terminology commonly used in the private sector is DevOps, but while working within the DoD you will more commonly hear the term DevSecOps. The emphasis on 'Sec' (for Security) is due largely to the importance of security in many DoD capabilities, but it also serves as a reminder that 'DevSecOps' is more than three functions. In fact, it encompasses many roles, and highlights the value of a multi-functional team.
 
 ### !end-callout
 
@@ -74,6 +74,8 @@ Since the DoD is composed of multiple services and components, the collective fi
 
 While this example has gotten complex, something is missing - something we have been emphasizing throughout this course, critical to developing valuable capability:
 
+**Where is the Operational User?**
+
 ![Marionette level 4, Where is the operational user?](../__images/02a_05_level4_question.jpg)
 
 Sadly, in many cases the operational user is not included in this picture.
@@ -106,7 +108,7 @@ Feedback loops can be lengthy, numerous...and manual.
 
 ##### !question
 
-Within a Program Office, select all of the following that can influence and impact your program:
+**Select all** of the personnel that can influence and impact your program within a Program Office.
 
 ##### !end-question
 
@@ -133,7 +135,7 @@ Within a Program Office, select all of the following that can influence and impa
 ##### !end-answer
 
 #### !explanation
-Even if you are a smaller program and reviews are delegated all of the following still can impact or influence your program indirectly.  
+All of the following can still impact or influence your program indirectly, even if you are a smaller program and reviews are delegated. 
 #### !end-explanation
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -146,60 +148,17 @@ Even if you are a smaller program and reviews are delegated all of the following
 
 When Dr. Boleng gave this briefing, there was a pause here-- this graphic is a comically complicated (and incomplete) picture, and many stakeholders are not even represented. And while this graphic depicts a single stack of inputs, reality is **even more complicated** and resembles a tree more than a tower. That being said, _do not_ get overwhelmed or disheartened.
 
-Use the feedback loop timelines to your advantage! As you continue moving up the chain of command, the frequency of information flow and/or briefings decreases. While PMOs work with contractors on a daily or monthly basis, we receive an NDAA or Appropriations Bill annually, which is informed by portfolios and programs within the DoD. Make good use of this time difference by collecting metrics and data to inform decision briefings.
+Use the feedback loop timelines to your advantage! 
+
+As you continue moving up the chain of command, the frequency of information flow and/or briefings decreases. While PMOs work with contractors on a daily or monthly basis, we receive an NDAA or Appropriations Bill annually, which is informed by portfolios and programs within the DoD. Make good use of this time difference by collecting metrics and data to inform decision briefings.
 
 We highlight this for two reasons:
 
-1. **A shared understanding.** Before introducing new concepts or roles, it is important that we all are moving forward with a shared understanding of how decisions impacting programs and delivery capability are made.
+1. **A shared understanding.** Before introducing new concepts and/or roles, it is important that we all move forward with a shared understanding of how decisions that impact programs and delivery capability are made.
 1. **Starting with the familiar process.** Since this course is geared towards acquisition professionals, we addressed only one portion of the decision workflow, using the roles you are most familiar with.
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 960156df-c1b7-44d7-be32-308c56f49008
-* title: Feedback loops
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-The mismatch of feedback loops for decisions is the **primary reason** why the  DoD is struggling to adopt DevSecOps.
-
-##### !end-question
-
-##### !options
-
-* True; this unique to the DoD
-* True; this occurs in all organizations 
-* False; this is a unique DoD problem 
-* False; this occurs in all organizations
-
-##### !end-options
-
-##### !answer
-
-* False; this occurs in all organizations
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !explanation
-The mismatch of feedback loops for decisions occurs in every organization. DevSecOps emphasizes the mismatch because of the increased speed of delivery that is available with adoption of processes, practices and tools. This creates a **greater** importance in a shared understanding and common lexicon. 
-### !end-explanation
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
 Later sections will discuss metrics aiming to improve communication with leadership and stakeholders, but in the meantime, ask yourself:
-* What changes when you apply DevSecOps methodologies? 
+* What will change when you apply DevSecOps methodologies?
 * What new roles are introduced? 
 * Does it change acquisition roles?
 
@@ -207,15 +166,19 @@ Later sections will discuss metrics aiming to improve communication with leaders
 
 ### !callout-info
 ## Learning Guides Perspective: 
-We intentionally define these two overarching groups because we believe technical members of the team expand beyond the software developers, data scientists, cloud architects, etc.  An understanding of the underlying technology and processes allows users, requirements owners, and acquisition professionals to become enablers of the DevSecOps movement across the Department.  We have intentionally _not_ referred to one team as technical because **we all need to have a technical foundations.** 
+We intentionally define these two overarching groups because we believe technical members of the team expand beyond software developers, data scientists, Cloud architects, etc. 
+
+An understanding of the underlying technology and processes allows users, requirements owners, and acquisition professionals to become enablers of the DevSecOps movement across the Department.  We have intentionally _not_ referred to one team as technical because **we all need to have a technical foundation.** 
 ### !end-callout
 
 
-The DoD delivers software via a complex system. The visual below helps demonstrate how organizations within the Defense Acquisition System (DAS) deliver capability:
+The DoD delivers software via a complex system. The visual below demonstrates how organizations within the Defense Acquisition System (DAS) deliver capability:
 
 ![Defense Ecosystem Overview](../__images/02a_07_defense.png)
 
-This is not a comprehensive view, but does begin to show the communities that support capability delivery. J[ez Humble’s video Principles of Lean Product Management](https://www.youtube.com/watch?v=cH6bnQzJojo) explains what makes digital services different by outlining distinct differences using the example of bridges versus digital products:
+Note that this is **not** a comprehensive view. However, it does begin to define the communities that support capability delivery.
+
+Jez Humbles' video on the [Principles of Lean Product Management](https://www.youtube.com/watch?v=cH6bnQzJojo) outlines distinct differences between Project and Product Management using the example of bridges versus digital products:
 
 _Note: The video is 50 minutes long - if you have the opportunity, it’s well worth the time!_
 
@@ -227,9 +190,9 @@ _Note: The video is 50 minutes long - if you have the opportunity, it’s well w
 |Does NOT discover significant information while building/developing|Significant information IS discovered while building/developing|
 |MUST be completed before using|CAN be used prior to completion|
 
-Because these differences require a different perspective and approach for individuals supporting/performing management-level Acquisitions responsibilities within the DAS, moving forward we will refer to this group as **Software Acquisition Professionals**. Likewise, for those building the capabilities, we will refer to them as **Software Practitioners**.
+These differences require an alternative perspective and approach for individuals supporting and performing management-level Acquisitions responsibilities within the DAS. As a result, moving forward we will refer to this group as **Software Acquisition Professionals.** Likewise, for those building capabilities, we will refer to them as **Software Practitioners.**
 
-This is depicted within the  graphic below:
+This distinction is shown in the graphic below:
 
 ![Defense Ecosystem Overview with callout](../__images/02a_08_defense_callout.png)
 
@@ -237,23 +200,60 @@ A few key points:
 * Software Practitioners exist in multiple communities simultaneously. Regardless of whether they work within Science and Technology (S&T) or Acquisitions, Software Practitioners must be familiar with current practices, processes, and tools supporting software capability delivery- that is, they not only advise but also provide hands-on support (coding or technical decisions).
 * Acquisitions roles are still needed when adopting DevSecOps methodologies, and should be an integrated part of the team.
 
-We emphasize software to clearly articulate the differences in software-intensive systems, but it is still about the _**team**_ effort--Software Practitioners and Software Acquisition Professionals work together to deliver valuable capability at the speed of relevance within the DoD.
+While this lesson emphasizes software to articulate the differences between software-intensive systems, it's still about the **team effort.** Software Practitioners and Software Acquisition Professional must work together to deliver valuable capability at the speed of relevance within the DoD.
 
 _Interaction occurs constantly due to the speed of software development and deployment._ Examples of collaboration include (but are not limited to):
 * Supporting new requirements in development and contracting processes as required
-* Providing feedback on existing contracts (services and products)
+* Providing feedback on existing contracts (including services and products)
 * Supporting technical direction and incorporation of acquisition strategies
 * Supporting funding, and obligation actions and strategies
 
 Let’s define Software Acquisition Professionals and Software Practitioners:
-* **Software Acquisition Professionals**: A Software Acquisition Professional is a member of the DoD acquisition workforce who provides expertise in the procurement, management and/or development of software intensive processes and systems such as business systems, weapons systems, supplies, or services to satisfy DoD needs and support military operations.
-  * Example software acquisition roles are: Program Managers, Financial Managers, Contracting Officers, Cost Estimators, Lifecycle Logisticians, etc.
-  * The roles above represent team members who are **not** directly supporting product delivery, and instead support valuable capability delivery through navigation and leveraging of the DoD 5000.02 Adaptive Acquisition Framework (AAF), Federal Acquisition Regulation (FAR), DoD 5000.74, Financial Management Regulation (FMR) and other policies and regulations DoD- and service-specific that guide the acquisitions workforce.
-  * Leadership that supports Software Acquisition Professionals include Program Executive Officers (PEOs), Service Acquisition Executives (SAEs), and the military department chief information officers (CIOs) providing technical leadership
-* **Software Practitioners**: Software practitioners are defined as individuals actually implementing software and delivering capability to users, in conjunction with the Defense Industrial Base.
-  * Example software practitioner roles are: Software Developers, Software Engineers, Product Managers, Cloud Architects, User Experience Specialists, etc.  
-  * Software practitioners can also be Software Acquisition Professionals, as illustrated in the figure above. The explicit distinction emphasizes the recommendation that technical advisors should be aware of and have knowledge of current software practices, mandated by the speed of technology.
-  * Leadership that supports software practitioners include the military department, CIOs, their cybersecurity accreditation authority, PEOs, SAEs, policy staffs, etc.  
+
+### Software Acquisition Professionals 
+
+A Software Acquisition Professional is a DoD acquisition workforce member who provides procurement, management, and/or development expertise for software-intensive processes and systems. These systems include but are not limited to:
+* business systems
+* weapons systems
+* supplies and services in support  of DoD need or military operations
+
+Some examples of software acquisitions roles are:
+* Program Managers
+* Financial Managers
+* Contracting Officers
+* Cost Estimators
+* Lifecycle Logisticians
+* Etc.
+
+The roles above represent team members **not** directly supporting product delivery. Instead, they support valuable capability delivery through navigating and leveraging both DoD and service specific policies and regulations, including but not limited to:
+* The DoD 5000.02 Adaptive Acquisition Framework (AAF)
+* Federal Acquisition Regulation (FAR)
+* Financial Management Regulation (FMR)
+
+Leadership teams that support Software Acquisition Professionals and provide technical leadership include:
+* Program Executive Officers (PEOs)
+* Service Acquisition Executives (SAEs)
+* Military department Chief Information Officers (CIOs)
+
+
+### Software Practitioners 
+
+Software practitioners are defined as those who actually implement software and deliver capability to users, typically in conjunction with the Defense Industrial Base.
+
+Example software practitioner roles include:
+* Software Developers
+* Software Engineers
+* Product Managers
+* Cloud Architects
+* User Experience Specialists
+
+Software practitioners may also be Software Acquisition Professionals, as illustrated in the figure above. The explicit distinction emphasizes the need for technical advisors who should be cognizant of and familiar with current software practices, mandated by the speed of technology.
+
+Leadership that supports software practitioners include but is not limited to:
+* The military department CIOs and their cybersecurity accreditation authority
+* PEOs
+* SAEs
+* Policy staffs
 
 Remember, the DoD needs both!
 
@@ -296,10 +296,10 @@ Why is a shared understanding and common lexicon so critical throughout the DoD?
 
 
 ### !explanation-correct:
-Even if you understand the concepts, teaching others helps you to improve your understanding!
+Teaching is a great way to improve your understanding, even if you already know the concepts!
 ### !end-explanation
 ### !explanation: It is taxing on the team members that already understand
-Don’t forget all the resources you can use to help--books, articles, peers, and/or courses. Additionally, even if you understand the concepts, teaching others helps you to improve your understanding!
+Don't forget - there are many resources available that you can use to help you increase your knowledge base, including books, articles, courses, and your peers. Even if you already understand the concepts, **teaching others helps you improve your understanding.** 
 ### !end-explanation
 
 <!-- other optional sections -->
@@ -363,7 +363,7 @@ How has implementing DevSecOps (Agile) changed your current role? **Select all t
     * Software products can be used prior to all features being developed
     * Software can (and should) change over time, and
     * Significant information is learned when users interact with software--this enables faster feedback and smaller batches. 
-    * **To drive this home:** Building a bridge from either side of a river, you get one shot--that is **not** true for software intensive systems. 
+    * **To drive this home:** Building a bridge from either side of a river, you get one shot - that is **not** true for software intensive systems. 
 * As course instructors, we have defined two groups of people emphasizing the importance of digital foundations throughout **all roles and functions:**
     * Software acquisition professionals manage and/or procure software, and
     * Software practitioners develop and deliver software to users.
