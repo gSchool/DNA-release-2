@@ -179,7 +179,7 @@ Remember, the goal is not merely moving fast:Remember, the goal is not merely mo
 
 ![Direction is so much more important that speed, many are going nowhere fast](../__images/03_05_measurement.png)
 
-Direction is informed by data, which allows for speed to VALUE. We need data and metrics to LEARN FAST. The primary reason for collecting a metric is to learn something - either about the current state of the work (status metrics, which are generally lagging indicators) or about the projected results (predictive metrics, aka leading indicators).
+Direction is informed by data, which allows for speed to VALUE. We need data and metrics to LEARN FAST. The primary reason for collecting a metric is to learn something - either about the **current state of the work** (status metrics, which are generally lagging indicators) or about the **projected results** (predictive metrics, aka leading indicators)
 
 ### <span style="font-size: 2em">S.</span> Sharing
 
@@ -194,7 +194,7 @@ The DoD has an opportunity to yield significant benefits by undergoing a DevSecO
 
 ![Every model is wrong, but some are useful](../__images/03_06_sharing.png)
 
-DevSecOps is a blend of practices, cultural philosophies and tools. Breaking down our functional silos will skyrocket the mission value we collectively aim to deliver by increasing trust, faster (but smaller) software releases, and a tight feedback loop within and across DevSecOps teams and the users/mission they serve.
+DevSecOps is a blend of practices, cultural philosophies, and tools. Breaking down our functional silos will skyrocket the mission value we collectively aim to deliver by increasing trust, faster (but smaller) software releases, and a tight feedback loop within and across DevSecOps teams and the users/mission they serve.
 
 ## The Three Ways
 
@@ -262,10 +262,10 @@ Before proceeding with the lesson, please take a few moments to watch the follow
 **NOTE:** This is part of the course content.
 ### !end-callout
 
-Now that you know what the Three ways and the Seven Principles and Wastes are, we will address how DevOps can help address each of the following areas of waste: 
+Now that you know the Three ways and the Seven Principles and Wastes, we address how DevOps can help address each of the following areas of waste: 
 
 #### 1. Partially Done Work
-   * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user- this shift in mindset is part of the solution. It also ensures capabilities and team structures are in place enabling people to finish what they’ve started. Reducing dependencies between teams and boosting autonomy within teams is a powerful way to address this.
+   * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user. This shift in mindset is part of the solution, by ensuring capabilities and team structures are enabling teams to finish what they've started. Reducing dependencies and boosting autonomy within teams addresses partial work completion in a powerful way
 
 #### 2. Extra Unnecessary Features
    * **DevSecOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘little and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
@@ -392,7 +392,7 @@ _There is no correct answer, this is your opinion._
    * Lean 
    * Measurement, and 
    * Sharing
-2. The Three Ways define the principles that underpin DevSecOps, which are: 
+2. The Three Ways define the principles that underpin DevSecOps: 
    * Principle of Flow
    * Principles of Feedback, and
    * Principle of Continuous Learning.
