@@ -12,11 +12,11 @@ By the end of this lesson you will be able to:
 ## Introduction 
 
 A few disclaimers before diving into this lesson:
-* Each definition can be tailored, there are multiple ways to define each competency area. This is the definition for this course.
-* Each program may require different competencies, and all may not be required. 
-* Remember industry is a critical partner that can help augment your internal organic (military and civilian) team and provide additional required expertise
-* Even if you have organic capability to cover all required competencies, your software acquisition team _is still_ a critical enabler
-* Review the following definitions with your team and re-define as necessary in your context. **A critical foundation is common understanding and lexicon across your team.** 
+* Each competency area within this lesson can be defined **multiple ways**- what we define here is _specific_ to this course.
+* Not all defined competencies may be required- individual programs often vary.
+* Remember - industry is a critical partner for augmenting your internal organic team (both military and civilian), and provides additional required expertise.
+* Your _software acquisition team is still a critical enabler,_ even if you have organic capability to cover all required competencies.
+* **A critical foundation is common understanding and lexicon across your team.** Review the following definitions with your team and re-define as necessary in your context. 
 
 ## Basic DevSecOps Competency Areas
 
@@ -25,15 +25,14 @@ Throughout this course, we will refer back to the definitions and build upon the
 ### !callout-danger
 
 ## Disclaimer
-Below we list common Software Practitioner roles supporting DevSecOps. However, this **should not** be interpreted as **all** projects needing **all** of these roles every time. As stated above, it depends on a number of factors, like your mission, desired capability, deployment environment, etc.
-
+We list the following Software Practitioner roles because they are commonly found supporting DevSecOps. However, this **should not** be interpreted as **all** projects needing **all** of these roles every time. As stated above, it depends on a number of factors, like your mission, desired capability, deployment environment, etc.
 ### !end-callout
 
 ### Product Owner:
-Product Owners manage the Agile process, and are ultimately responsible for the success of the product. They are responsible for prioritizing development of features and functionality, defining acceptance criteria for features, and providing demonstrations/reviews to stakeholders. Sometimes dual-hatted as the Product Manager.
+Product Owners are responsible for managing the Agile process, prioritizing feature and functionality development, defining acceptance criteria, and providing demonstrations/reviews to stakeholders. They are sometimes dual-hatted as the Product Manager, and are ultimately responsible for the success of the product.
 
 ### Product Manager:
-Product Managers are responsible for working closely with the requirements and user community to ensure that requirements reflect their needs, priorities and align to mission objectives. Sometimes dual-hatted as the Product Owner.
+Product Managers are responsible for working closely with the requirements and user community to ensure that requirements reflect their needs, priorities and align to mission objectives. They are sometimes dual-hatted as the Product Owner.
 
 ### Software Developers (Engineers) – Front-End:
 Front End Software Developers/Engineers individually and/or as a team develop front-end functionality and interfaces to support the organization’s vision (design and write code).
@@ -51,13 +50,14 @@ Content Development teams or individuals build content and realize the vision se
 Security teams or individuals support the security component of digital service development from the start, and ensure the safe and secure delivery and use of digital services. This includes data protection, security, and privacy.
 
 ### Deployment Engineers:
-Deployment teams or individuals work to automate delivery of the digital service from development and testing environments, to production environments.
+Deployment teams or individuals work to automate delivery of the digital service from development and testing environments to production environments.
 
 ### Testers:
-Testing teams or individuals work with Product Owners to define acceptance criteria for features, and work with Developers to make sure they meet those criteria. Ultimately, testing is the job of the team, and should be integrated into every step along the way. Best practices call for code developers to be testers as well, i.e. wearing dual hats to allow for more in-depth testing from the lowest level.
+Testers work with Product Owners to define acceptance criteria for features, and work with Developers to ensure they meet those criteria. Ultimately, testing is everyone's job as part of the team, and should be integrated into every stage in the process. Best practices are for code developers to also be testers, i.e. wearing dual hats to allow for end-to-end, in-depth testing.
 
 ### End User:
 End users are who ultimately interact with and use the digital service.
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -71,7 +71,7 @@ End users are who ultimately interact with and use the digital service.
 
 ##### !question
 
-Select all that are roles that are part of the DevSecOps team
+Which of the following roles are part of a DevSecOps team?
 
 ##### !end-question
 
@@ -97,9 +97,10 @@ Select all that are roles that are part of the DevSecOps team
 
 ##### !end-answer
 
-### !hint
-Does it seem like they all support DevSecOps implementation?
-### !end-hint
+#### !explanation
+Correct! Remember that DoD capability is supported by many functions and roles. That does **not** mean that all team members are involved in every meeting or every decision. Rather the takeaway is that the multi-functional team extends beyond those with hands on keyboard, i.e. coding. 
+#### !end-explanation
+
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -110,15 +111,17 @@ Does it seem like they all support DevSecOps implementation?
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-You may ask yourself, "Where do I find all of this new talent?" There’s good news- each organization is already composed of a talented team. Furthermore, not all teams look the same. Your DevSecOps team can be composed of some combination of organic (military or civilian) and/or contractor support. There is no perfect combination, and we all have factors that influence our decisions (assigned organic personnel, availability of funding, etc.) There is one caveat- let’s refer back to Dr. Royce’s ‘waterfall’ paper :
+You may be asking yourself, _"Where do I find all of this new talent?"_ There's good news - your organization is already composed of a talented team.
+
+Furthermore, not all teams are the same. DevSecOps teams can be a combination of organic (military and civilian) and/or contractor support. We all have factors influencing our decisions, like assigned personnel, funding availability, etc. There is one caveat, however. Let's refer back to Dr. Royce's 'waterfall' paper:
 
 >To give the contractor free rein between requirement definition and operation is inviting trouble.
 >
 ><span style="font-size: .8em">Source: [Managing the Development of Large Software Systems - Dr. Winston W Royce](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf) </span>
 
-To be clear, the key is that your organic support, even if limited, must still communicate often with the contractor team.
+The key to all of this? Ensuring your organic support, even if limited, still communicates often with the contractor team(s).
 
-**The Bottom Line:** We all have talented team members. With a little motivation and investment, teams can adapt to new roles, and when motivated people are solving the right problems, they may just surprise you.
+**The Bottom Line:** We all have talented team members.  With a little motivation and investment, teams adapt - and when motivated people are solving the right problems, they may just surprise you.
 
 ## DevSecOps Teams
 
