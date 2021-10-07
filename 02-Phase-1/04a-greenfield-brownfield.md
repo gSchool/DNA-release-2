@@ -4,7 +4,7 @@
 
 By the end of this lesson you will be able to:
 
-* Describe greenfield and brownfield projects
+* Differentiate between greenfield and brownfield projects
 * Understand greenfield projects within the industry
 * Describe the applicability of greenfield and brownfield projects within the DoD
 
@@ -30,7 +30,7 @@ What can be built on an empty plot of land? The opportunities are endless- a cab
 >
 ><span style="clear:both">&nbsp;</span>
 
-There are appealing aspects to building using greenfield, in construction and in technology. Using our construction example, since the land has not been developed, builders have freedom in implementation- you are not limited by any existing structural choices, like electrical, plumbing, foundation, etc.
+There are appealing aspects to building using greenfield, in both construction and technology. Using our construction example, since the land has not been developed, builders have freedom in implementation- you are not limited by any existing structural choices, like electrical, plumbing, foundation, etc.
 
 Recall the example we referenced in Module 101. Netflix is an example of a greenfield software project- that is, Netflix as a new idea that transformed the movie rental market it was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared towards new markets for maximum profit opportunity. Other such examples we discussed in Module 101 include Uber and AirBnB.
 
@@ -155,7 +155,7 @@ Select the following answers that would support his argument:
 * Greenfield projects have a higher degree of risk
 * Brownfield projects have a clearer project direction
 * Greenfield projects require a more significant development effort
-* Greenfield projects allow for more freedom to design system
+* Brownfield projects allow for more freedom to design the system
 
 
 ##### !end-options
