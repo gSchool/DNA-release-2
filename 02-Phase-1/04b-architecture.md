@@ -12,8 +12,6 @@ By the end of this lesson you will be able to:
 
 ## Microservices
 
-Because there are common approaches for implementing the Strangler Pattern and Modular Open Systems Architecture (MOSA), we are starting this module with microservices.
-
 The writers of the book [_Team Topologies_](https://teamtopologies.com/book) spoke at the DevOps Enterprise Summit in 2019, stating:
 
 "Many organizations are starting to deploy their applications using microservices, but even with that, you have many debates about what is the right way to do so." For example:
@@ -35,7 +33,7 @@ The writers of the book [_Team Topologies_](https://teamtopologies.com/book) spo
 
 The point here isn’t to confuse you. Many of you might be asking yourselves, “If these are the words of leaders in the industry, where am I supposed to focus?” It starts by creating a shared understanding of important terms within your acquisition team, the contracts you award, and the development teams you support.
 
-Again, the right approach is dependent on your scenario -- there is no magic pill, one-size-fits-all, specified play or playbook, etc.
+Again, the right approach is dependent on **your** scenario -- there is no magic pill, one-size-fits-all, specified play or playbook, etc.
 
 For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read at least the [**Netflix** example](https://blog.dreamfactory.com/microservices-examples/#:~:text=Some%20of%20the%20most%20innovative,to%20the%20adoption%20of%20microservices):
 
