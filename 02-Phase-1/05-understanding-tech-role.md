@@ -488,7 +488,7 @@ _There is no correct answer, this is your opinion._
 ### !callout-success
 ## Key Takeaways: 
 * Technology and software architecture are both important, but don’t forget about the design of your team, especially internal and external communication structures. Users, leadership, and stakeholders are all involved in the success of the technology we develop. Remember Conway’s law will always be the largest bottleneck.
-* **Tech debt will always be a concern.** Tech debt can be both planned or unplanned.  Software architecture and technology choices **must** be reassessed over time, and microservice design/MOSA enables a smooth transition.
+* **Tech debt (the buildup of rework due to failing to address technical issues early on) will always be a concern.** Tech debt can be both planned or unplanned.  Software architecture and technology choices **must** be reassessed over time, and microservice design/MOSA enables a smooth transition.
 * Tech Stacks and Development Pipelines are foundational for delivering software continuously, but do have to be developed for every program. Don’t forget, enterprise capability and re-use is a foundational concept of DevSecOps.
 ### !end-callout
 
