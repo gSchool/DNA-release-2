@@ -67,7 +67,7 @@ Below outlines the course content, identifying the lessons associated with each 
 ## Pre-Assessment Availability
 Remember, the Pre-Assessment
 * Must be completed *prior* to starting Phase A **and** 
-* It must be completed *prior* to **COB Tuesday, October 12th.** *If you do not complete the Pre-Assessment before 10/12, you will be deferred to the next offering of 102: DevSecOps Foundations.*
+* It must be completed *prior* to **COB Monday, December 6th.** *If you do not complete the Pre-Assessment before 12/6, you will be deferred to the next offering of 102: DevSecOps Foundations.*
 ### !end-callout
 
 
@@ -77,7 +77,7 @@ Course instructors will send reminders throughout the course to ensure you are c
 
 ### !callout-info
 ## Course Completion
-* Remember that **all content** must be completed by **Wednesday , October 20th.**
+* Remember that **all content** must be completed by **Wednesday , December 15th.**
 * Before continuing on to Module 103, you must receive a grade of **80% or better** on the post-assessment. 
 * Also, don't forget about the survey - this is how we continually improve the course!
 ### !end-callout
@@ -113,7 +113,7 @@ We hope that you enjoy the course! As always, reach out to Tory or Christina if 
 
  ##### !question
  
-I understand all information in this course must be completed by Wednesday, October 20th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Module 102 Certificate of Completion.
+I understand all information in this course must be completed by Wednesday, December 15th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Module 102 Certificate of Completion.
 
  ##### !end-question
 
