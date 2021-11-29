@@ -175,8 +175,7 @@ Without data, any attempt at improvement is fruitless, and like any tool, metric
 
 Proceed with caution when selecting metrics. Be sure to avoid "vanity metrics" that may sound impressive, but do not actually provide meaningful insight on the current status or future trajectory of the work. 
 
-Remember, the goal is not merely moving fast:Remember, the goal is not merely moving fast:
-
+Remember, the goal is not merely moving fast:
 ![Direction is so much more important that speed, many are going nowhere fast](../__images/03_05_measurement.png)
 
 Direction is informed by data, which allows for speed to VALUE. We need data and metrics to LEARN FAST. The primary reason for collecting a metric is to learn something - either about the **current state of the work** (status metrics, which are generally lagging indicators) or about the **projected results** (predictive metrics, aka leading indicators)
