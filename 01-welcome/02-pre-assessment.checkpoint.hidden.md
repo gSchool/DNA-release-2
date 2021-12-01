@@ -715,7 +715,7 @@ What are characteristics and examples of vanity metrics?
 
 ### !challenge
 
-* type: multiple choice
+* type: checkbox
 * id: 6339c701-6b6b-45a5-bab3-441d3366382a
 * title: Metrics 1
 * points: 3
@@ -761,7 +761,7 @@ Which metric shows how often you can deploy a new release into production enviro
 
 ### !challenge
 
-* type: Multiple Choice
+* type: checkbox
 * id: 649411b6-17d3-4b86-9e47-df66bbfeb4a2
 * title: Metrics 12
 * points: 3
