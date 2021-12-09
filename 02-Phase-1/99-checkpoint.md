@@ -79,18 +79,16 @@ What are examples of Project Management? Recall an example of project management
 
 ##### !options
 
-* 1, 2, 4, 5 only
-* 3, 4, 7, 8 only
+* 1, 4, 5, 7 only
+* 2, 3, 6, 8 only
 * None of them apply
-* 2, 6, 7, 8 only
-* All of the above
 
 
 ##### !end-options
 
 ##### !answer
 
-* All of the above
+* 1, 4, 5, 7 only
 ##### !end-answer
 
 ### !end-challenge
@@ -261,11 +259,12 @@ Which type of development is characterized by a vague project direction with hig
 
 What are the core advantages of implementing a DevOps Team?
 
-A. Standardize coding best practices
-B. Improve products faster
-C. Speed up development cycle
-D. Get feedback for a new release faster
-E. Allows newer technology
+1. Standardize coding best practices
+2. Improve products faster
+3. Speed up development cycle
+4. Get feedback for a new release faster
+5. Allows newer technology
+
 ##### !end-question
 
 ##### !options
