@@ -7,7 +7,6 @@ By the end of this lesson, you will be able to:
 * Recognize the ability and **need** for roles to be fluid, because environments are dynamic
 * Articulate Software Practitioner roles and teams
 * Define how to implement Software Practitioner teams within the Government
-* **BONUS:** Have a basic understanding of DevSecOps organization
 
 ### !callout-info
 ## Extending the Concepts
