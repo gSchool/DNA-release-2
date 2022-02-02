@@ -67,7 +67,7 @@ Below outlines the course content, identifying the lessons associated with each 
 ## Pre-Assessment Availability
 Remember, the Pre-Assessment
 * Must be completed *prior* to starting Phase A **and** 
-* It must be completed *prior* to **COB Monday, December 6th.** *If you do not complete the Pre-Assessment before 12/6, you will be deferred to the next offering of 102: DevSecOps Foundations.*
+* It must be completed *prior* to **COB Monday, February 7th.** *If you do not complete the Pre-Assessment before February 7th, you will be deferred to the next offering of 102: DevSecOps Foundations.*
 ### !end-callout
 
 
@@ -77,7 +77,7 @@ Course instructors will send reminders throughout the course to ensure you are c
 
 ### !callout-info
 ## Course Completion
-* Remember that **all content** must be completed by **Wednesday , December 15th.**
+* Remember that **all content** must be completed by **Wednesday , February 16th.**
 * Before continuing on to Module 103, you must receive a grade of **80% or better** on the post-assessment. 
 * Also, don't forget about the survey - this is how we continually improve the course!
 ### !end-callout
@@ -87,7 +87,7 @@ Course instructors will send reminders throughout the course to ensure you are c
 
 As you are work through the content:
 
-* **Key Takeaways:** We have created three (3) key takeaways for each individual lesson. Additionally, we are compiling a full list of all key takeaways as well as relevant resources for further study will be provided with successful completion of the course, and delivered in conjunction with your course certificate.
+* **Key Takeaways:** We have created three (3) key takeaways for each individual lesson. A full list of all key takeaways as well as relevant resources for further study will be provided with successful completion of the course, and delivered in conjunction with your course certificate.
 
 * **Resource Section:** Resource sections are intended to provide additional learning opportunities for students who wish to continue studying and completing research on their own. Selections will include articles, books, videos, and presentations that supplement the course content and further define topics we aren't able to cover in more depth.  
 
@@ -113,7 +113,7 @@ We hope that you enjoy the course! As always, reach out to Tory or Christina if 
 
  ##### !question
  
-I understand all information in this course must be completed by Wednesday, December 15th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Module 102 Certificate of Completion.
+I understand all information in this course must be completed by Wednesday , February 16th with a score of 80% or greater on the Post-Assessment to receive my Digital DNA Module 102 Certificate of Completion.
 
  ##### !end-question
 
