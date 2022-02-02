@@ -144,9 +144,9 @@ Place the following terms in order from least powerful (but often easiest to ado
 
 ##### !answer
 
-1. Tools
+1. Tools and Processes 
 1. Practices
-1. Principles and Processes 
+1. Principles 
 1. Values
 1. Mindset
 
