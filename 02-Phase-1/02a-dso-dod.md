@@ -2,14 +2,16 @@
 
 ## Learning Objectives
 
-By the end of this lesson you should be able to:
+By the end of this lesson, you should be able to:
 
 * Understand the DoD workflow complexity supporting DevSecOps
 * Recognize the differences in responsibilities for Software Acquisition Professionals versus Software Practitioners
 
 ### !callout-info
 ## Note:
-From this lesson on, we will use ‘DevSecOps’ instead of ‘DevOps’. The terminology commonly used in the private sector is DevOps, but while working within the DoD you will more commonly hear the term DevSecOps. The emphasis on 'Sec' (for Security) is due largely to the importance of security in many DoD capabilities, but it also serves as a reminder that 'DevSecOps' is more than three functions. In fact, it encompasses many roles, and highlights the value of a multi-functional team.
+From this lesson on, we will use ‘DevSecOps’ instead of ‘DevOps’. The terminology commonly used in the private sector is DevOps, but while working within the DoD you will more commonly hear the term DevSecOps. The emphasis on 'Sec' (for Security) is due largely to the importance of security in many DoD capabilities. <br><br>
+
+**Don’t Forget!** ‘DevSecOps’ is _more than_ three functions. In fact, it encompasses many roles, and highlights the value of a multi-functional team.
 
 ### !end-callout
 
@@ -23,7 +25,7 @@ Hopefully at this point many of you are:
 
 ### !callout-success
 
-## From Tory’s Perspective
+## Learning Guide Perspective: Tory
 The best part of this style of working? Realizing that your work is in the hands of users, and you can watch it happen! In a small way, you contribute to improving capability, and you get to watch code deploy the same day -- a gratifying experience, and why I love this job! **We really do have the best mission**
 
 ### !end-callout
@@ -36,7 +38,7 @@ Knowing these are proven best practices in many other industries, _why is it so 
 * Developer = Government Contractor
 
 
-The following concepts are an excerpt from a presentation given by Dr. Jeff Boleng who previous served as the Senior Advisor of Software Acquisitions to HON Ellen Lord, Secretary of Defense for Acquisitions and Sustainment (A&S):
+The following concepts are an excerpt from a presentation given by Dr. Jeff Boleng who previously served as the Senior Advisor of Software Acquisitions to HON Ellen Lord, Secretary of Defense for Acquisitions and Sustainment (A&S):
 
 >_...A marionette is a way to visualize the relationship between a Program Manager (PM), the Contract and a Developer. _
 
@@ -108,7 +110,7 @@ Feedback loops can be lengthy, numerous...and manual.
 
 ##### !question
 
-**Select all** of the personnel that can influence and impact your program within a Program Office.
+From the list below, **select all** that _can influence and impact_ your program within a Program Office. 
 
 ##### !end-question
 
@@ -247,7 +249,10 @@ Example software practitioner roles include:
 * Cloud Architects
 * User Experience Specialists
 
-Software practitioners may also be Software Acquisition Professionals, as illustrated in the figure above. The explicit distinction emphasizes the need for technical advisors who should be cognizant of and familiar with current software practices, mandated by the speed of technology.
+### !callout-info
+## Don’t Forget!
+Software practitioners _may also be_ Software Acquisition Professionals, as illustrated in the figure above. The explicit distinction emphasizes the need for technical advisors who should be cognizant of and familiar with current software practices, mandated by the speed of technology.
+### !end-callout 
 
 Leadership that supports software practitioners include but is not limited to:
 * The military department CIOs and their cybersecurity accreditation authority
@@ -401,8 +406,8 @@ Remember, this is optional - this is a way for you to provide input while workin
 ## Resources
 These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
 
-* **Article:**[Why DevOps is good for Government](https://gcn.com/articles/2015/02/12/devops-defined.aspx), Feb 2015.
+* **Article:** [Why DevOps is good for Government,](https://gcn.com/articles/2015/02/12/devops-defined.aspx) Feb 2015.
 * **DoD Presentation:** Dr. Jeff Boleng, Senior Advisor Software Acquisitions [Adaptive Acquisition Framework](https://www.dhs.gov/sites/default/files/publications/2019_sw_it-cast_proceedings_0.pdf), p.284-312, Aug 2019. 
 * **DoD Report:** [2019 Defense Innovation Board (DIB) _Software is Never Done_ Report](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF)
-* **Video:** Referenced in the lesson a 50 minute video by Jez Humble [Principles of Lean Product Management](https://www.youtube.com/watch?v=cH6bnQzJojo)
+* **Video:** Referenced in the lesson a 50-minute video by Jez Humble [Principles of Lean Product Management](https://www.youtube.com/watch?v=cH6bnQzJojo)
 
