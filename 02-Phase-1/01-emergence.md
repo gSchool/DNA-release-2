@@ -15,9 +15,9 @@ By the end of this lesson you will be able to:
 We are *extensively* discussing the definition of DevOps to provide two key items:
 
 * A common definition of DevOps to start from
-* A deeper understanding of DevOps before diving into implementation and DoD examples.
+* A deeper understanding of DevOps before diving into implementation and DoD examples. <br><br> 
 
-We intentionally will discuss DevSecOps at length in later sections. 
+**We intentionally will discuss DevSecOps at length in later sections.**
 ### !end-callout
 
 **Disclaimer:** This section heavily references the article ‘What is DevOps?’ for content and overall structure. For more information please visit the original source at:
@@ -47,7 +47,9 @@ The term DevOps emerges from the combination of two related trends:
 ### !callout-secondary
 ## Why focus on DevOps and not DevSecOps?
 
-DevOps and DevSecOps shouldn't be thought of as separate entities, encompassing only two or three roles. Instead, think of DevSecOps as a part of DevOps that *emphasizes the importance of security,* and is **not** an elimination of other roles and functions that enable DevOps (DevSecOps).
+DevOps and DevSecOps shouldn't be thought of as separate entities, encompassing only two or three roles. Instead, think of DevSecOps as a part of DevOps that *emphasizes the importance of security,* and is **not** an elimination of other roles and functions that enable DevOps (DevSecOps). <br><br>
+
+Remember, emphasizing _Sec_: the goal is to move from compliance, scanning and general security processes and become more automated and continuous allowing for more, iterative, agile and modular development (and acquisitions).
 
 ### !end-callout
 
@@ -55,7 +57,7 @@ DevOps and DevSecOps shouldn't be thought of as separate entities, encompassing 
 ### DevOps as a Concept
 DevOps is a complex methodology that requires some nuance to fully understand, and is structured on the foundation of these concepts:
 
-**Mindset → Values → Principles → Methods → Practices → Tools**
+**Mindset → Values → Principles → Practices → Tools & Processes**
 
 Take a look at this graphic to get a better idea of how these concepts works together:
 
@@ -144,7 +146,7 @@ Place the following terms in order from least powerful (but often easiest to ado
 
 1. Tools
 1. Practices
-1. Principles
+1. Principles and Processes 
 1. Values
 1. Mindset
 
@@ -179,7 +181,7 @@ Culture can be defined as “shared beliefs and behaviors,” or as Seth Godin o
 
 **<center><span style="font-family:script; font-size:2em">Culture eats strategy for breakfast</span></center>** </br>
 
-Although culture cannot be addressed directly, through implementation of the DevOps Mindset, Values, and Principles (beliefs) as well as the practices and tools (behaviors) you can create the environment that allows for continued innovation and valuable capability delivery at the speed of relevance.
+DevOps focuses on breaking down barriers between all the teams responsible for capability delivery by cultivating and improving channels of communication and collaboration. Through implementation culture can also improve--_remember culture cannot be addressed directly!_
 ### !end-callout
 
 
@@ -195,7 +197,7 @@ Implementation cannot be achieved by rebranding a team as ‘DevOps’ or by an 
 
 DevOps consists of multiple levels: </br> 
  
- **<center><span style="font-family:script; font-size:1em">Values → Principles → Methods → Practices → Tools</span></center>**
+ **<center><span style="font-family:script; font-size:1em">Mindset → Values → Principles → Practices → Tools and Processes</span></center>**
 
 ### !end-callout
 
