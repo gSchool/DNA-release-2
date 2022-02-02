@@ -2,12 +2,18 @@
 
 ## Learning Objectives
 
-By the end of this lesson you will be able to:
+By the end of this lesson, you will be able to:
 
 * Recognize the ability and **need** for roles to be fluid, because environments are dynamic
 * Articulate Software Practitioner roles and teams
 * Define how to implement Software Practitioner teams within the Government
 * **BONUS:** Have a basic understanding of DevSecOps organization
+
+### !callout-info
+## Extending the Concepts
+This module (and course) focuses on applying Agile, Lean, DevSecOps, and User-Centered Design to software-intensive capabilities. Don’t forget these concepts evolved from hardware-centric capabilities–car manufacturing as described in Module 101 and the _Toyota Way._ Keep in mind how the concepts proposed throughout the course could be extended to hardware-centric capabilities that are often critical to software delivery! 
+### !end-callout 
+
 
 ## Introduction 
 
@@ -306,17 +312,10 @@ Tell us two (2) important takeaways from this lesson and the prior lesson (An In
 <!-- ======================= END CHALLENGE ======================= -->
 
 ### !callout-success
-## Key Takeaways: 
-* Be cognizant of our current system and how decisions are made. From that starting point, we can then begin to think about how to apply DevSecOps.
-* Don’t forget why software is different - as outlined by Jez Humble:
-    * Software is malleable 
-    * Software products can be used prior to all features being developed
-    * Software can (and should) change over time, and     
-    * Significant information is learned when users interact with software--this enables faster feedback and smaller batches. 
-    * **To drive this home:** Building a bridge from either side of a river, you get one shot--that is **not** true for software intensive systems. 
-* As course instructors, we have defined two groups of people emphasizing the importance of digital foundations throughout all roles and functions:
-    * Software acquisition professionals, and
-    * Software practitioners.
+## KEY TAKEAWAYS: Establishing DevSecOps Organizations in the DoD 
+* Software practitioner roles may be filled by military, civilian, or contract personnel. These roles can **and should** be tailored for your specific program or mission - all roles may _not_ be necessary, and **context is important.**
+* Capability delivery does _not_ occur with just a Program Office and their supporting vendors. Your responsibility is to ensure buy-in from leadership and stakeholders, which only occurs if they understand the underlying processes and differences when considering software-intensive systems. 
+* Create accountability when defining individual teams that support DevSecOps processes, and **define up front** how teams will communicate with one another.  
 ### !end-callout
 
 
@@ -346,7 +345,17 @@ Remember, this is optional - this is a way for you to provide input while workin
 
 ### !end-challenge
 
+
 <!-- ======================= END CHALLENGE ======================= -->
+
+## Resources
+
+These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
+
+* **Books:**
+    * [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
+    * [_Team Topologies_](https://teamtopologies.com/book)
+
 
 
 ## BONUS SECTION: A DevSecOps Organization
@@ -417,10 +426,3 @@ Changing an organizational structure shouldn't be considered lightly. If a trans
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-## Resources
-
-These resources are used throughout the lesson and are provided for you to continue learning on your own time. 
-
-* **Books:**
-    * [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
-    * [_Team Topologies_](https://teamtopologies.com/book)
