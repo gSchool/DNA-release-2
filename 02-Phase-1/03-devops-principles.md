@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-By the end of this lesson you will be able to:
+By the end of this lesson, you will be able to:
 
 * Describe the CALMS model in DevOps
 * Define the Three Ways of DevOps
@@ -15,12 +15,12 @@ Throughout this lesson, we define different methodologies and approaches associa
 ## Note:
 This lesson defines different methodologies and approaches for DevOps -- don’t think of it as needing to memorize all three. Instead, think of them as options to help you understand. Look for themes that underscore the concepts discussed.<br><br>
 
-Notice: Since we are pulling content from industry the use of ‘DevOps’. **_Remember_ this information extends to DevSecOps.**
+**Notice:** Since we are pulling content from industry/academia the use of ‘DevOps’. **_Remember_ this information extends to DevSecOps.**
 ### !end-callout
 
 **Course Note:** To supplement this module, we use a portion of Coursera’s Agile Software Training program via a DAU/Coursera Partnership. **Current** DoD acquisition professionals, both civilian and military, may gain access to _additional_ Agile Software Training and other training such as Data Science. 
 
-Not ready or eligible to sign up? All videos referenced in this section are accessible **without** a Coursera account. Ready to get started? Contact [Mr. Dave Pearson (mailto:david.pearson@dau.edu). 
+Not ready or eligible to sign up? All videos referenced in this section are accessible **without** a Coursera account. Ready to get started? Contact [Mr. Dave Pearson](mailto:david.pearson@dau.edu). 
 
 ## CALMS
 
@@ -67,7 +67,7 @@ Several teams must come together and work collaboratively:
 
 By doing so, they aim toward the shared purpose of delivering valuable capability to the user.
 
-DevSecOps isn’t the responsibility of just one person, or one team, or one specific mission...it’s EVERYONE’S!
+DevOps isn’t the responsibility of just one person, or one team, or one specific mission...it’s EVERYONE’S!
 
 ### <span style="font-size: 2em">A.</span> Automation
 
@@ -83,7 +83,7 @@ Before we discuss automation further, we wanted to address the elephant in the r
 ### !end-callout 
 
 
-Automation promotes a system benefiting all functional components of a team, not just developers- the ability to build, test, deploy and provision automation is necessary. Teams new to DevSecOps should run all code changes through a gauntlet of automated tests as part of their practice.
+Automation promotes a system benefiting all functional components of a team, not just developers- the ability to build, test, deploy and provision automation is necessary. Teams new to DevOps should run all code changes through a gauntlet of automated tests as part of their practice.
 
 Why is this important?
 
@@ -155,7 +155,7 @@ From Module 101, the seven (7) key areas that support successful incorporation o
 ### !end-callout
 
 
- _A DevSecOps mindset in conjunction with Lean principles recognizes opportunities for continuous improvement everywhere._
+ _A DevOps mindset in conjunction with Lean principles recognizes opportunities for continuous improvement everywhere._
 
 Continuous improvement occurs when **entire** teams make use of Lean principles to eliminate waste and optimize value streams by:
 * minimizing Work in Progress (WIP)
@@ -292,10 +292,10 @@ Now that you know the Three ways and the Seven Principles and Wastes, we address
    * **DevOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘small and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
 
 #### 3. Relearning and Refactoring
-   * **DevOps solution**: Making work visible is a core tenet of DevSecOps, and one of the most effective ways to reduce relearning waste. Conversations about work are more focused and effective, as are review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
+   * **DevOps solution**: Making work visible is a core tenet of DevOps, and one of the most effective ways to reduce relearning waste. Conversations about work are more focused and effective, as are review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
 
 #### 4. Handoffs
-   * **DevOps solution**: Small, multiskilled, product-centric teams are central to DevSecOps ways of working. This eradicates siloed structures that necessitate multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
+   * **DevOps solution**: Small, multiskilled, product-centric teams are central to DevOps ways of working. This eradicates siloed structures that necessitate multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
 
 #### 5. Delays
    * **DevOps solution**: Organizations often have complex webs of interdependencies between various teams and departments, making it difficult to predict (or control) how long any given task will take to complete. Mapping those dependencies and taking steps to streamline and simplify processes wherever possible delivers significant improvements to the overall timeline.
@@ -304,7 +304,7 @@ Now that you know the Three ways and the Seven Principles and Wastes, we address
    * **DevOps solution**: Delays and unplanned work are two of the worst culprits for generating this type of waste. Taking a more sophisticated approach to operations helps here, via developer self-service, automation, reusable templates, and [InnerSource models](https://www.devopsgroup.com/blog/modern-operations-five-foundational-pillars/).
 
 #### 7. Defects
-   * **DevOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, which results in lengthy handoffs, delays, and unplanned work.
+   * **DevOps solution**: With DevOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, which results in lengthy handoffs, delays, and unplanned work.
 
 ### !callout-info
 ## How This Applies to Procurement
@@ -364,7 +364,7 @@ Multitasking/Task Switching is actually a _myth_, as people's brains are only ab
 
 ##### !question
 
-Of the concepts discussed in the lesson: CALMS, The Three Ways, and The Seven Principles and Waste, please select which **one** concept was **most valuable** as a tool for your organization to use when evaluating the organization’s integration of DevSecOps and identifying areas of improvement. 
+Of the concepts discussed in the lesson: CALMS, The Three Ways, and The Seven Principles and Waste, please select which **one** concept was **most valuable** as a tool for your organization to use when evaluating the organization’s integration of DevOps and identifying areas of improvement. 
 
 _There is no correct answer, this is your opinion._ 
 
@@ -394,13 +394,13 @@ _There is no correct answer, this is your opinion._
 
 ### !callout-success
 ## Key Takeaways: 
-1. CALMS provides an alternative way to approach DevSecOps by highlighting key attributes that should be foundational to your organization, namely: 
+1. CALMS provides an alternative way to approach DevOps by highlighting key attributes that should be foundational to your organization, namely: 
    * Culture 
    * Automation 
    * Lean 
    * Measurement, and 
    * Sharing
-2. The Three Ways define the principles that underpin DevSecOps: 
+2. The Three Ways define the principles that underpin DevOps: 
    * Principle of Flow
    * Principles of Feedback, and
    * Principle of Continuous Learning.
