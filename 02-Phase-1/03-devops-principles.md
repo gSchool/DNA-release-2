@@ -9,31 +9,33 @@ By the end of this lesson you will be able to:
 * Define the Seven Principles and Wastes
 
 ## Introduction
-Throughout this lesson, we define different methodologies and approaches associated with DevSecOps. Revisiting this section or the videos referenced on a quarterly or bi-annual basis will provide overall feedback, and identify ways to improve your organization.
+Throughout this lesson, we define different methodologies and approaches associated with DevOps. Revisiting this section or the videos referenced on a quarterly or bi-annual basis will provide overall understanding, and identify ways to improve your organization.
 
 ### !callout-info
 ## Note:
-This lesson defines different methodologies and approaches for DevOps -- do not think of it as you have to memorize all three, but rather options to help you understand. Look for themes that undercut the concepts discussed.  
+This lesson defines different methodologies and approaches for DevOps -- don’t think of it as needing to memorize all three. Instead, think of them as options to help you understand. Look for themes that underscore the concepts discussed.<br><br>
+
+Notice: Since we are pulling content from industry the use of ‘DevOps’. **_Remember_ this information extends to DevSecOps.**
 ### !end-callout
 
-We use part of Coursera's Agile Software Training Program via a DAU/Coursera Partnership to supplement this module. **Current** DoD acquisition professionals--both civilian and military--may gain access and receive certificates for both course and curriculum completion. To get started, contact [Mr. Dave Pearson](mailto:david.pearson@dau.edu) - all three videos referenced in this section are accessible **without** a Coursera account.
+**Course Note:** To supplement this module, we use a portion of Coursera’s Agile Software Training program via a DAU/Coursera Partnership. **Current** DoD acquisition professionals, both civilian and military, may gain access to _additional_ Agile Software Training and other training such as Data Science. 
+
+Not ready or eligible to sign up? All videos referenced in this section are accessible **without** a Coursera account. Ready to get started? Contact [Mr. Dave Pearson (mailto:david.pearson@dau.edu). 
 
 ## CALMS
 
-In the previous lesson, we explored what is **not** considered DevOps. Now, let's put the spotlight on understanding what **is** considered DevOps, and the underlying frameworks employed by organizations both inside and outside the DoD.
+In the previous lesson, we explored what is **not** considered DevOps. Now let's put the spotlight on understanding what **is** considered DevOps, and the underlying frameworks employed by organizations both inside and outside the DoD.
 
 ### !callout-warning
 ## Watch This!
-Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
+As part of this lesson, take a few moments to watch the following video: <br><br>
 
-[DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button) </br></br>
+[DevOps Culture and Mindset: University of California, Davis](https://www.coursera.org/lecture/devops-culture-and-mindset/defining-devops-FauMQ?utm_source=link&utm_medium=in_course_lecture&utm_content=page_share&utm_campaign=overlay_button) <br><br>
 
-**NOTE:** This is part of the course content.
+**NOTE:** This and future videos in the lesson are part of the course content. This lesson is *not* designed to repeat what's been covered in the videos. Instead, we provide context for implementing the video's curriculum knowledge within the DoD. 
 ### !end-callout
 
-**Be advised:** This lesson is not designed to repeat what's been covered in the video. Instead, we provide context for implementing the video's curriculum knowledge within the DoD. 
-
-Recall the CALMS framework from the video ‘DevOps Culture and Mindset’, shown below: 
+Recall the CALMS framework from the video you just watched, shown below: 
 
 ![CALMS](../__images/03_01_calms.jpg)
 
@@ -51,9 +53,9 @@ DevOps isn’t simply a process, or a different approach to development -- ***it
 
 Remember- processes, practices, and tools not only _influence_ but also _drive_ behavior.
 
-As an example, the DoD creates functional alignments, placing value on individuals and their functional areas rather than the team as a whole. The DoD needs to eliminate function-based teams, and create capability- or product-based teams to successfully implement DevOps.
+As an example, the DoD creates functional alignments by placing value on individuals and their functional areas rather than the team as a whole. The DoD needs to eliminate function-based teams, and create capability- or product-based teams to successfully implement DevOps.
 
-Several teams need to come together and work collaboratively:
+Several teams must come together and work collaboratively:
 * Development
 * Quality
 * Acquisitions
@@ -71,6 +73,16 @@ DevSecOps isn’t the responsibility of just one person, or one team, or one spe
 
 _Automation helps eliminate repetitive manual work, yields repeatable processes, and creates reliable systems._
 
+### !callout-caution
+## Automation and Tooling Require People
+
+Before we discuss automation further, we wanted to address the elephant in the room: automation and tooling does **not** replace people. <br><br>
+
+“Tools can only _hope_ to support skills, culture, and flow, and _at best_ encourage them. **They cannot replace them.** As Patrick Debois, godfather of the DevOps movement, has often state, _’DevOps is a human problem.’” [Sooner Safer Happier: Antipatterns and Patterns for Business Agility](https://soonersaferhappier.com/purchase/) 
+
+### !end-callout 
+
+
 Automation promotes a system benefiting all functional components of a team, not just developers- the ability to build, test, deploy and provision automation is necessary. Teams new to DevSecOps should run all code changes through a gauntlet of automated tests as part of their practice.
 
 Why is this important?
@@ -81,7 +93,7 @@ How often do mistakes happen when you are writing in a Word document or entering
 
 Testing code changes during development catches bugs and security flaws earlier, eliminating rework and increasing the likelihood of delivering continuously working software, thereby reducing risk!
 
-Time delay like what we described above is not solely a project management issue. However, it **is our responsibility** to mitigate risk in our ability to meet the mission. The DoD provides military forces with support in deterring war and ensuring our nation's security- the software and technology you support directly impacts our ability to achieve that mission.
+Time delay like what we described above is not solely a project management issue. However, **it is our responsibility** to mitigate risk in our ability to meet the mission. The DoD provides military forces with support in deterring war and ensuring our nation's security- the software and technology you support directly impacts our ability to achieve that mission.
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -157,7 +169,9 @@ The only true failure is not learning from mistakes made. To avoid this, we must
 #### !callout-warning
 
 ## Reminder
-Keep something in mind- an important aspect of these experiments is success, and any failures (real or perceived) occur to the ENTIRE team. 
+Keep something in mind- an important aspect of these experiments is success, and any failures (real or perceived) occur to the ENTIRE team. <br><br>
+
+Failure is expected and should be normalized as part of DevOps implementation.
 #### !end-callout
 
 **Bottlenecks occur in every workflow.** A learning organization cannot be established when threats of blame or finger-pointing (private or public) are practiced. Google (and other groups) have extensively researched this. [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) provides more details.
@@ -173,7 +187,15 @@ Without data, any attempt at improvement is fruitless, and like any tool, metric
 * How many people are using your product right now?
 * How many users did you gain / lose this week?
 
-Proceed with caution when selecting metrics. Be sure to avoid "vanity metrics" that may sound impressive, but do not actually provide meaningful insight on the current status or future trajectory of the work. 
+**Proceed with caution when selecting metrics.** Be sure to avoid "vanity metrics" that may sound impressive, but do not actually provide meaningful insight on the current status or future trajectory of the work. 
+
+### !callout-info
+## Metrics: Further Discussion
+
+Don’t worry, later in Module 103 there are two lessons that will discuss metrics – we will dive into much greater detail! 
+
+### !end-callout
+
 
 Remember, the goal is not merely moving fast:
 ![Direction is so much more important that speed, many are going nowhere fast](../__images/03_05_measurement.png)
@@ -199,7 +221,7 @@ DevSecOps is a blend of practices, cultural philosophies, and tools. Breaking do
 
 ### !callout-warning
 ## Watch This!
-Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
+As part of this lesson, take a few moments to watch the following video: </br></br>
 
 [DevOps Principles: The Three Ways - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-three-ways-oVpus) </br></br>
 
@@ -254,7 +276,7 @@ What are the Three Ways of DevOps?
 
 ### !callout-warning
 ## Watch This!
-Before proceeding with the lesson, please take a few moments to watch the following video: </br></br>
+As part of this lesson, take a few moments to watch the following video: </br></br>
 
 [DevOps Principles: The Seven Principles and Seven Wastes of Lean - Introducing DevOps Concepts](https://www.coursera.org/lecture/devops-culture-and-mindset/devops-principles-the-seven-principles-and-seven-wastes-of-lean-YAy6g) </br></br>
 
@@ -264,25 +286,25 @@ Before proceeding with the lesson, please take a few moments to watch the follow
 Now that you know the Three ways and the Seven Principles and Wastes, we address how DevOps can help address each of the following areas of waste: 
 
 #### 1. Partially Done Work
-   * **DevSecOps solution**: Work is not ‘done’ until it reaches the hands of the user. This shift in mindset is part of the solution, by ensuring capabilities and team structures are enabling teams to finish what they've started. Reducing dependencies and boosting autonomy within teams addresses partial work completion in a powerful way
+   * **DevOps solution**: Work is not considered ‘done’ until it reaches the hands of the user. By shifting our mindset to this concept, we ensure capabilities and team structures are enabling teams to finish what they start. This in turn reduces dependencies and boosts autonomy within teams, and addresses partial work completion in a powerful way. 
 
 #### 2. Extra Unnecessary Features
-   * **DevSecOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘little and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
+   * **DevOps solution**: An iterative approach to value delivery is fundamental to success in the digital economy. Releasing updates and new features on a ‘small and often’ basis, then making further improvements based on customer feedback as required will ensure product development is closely aligned with actual user needs.
 
 #### 3. Relearning and Refactoring
-   * **DevSecOps solution**: Making work visible is a core tenet of DevSecOps, and one of the most effective ways to reduce relearning waste. Conversations about work become more focused and effective, as do review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
+   * **DevOps solution**: Making work visible is a core tenet of DevSecOps, and one of the most effective ways to reduce relearning waste. Conversations about work are more focused and effective, as are review and approval procedures. [Dominica DeGrandis’ Making Work Visible](https://www.amazon.co.uk/dp/B076BYZ6VN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a great source of guidance for this.
 
 #### 4. Handoffs
-   * **DevSecOps solution**: Small, multiskilled, product-centric teams are central to DevSecOps ways of working. This eradicates the siloed structure that necessitates multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
+   * **DevOps solution**: Small, multiskilled, product-centric teams are central to DevSecOps ways of working. This eradicates siloed structures that necessitate multiple handoffs, and fosters better communication and collaboration between the people responsible for different parts of the process.
 
 #### 5. Delays
-   * **DevSecOps solution**: Many organizations have a complex web of interdependencies between different teams and departments. People are reliant on actions or input from others to complete an item of work, so it’s hard to predict – or control – how long any given task will take to complete. Mapping where those dependencies lie, then taking steps to streamline and simplify processes deliver significant improvements here.
+   * **DevOps solution**: Organizations often have complex webs of interdependencies between various teams and departments, making it difficult to predict (or control) how long any given task will take to complete. Mapping those dependencies and taking steps to streamline and simplify processes wherever possible delivers significant improvements to the overall timeline.
 
 #### 6. Task Switching
-   * **DevSecOps solution**: Delays and unplanned work are two of the worst culprits for generating this type of waste. Taking a more sophisticated approach to operations helps here, via developer self-service, automation, reusable templates, and InnerSource models. Check out [this blog](https://www.devopsgroup.com/blog/modern-operations-five-foundational-pillars/) on the topic.
+   * **DevOps solution**: Delays and unplanned work are two of the worst culprits for generating this type of waste. Taking a more sophisticated approach to operations helps here, via developer self-service, automation, reusable templates, and [InnerSource models](https://www.devopsgroup.com/blog/modern-operations-five-foundational-pillars/).
 
 #### 7. Defects
-   * **DevSecOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, resulting in lengthy handoffs, delays, and unplanned work.
+   * **DevOps solution**: With DevSecOps ways of working, a known defect is never passed downstream. This is central to the systems-thinking ethos advocated by DevSecOps pioneers such as Gene Kim. All problems are tackled as they arise, not hidden or passed to others, which results in lengthy handoffs, delays, and unplanned work.
 
 ### !callout-info
 ## How This Applies to Procurement
@@ -295,53 +317,40 @@ Strategically acquiring knowledge about how DevOps works, especially what it is 
 
 ### !challenge
 
-* type: checkbox
-* id: 46a87473-581c-46ae-8d01-4b32a22ea0f5
-* title: Seven Wastes
+* type: multiple-choice
+* id: f81aa1c6-846c-11ec-a8a3-0242ac120002
+* title: Multitasking and Task Switching
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
+
 ##### !question
-
-What are the Seven Wastes?
-
+**True or False.** Multitasking and/or Task Switching _reduces_ the time to deliver.
 ##### !end-question
 
 ##### !options
-
-* Partially Done Work
-* Extra/Unnecessary Features
-* Relearning and Refactoring
-* Technical Debt
-* Multitasking
-* Handoffs
-* Delays
-* Task Switching
-* Defects
-
-
+* True
+* False 
 ##### !end-options
 
 ##### !answer
-
-* Partially Done Work
-* Extra/Unnecessary Features
-* Relearning and Refactoring
-* Handoffs
-* Delays
-* Task Switching
-* Defects
-
+* False
 ##### !end-answer
+
+##### !explanation
+Multitasking/Task Switching actually _slows down_ task completion. Each time a person switches to a new task, he/she must spin up on the task (typically 15-30 minutes) before being able to become productive on it again. 
+
+Multitasking/Task Switching is actually a _myth_, as people's brains are only able to concentrate well on one task at a time.
+##### !end-explanation
+
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
 ### !end-challenge
-
 <!-- ======================= END CHALLENGE ======================= -->
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
