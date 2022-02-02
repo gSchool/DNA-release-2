@@ -40,7 +40,7 @@ Knowing these are proven best practices in many other industries, _why is it so 
 
 The following concepts are an excerpt from a presentation given by Dr. Jeff Boleng who previously served as the Senior Advisor of Software Acquisitions to HON Ellen Lord, Secretary of Defense for Acquisitions and Sustainment (A&S):
 
->_...A marionette is a way to visualize the relationship between a Program Manager (PM), the Contract and a Developer. _
+> _A marionette is a way to visualize the relationship between a Program Manager (PM), the Contract and a Developer._ 
 
 In this scenario, the PMO is contracting, hence the developer is outsourced to a contractor. Therefore, in order to deliver capability a PMO establishes the contract(s) and **incentivizes**.
 
