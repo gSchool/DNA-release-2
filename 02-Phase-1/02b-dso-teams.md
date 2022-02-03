@@ -130,7 +130,7 @@ The key to all of this? Ensuring your organic support, even if limited, still co
 
 ## DevSecOps Teams
 
-In our old ways of working, teams work within a system where each developer is assigned a set of tasks. This creates individual ownership of subsystems within the team, as well as dependency (and therefore risk). What happens if that individual is sick? Quits?
+Before DevSecOps, most commonly developers and operators were siloed, separately working assigned tasks, creating individual subsystem ownership and dependencies- and therefore risk. What happens if an individual on that team is out sick? Or worse, quits their job and leaves with their knowledge base in tow? 
 
 * This way of working is destructive to the quality, flow, and value of delivery  
 * Nothing concludes quickly
@@ -148,12 +148,15 @@ Stated another way, **Conway's Law** illustrates “team structures must match t
 >“If the architecture of the system and the architecture of the org are at odds, the architecture of the org wins."
 ><span style="float:right;"> - Ruth Malan</span> 
 
-**The Inverse Conway Manoeuver states:** “that organizations should evolve their team and organizational structure to achieve the desired architecture. The goal is for your architecture to support the ability of teams to get their work done--from design through deployment--without requiring high bandwidth communication between teams.” [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
+**The Inverse Conway Manoeuver states:** “organizations should evolve their team and organizational structure to achieve the desired architecture. The goal is for your architecture to support the ability of teams to get their work done--from design through deployment--without requiring high bandwidth communication between teams.” [_Accelerate: The Science of DevOps_](https://itrevolution.com/accelerate-book/)
 
-We are only introducing this topic, and will provide further detail later. A great resource for you and your teams on this topic is: [_Team Topologies_](https://teamtopologies.com/book)
+We are only introducing this topic for now - more details will be provided in a later lesson. In the meantime, a great resource for you and your team to further explore is: [_Team Topologies_](https://teamtopologies.com/book)
 
-We are intentionally not answering the question of: “So how do we organize?” Each scenario has its own benefits and drawbacks and only you and your team understand the unique context you work within.  We do believe the most valuable team construct is optimizing for flow and value. The focus in building a DevSecOps team should be to deliver higher quality sooner in a sustainable and resilient way (hopefully with happy teams).  
+We intentionally do not answer the question _"How do we organize?"_
 
+Each potential organizational construct has its own benefits and drawbacks, and _only you and your team_ understand your work and its unique context.
+
+Adopting DevSecOps focuses on optimizing for flow and value, and building a collaborative, cross-functional team to deliver a higher-quality product sooner, in a sustainable and resilient way.
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -187,9 +190,9 @@ What is a team’s top priority in the DevSecOps environment?
 
 ##### !end-answer
 
-### !hint
-In this lesson we learned that delivering higher quality in a more sustainable way was the top priority of the team.  While building a pipeline, automating, developing features are all important factors, the TOP priority of the team is to organize in a way that enables them to deliver higher quality sooner and more sustainably.
-### !end-hint
+### !explanation
+While building pipelines, automating, and developing features are all important factors, a team's **TOP** priority is to organize in a way to enable them to deliver higher quality sooner and more sustainably.
+### !end-explanation
 
 
 <!-- other optional sections -->
@@ -203,36 +206,38 @@ In this lesson we learned that delivering higher quality in a more sustainable w
 
 ## Procurement Considerations
 
-Recognizing the power of our community, and that the term "community" encompasses the entirety of the DoD is important. To bridge the gap between change agents and early adopters, the organization requires that we share our knowledge, the lessons we have learned, and the intrinsic value of those things with the entire organization. At the end of the day, our mission doesn’t care which SAE, PEO, Program, Program Manager, or Software Factory delivered the product - they care about having access to mission-ready tools  to execute the missions they serve.  
+Recognizing the power of our community, where the community is defined as the entire DoD community, is important. To bridge the gap between change agents and early adopters, the organization requires that we share our knowledge, the lessons we have learned, and the intrinsic value of those things with the entire organization. At the end of the day, our mission doesn’t care which SAE, PEO, Program, Program Manager, or Software Factory delivered the product - they care about having access to the tools necessary to execute their mission.
 
 ### !callout-success
 ## TEAM
-Remember- the DoD is **not** a single program or service, it's **composed of many, that make up the whole**.  Finding ways to reduce duplication of common services and partners will ensure that we leap over the chasm and succeed together!
+Remember- the DoD is **not** a single program or service, it's **composed of many, that make up the whole**.  Finding ways to reduce duplication of common services and partners will ensure that we succeed together!
 
 <span style="font-family: script; font-size:2em;">Together Everyone Achieves More (T.E.A.M)</span>
 ### !end-callout
 
 Evolving our mentality and approach means realizing everyone starting from scratch is **not scalable**. Ask yourself how you can change the way you collaborate across services, programs, and PEOs today.
 
-Below are the two primary strategies acquisition teams may use when building their DevOps teams. Module 103 will discuss in more detail.
+Below are two primary strategies acquisition teams may use when building their DevOps teams. 
 
 ### Goverment-Led Approach
 
-* Government team members (civilian or military) are leading the overall effort, which includes making both business and technical decisions. 
-* Government personnel are embedded at all levels of the program from leadership to individual software practitioner teams. 
-* Contractors likely will augment the Government team, but they do not have authority to direct resources or commit the Government to decisions. 
+* Government team members (civilian or military) are leading the overall effort, including making both business and technical decisions. 
+* Government personnel are embedded at all levels of the program, from leadership to individual software practitioner teams. 
+* Contractors will likely augment the Government team, but they do not have authority to direct resources, nor do they commit the Government to decisions. 
 
 ### Contractor-Led Approach
 
-* A contractor is on contract with the Government for the delivery of completed software product(s) and/or the integrator for multiple software products. 
-* The Government organizes and directs all acquisition activities and provides overarching goals with the contractor leading implementation and day-to-day decisions. 
-    * A Government representative should be identified and embedded with the  contractor team and be involved daily or weekly. 
+* A contractor is on contract with the Government for the delivery of completed software product(s), and/or the integrator for multiple software products. 
+* The Government organizes and directs all acquisition activities and provides overarching goals, with the contractor leading implementation and day-to-day decisions. 
+    * A Government representative should be identified and embedded with the  contractor team and be involved on a daily or weekly basis.
 * Overall technology decisions may be driven by the Government, or may be the responsibility of the contractor if directed in the contract. 
 
 
 ### !callout-success
 ## Key Takeaway
-Regardless of the approach (Government-led or Contractor led), **utilize multiple contractors/contracts** as recommended in Federal Acquisition Regulation (FAR) for IT/software systems to the **maximum extent practicable**: [FAR 39.103](https://www.acquisition.gov/far/39.103) (In later lessons we will provide more implementation details)
+Whether opting for the Government- or Contractor-led approach, **utilize multiple contractors/contracts** as recommended in Federal Acquisition Regulation (FAR) for IT/software systems to the **maximum extent practicable**: [FAR 39.103](https://www.acquisition.gov/far/39.103) <br><br>
+
+_NOTE: These two strategies (Government- and Contractor-led) and more will be discussed in further detail in Module 103._
 ### !end-callout
 
 
@@ -250,7 +255,7 @@ Regardless of the approach (Government-led or Contractor led), **utilize multipl
 
 ##### !question
 
-What are best practices when implementing testing to support a DevSecOps initiative?
+Which of the following are best practices when implementing testing to support a DevSecOps initiative?
 
 ##### !end-question
 
@@ -292,7 +297,7 @@ What are best practices when implementing testing to support a DevSecOps initiat
 
 ##### !question
 
-Tell us two (2) important takeaways from this lesson and the prior lesson (An Intro: Incorporating DevSecOps within the DoD) that will change the way you work.
+Tell us two (2) important takeaways from this lesson and the prior lesson that will change the way you work.
 
 ##### !end-question
 
