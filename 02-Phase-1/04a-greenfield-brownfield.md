@@ -10,13 +10,11 @@ By the end of this lesson you will be able to:
 
 ## Defining Greenfield and Brownfield
 
-Everyone in the acquisitions community needs to understand and if applicable, contribute to technology decisions.  Given the breadth of options and the pace by which technology evolves, this can seem daunting yet another reason your learning guides believe these foundational modules should be cross-functional. Our goal is to provide approaches by looking for key characteristics and patterns.
+Everyone in the acquisitions community needs to understand and if applicable, contribute to technology decisions.  Given the breadth of options and the pace by which technology evolves, this can seem daunting yet another reason your learning guides believe these foundational modules should be cross-functional. Our goal is to provide approaches by looking for key characteristics and patterns. 
 
-The first way is to define a system as either greenfield or brownfield.
+The first way is to define a system as either greenfield or brownfield. Both terms apply to the construction industry, this analogy will be used throughout the lesson. 
 
 ### 1. Greenfield
-
-The terms greenfield and brownfield also apply to the construction industry, so we will use construction as our analogy.
 
 Greenfield means the land in question has never been developed.
 
@@ -32,9 +30,9 @@ What can be built on an empty plot of land? The opportunities are endless- a cab
 
 There are appealing aspects to building using greenfield, in both construction and technology. Using our construction example, since the land has not been developed, builders have freedom in implementation- you are not limited by any existing structural choices, like electrical, plumbing, foundation, etc.
 
-Recall the example we referenced in Module 101. Netflix is an example of a greenfield software project- that is, Netflix as a new idea that transformed the movie rental market it was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared towards new markets for maximum profit opportunity. Other such examples we discussed in Module 101 include Uber and AirBnB.
+Recall the example we referenced in Module 101. Netflix is an example of a greenfield software project - that is, Netflix as a new idea that transformed the movie rental market it was built without any reference or existing framework. In the tech industry, greenfield software projects are often geared towards new markets for maximum profit opportunity. Other such examples we discussed in Module 101 include Uber and AirBnB.
 
-Companies also use greenfield applications and systems to explore new ways to solve problems that are unencumbered by existing software or dependencies. Which leads us to greenfield’s alternative: brownfield.
+Companies also use greenfield applications and systems to explore new ways of solving problems that are unencumbered by existing software or dependencies. This leads us to our next topic, greenfield’s alternative: brownfield. 
 
 ### 2. Brownfield
 
@@ -42,7 +40,7 @@ Back to our construction analogy. What if you are updating an existing industria
 
 ![A Brown Field](../__images/04a_02_brownfield.png)
 
-What if your historic home needs to be renovated, modernized, and brought “up to code”?  These are both examples of brownfield construction--yet they are very different from one another.
+What if your historic home needs to be renovated, modernized, or be brought “up to code”? These are both examples of brownfield construction--yet they are very different from one another.
 
 Similarly, brownfield software projects take many shapes and sizes. To understand how to approach a brownfield project, we can begin with a few questions:
 
@@ -75,16 +73,15 @@ Select the following statements that are true regarding DevSecOps.
 ##### !options
 
 * Your program will greatly influence your approach: greenfield and brownfield
-* Greenfield approach can better address deep-rooted issues
+* Greenfield approach is modernizing an existing system
 * Greenfield and brownfield can both support DevSecOps implementation
-* Brownfield approach can better address deep-rooted issues
+* Brownfield approach is starting anew
 
 ##### !end-options
 
 ##### !answer
 
 * Your program will greatly influence your approach: greenfield and brownfield
-* Greenfield approach can better address deep-rooted issues
 * Greenfield and brownfield can both support DevSecOps implementation
 
 ##### !end-answer
@@ -116,7 +113,7 @@ Brownfield projects are prolific in industry. Examples of brownfields are not ju
 
 In 2018, a major U.S. health insurance corporation flew to Washington to meet with the IRS.  The topic of conversation? Sharing war stories, and discussing approaches for dealing with 50+ years of technology, layers of tech debt, lessons learned from failed modernizations, and how to quickly learn about taking pragmatic approaches with new capabilities.
 
-Similar situations, similar policy constraints, similar acquisition challenges, similar technology evolutions do exist in other industries. Though not identical, there are brownfield examples in other industries where existing capabilities underwent modernization, or were knitted together and are enduring, just like DoD.
+Similar situations/policy constraints/acquisition challenges/technology evolutions do exist in other industries. Though not identical, brownfield examples in other industries exist. Either existing capabilities underwent modernization, or were combined and are enduring, just like the DoD.
 
 Sometimes we think that everything in the DoD is brownfield; that’s not far from the truth!  Most of what we do in the DoD is modernize systems that may have _already been modernized multiple times_ over the decades.  The challenge is to provide mechanisms for sustainable technology insertion without a complete rewrite.
 
@@ -233,7 +230,7 @@ _There is no right answer, this is an opportunity for us to learn from you!_  Se
 
 ### !callout-success
 ## Key Takeaways: 
-* Your mission, existing capabilities and existing contractual agreements all impact your decision when selecting a greenfield or brownfield approach. _Don’t forget to reevaluate each time you move programs - this decision should be tailored to the context of each program’s unique needs._
+* Your mission, existing capabilities, and existing contractual agreements all impact your decision when selecting a greenfield or brownfield approach. _Don’t forget to reevaluate each time you move programs - this decision should be tailored to the context of each program’s unique needs._
 * When evaluating greenfield vs. brownfield, you shouldn’t think of one as better than the other - they each have their own advantages and drawbacks. 
 * It’s important to note that the brownfield approach is what you will encounter most often in the Department - _remember, it actually reduces your risk!_ 
 ### !end-callout
