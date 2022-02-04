@@ -35,54 +35,7 @@ The point here isn’t to confuse you. Many of you might be asking yourselves, �
 
 Again, the right approach is dependent on **your** scenario -- there is no magic pill, one-size-fits-all, specified play or playbook, etc.
 
-For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read at least the [**Netflix** example](https://blog.dreamfactory.com/microservices-examples/#:~:text=Some%20of%20the%20most%20innovative,to%20the%20adoption%20of%20microservices):
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: checkbox
-* id: ecc453b4-fd36-461d-913a-38abf24c40a7
-* title: Microservices
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-In the article, Netflix transitioned to a microservice architecture. Select all that are true with respect to their journey:
-
-##### !end-question
-
-##### !options
-
-* The shift from monolithic to microservice architecture took multiple years
-* Netflix started with the non-customer facing applications
-* Microservices increased efficiency in workload and created cost reduction
-* The initiative was instigated by an event (loss of ability to send DVDs) that showed the single points of failure with a monolithic architecture
-
-##### !end-options
-
-##### !answer
-
-* The shift from monolithic to microservice architecture took multiple years
-* Netflix started with the non-customer facing applications
-* Microservices increased efficiency in workload and created cost reduction
-* The initiative was instigated by an event (loss of ability to send DVDs) that showed the single points of failure with a monolithic architecture
-
-##### !end-answer
-
-#### !hint
-Do all of these look like reasons that Netflix wanted to change their architecture approach?
-#### !end-hint
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
+For those who may not be as familiar with a microservice, let us provide some examples. The following article not only uses example companies you are familiar with and how they implement microservices, it also details shifting from a monolithic architecture to a microservice architecture. Read the [**Netflix** example](https://blog.dreamfactory.com/microservices-examples/#:~:text=Some%20of%20the%20most%20innovative,to%20the%20adoption%20of%20microservices):
 
 ### Microservice Architecture Style
 
@@ -103,12 +56,12 @@ Applications built using Cloud services may benefit from microservices, though t
 |Microservices provide benefits…|…but can come with costs|
 |---|---|
 |[Strong Module Boundaries](https://martinfowler.com/articles/microservice-trade-offs.html#boundaries): Microservices reinforce modular structure, which is particularly important for larger teams.|[Distribution](https://martinfowler.com/articles/microservice-trade-offs.html#distribution): Distributed systems are harder to program, since remote calls are slow and are always at risk of failure.|
-|[Independent Deployment](https://martinfowler.com/articles/microservice-trade-offs.html#deployment): Simple services are easier to deploy, and since they are autonomous, are less likely to cause system failures when they go wrong.|[Eventual Consistency](https://martinfowler.com/articles/microservice-trade-offs.html#consistency): Maintaining strong consistency is extremely difficult for a distributed system, which means everyone has to manage eventual consistency|
+|[Independent Deployment](https://martinfowler.com/articles/microservice-trade-offs.html#deployment): Simple services are easier to deploy, and since they are autonomous, are less likely to cause system failures when they go wrong.|[Eventual Consistency](https://martinfowler.com/articles/microservice-trade-offs.html#consistency): Maintaining strong consistency is extremely difficult for a distributed system, which means everyone has to manage eventual consistency.|
 |[Technology Diversity](https://martinfowler.com/articles/microservice-trade-offs.html#diversity): With microservices you can mix multiple languages, development frameworks and data-storage technologies.|[Operational Complexity](https://martinfowler.com/articles/microservice-trade-offs.html#ops): You need a mature operations team to manage lots of services, which are being redeployed regularly.|
 <span style="float:right; font-size:.8em">_Source: Martinfowler.com - [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)_ </span>
 <span style="clear:both">&nbsp;</span>
 
-Microservices are tremendously helpful with [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling), and building systems designed to evolve over time while changing to include new technologies and features.
+Microservices are tremendously helpful with [loose coupling](https://en.wikipedia.org/wiki/Loose_coupling) and building systems designed to evolve over time, while changing to include new technologies and features.
 
 ### !callout-info
 ## How this applies to acquisition: 
@@ -132,7 +85,7 @@ This architectural style covers many different patterns, and is not right for ev
 
 ##### !question
 
-Which of the following would be ways to ensure microservices architecture is supported in your acquisition activities, by including the following requirements in your contract documentation?
+Which of the following are ways to ensure microservices architecture is supported in your acquisition activities, by including the following requirements in your contract documentation?
 
 ##### !end-question
 
@@ -155,7 +108,7 @@ Which of the following would be ways to ensure microservices architecture is sup
 ##### !end-answer
 
 ### !explanation
-Although microservices architecture supports risk reduction by distributing dependencies it is a statement as written, not a specific requirement in the contract.  
+Microservices architecture supports risk reduction by distributing dependencies. Here it is a statement, not a specific contract requirement.  
 ### !end-explanation
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -173,7 +126,9 @@ For those of you embarking upon a modernization effort, you may have heard of th
 
 ![Strangled Tree](../__images/04b_02_strangled_tree.png)
 
-Modernizing a system doesn’t have to mean taking it offline and rewriting the entire codebase- systems can be updated piece by piece, slowly deprecating the old pieces. This approach, coined by Martin Fowler, gradually updates monolithic application systems -- known as a "big ball of mud" -- while still keeping them running in production (operations).
+Coined by Martin Fowler, the Strangler Pattern gradually updates monolithic application systems, known as a "big ball of mud", while keeping them running in production (operations).
+
+The take-home message? Modernizing a system doesn't require taking it offline and rewriting the entire codebase. Instead, systems can be updated piece by piece, while slowly deprecating the original monolithic system.
 
 ![Strangler Pattern](../__images/04b_03_strangler_pattern.jpg)
 <span style="float:right; font-size:.8em">_Source: [What is the strangler pattern and how does it work?](https://searchapparchitecture.techtarget.com/tip/A-detailed-intro-to-the-strangler-pattern)_ </span>
@@ -192,29 +147,26 @@ Modernizing a system doesn’t have to mean taking it offline and rewriting the 
 
 ##### !question
 
-Let’s look at a case from a non-software point of view.  Which of these do you believe represents that definition of the Strangler Pattern?
-
-You own a classic car that could stand to be updated and upgraded.  Here are some options you are faced with:
+Let's consider a non-software example- you own a classic car that needs to be updated. Which of these options represents the Strangler Pattern?
 
 ##### !end-question
 
 ##### !options
 
-* You could buy a brand new fully functioning car.
-* You could take it apart piece by piece to restore it and hope it still works once you put it back together.
-* You could take it apart one piece at a time, restore and replace that portion and test to ensure the car still runs.
+* Buying a brand new, fully functioning car.
+* Taking the car apart piece by piece to restore it, hoping it still works when you put it back together.
+* Taking it apart one piece at a time, restoring and replacing each one and testing to ensure the car still runs.
 ##### !end-options
 
 ##### !answer
 
-* You could take it apart one piece at a time, restore and replace that portion and test to ensure the car still runs.
-
+* Taking it apart one piece at a time, restoring and replacing each one and testing to ensure the car still runs.
 ##### !end-answer
 
 #### !explanation
-This  gives us two benefits:
-1. You can still run the car while you are incrementally restoring it
-1. If a fix is completed piece by piece, you have an easier time identifying the source of the problem
+Two benefits to this strategy are:
+1. You can still run the car while you are incrementally restoring it.
+1. If a fix is completed piece by piece, you have an easier time identifying the source of the problem.
 
 #### !end-explanation
 <!-- other optional sections -->
@@ -244,15 +196,15 @@ Teams should try to limit the overlap of two systems- but two systems ensure ope
 
 ## What about MOSA?
 
-Some of you might have heard of Modular Open Systems Architecture (MOSA) before, and groaned just now. It should be noted that MOSA implements many of the best practices you’ve read about in this and other modules - we will not rehash the debate, nor is it our goal to create frustration. Instead, we want to encourage everyone to rediscover how MOSA can be beneficial to your team, now that you see its alignment with industry best practices. We hope you see MOSA in a new light.
+Some of you might have heard of Modular Open Systems Approach (MOSA) before, and groaned just now. It should be noted that MOSA implements many of the best practices you’ve read about in this and other modules - we will not rehash the debate, nor is it our goal to create frustration. Instead, we want to encourage everyone to rediscover how MOSA can be beneficial to your team, now that you see its alignment with industry best practices. We hope you see MOSA in a new light.
 
-MOSA, or Modular Open System Architecture, is an integrated business and technical strategy for the DoD, guiding the creation of affordable and adaptable systems.
+MOSA, or Modular Open System Approach, is an integrated business and technical strategy for the DoD, guiding the creation of affordable and adaptable systems.
 
 >“Per law, [10 USC 2446](https://www.law.cornell.edu/uscode/text/10/subtitle-A/part-IV/chapter-144B/subchapter-I), A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
 >
 >Program Managers, with support from the Lead Systems Engineer, are responsible for applying modular approaches in product designs where feasible and cost-effective. They are also responsible for acquiring data and IP that are both appropriate and essential to achieving the expected benefits. Modular designs coupled with an appropriately open business model provide a valuable mechanism for continuing competition and incremental upgrades, and to facilitate reuse across the joint force (Source: DODI 5000.02 Enclosure 3).”
 
-MOSA is about modularity, i.e. designing so that components can be incrementally added, removed, or replaced. Specific to software architecture, this is called evolutionary architecture. This philosophy is focused on loose coupling, and designing with change in mind. The intent here is to completely avoid anything like in the past, where major technology refreshes and upgrades took years of planning and was just as slow to execute.
+MOSA is about modularity, i.e. designing so that components can be incrementally added, removed, or replaced. Specific to software architecture, this is called evolutionary architecture. This philosophy focuses on loose coupling, and designing with change in mind. The intent here is to avoid technology upgrades like what took place in the past, where major technology upgrades took years of planning and were just as slow to execute.
 
 As an acquisition team employing these methods, consider how MOSA can improve and enhance your overall acquisition strategies.
 
@@ -278,25 +230,25 @@ Learn more about MOSA here: [Build a Modular Open Systems Approach (MOSA) | AiDA
 
 ##### !question
 
-Benefits of executing the MOSA strategy as a Program Manager are:
+As a Program Manager, the benefits of executing the MOSA strategy include:
 
 ##### !end-question
 
 ##### !options
 
-* Increases the opportunity for competition
+* Increasing the opportunity for competition
 * Mitigates and supports technology refresh
-* MOSA aligns with the concepts behind microservices architecture
-* Can mitigate costs
+* Aligns with MOSA concepts behind microservices architecture
+* Mitigates costs
 
 ##### !end-options
 
 ##### !answer
 
-* Increases the opportunity for competition
+* Increasing the opportunity for competition
 * Mitigates and supports technology refresh
-* MOSA aligns with the concepts behind microservices architecture
-* Can mitigate costs
+* Aligns with MOSA concepts behind microservices architecture
+* Mitigates costs
 
 ##### !end-answer
 
@@ -317,7 +269,7 @@ Benefits of executing the MOSA strategy as a Program Manager are:
 ### !end-callout
 
 ## Bonus Section: API Gateway
-API stands for Application Programming Interface. It’s an old term, but has been given a totally new life with the explosion of Cloud services, and, you guessed it, microservices.  APIs are like software middlemen- they enable applications, systems, or services to talk to one another. APIs are an effective way to make sure applications are loosely coupled and modular in nature.
+API stands for Application Programming Interface. It’s an old term, but has been given a new life with the explosion of Cloud services, and, you guessed it, microservices.  APIs are like software middlemen- they enable applications, systems, or services to talk to one another. APIs are an effective way to make sure applications are loosely coupled and modular in nature.
 
 This is a great video to learn about APIs: [APIs 101: What Exactly is an API? Part 1](https://www.youtube.com/watch?v=cpRcK4GS068)
 
@@ -351,7 +303,7 @@ Remember, this is optional - this is a way for you to provide input while workin
 
 ## Resources
 
-These resources are used throughout the lesson and are provided for you to continue learning on your own time.
+The following resources are what we used throughout the lesson. They are provided again for you here to continue learning on your own time.
 
 * **Articles:**
     * [E. Klotins, M. Unterkalmsteiner and T. Gorschek, "Software Engineering Antipatterns in Start-Ups," in IEEE Software, vol. 36, no. 2, pp. 118-126, March-April 2019, doi: 10.1109/MS.2018.227105530.](https://ieeexplore.ieee.org/document/8356173)
