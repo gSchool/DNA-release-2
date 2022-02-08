@@ -112,7 +112,7 @@ Let’s start by defining dependencies. Typically, there are three types of depe
 1. **Expertise**- Specific knowledge of a person is needed.
 1. **Activity**- Progress is halted until activity is completed (can be a bottleneck).
 
-**Fun Fact**: At AgileAlliance 2015, Troy Magennis used Boolean logic to demonstrate a key fact: **Every time you remove one dependency, half the total possible delay combinations are removed, reducing your risk when delivering capability!**
+**Fun Fact**: At Agile Alliance 2015, Troy Magennis used Boolean logic to demonstrate a key fact: **Every time you remove one dependency, half the total possible delay combinations are removed, reducing your risk when delivering capability!**
 
 Imagine you have dinner reservations with four people, each traveling independently to the reservation. The caveat: you cannot be seated until all four people arrive. There are sixteen possible outcomes, but **dependencies are asymmetrical in their impact**. With four dependencies, there **is not** a 25% probability you won’t be seated, there’s a 93% probability, or 15/16th of a chance, that **you won’t be seated**.
 
@@ -263,6 +263,12 @@ Back to neglected work. Key ideas that will help you to recognize or prevent neg
 - If not dealt with, neglected work (i.e. technical debt) will become an emergency
 - Consistently re-evaluate the investment of time and resources needed to finish the project. Aim to prevent ‘zombie projects’ from overtaking your current responsibilities.
 
+### !callout-secondary 
+## Defining Zombie Projects
+Donald Reinersten coined the term ‘zombie projects.’ **Zombie projects** are low-value projects that are barely alive. Typically they _limp_ along with minimum support but are constantly vying for additional money, resources and people. They subtly siphon people’s time and energy away from hire value projects. <br><br>
+<span style="font-size: .8em"> Source: [Making Work Visible](https://itrevolution.com/book/making-work-visible/) </span>
+
+### !end-callout
 
 
 The next section will show you:
