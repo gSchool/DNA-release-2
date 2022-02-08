@@ -265,9 +265,8 @@ Back to neglected work. Key ideas that will help you to recognize or prevent neg
 
 ### !callout-secondary 
 ## Defining Zombie Projects
-Donald Reinersten coined the term ‘zombie projects.’ **Zombie projects** are low-value projects that are barely alive. Typically they _limp_ along with minimum support but are constantly vying for additional money, resources and people. They subtly siphon people’s time and energy away from hire value projects. <br><br>
+Donald Reinersten coined the term ‘zombie projects.’ **Zombie projects** are low-value projects that are barely alive. Typically they _limp_ along with minimal support but are constantly vying for additional money, resources and people. They subtly siphon people’s time and energy away from hire value projects. <br><br>
 <span style="font-size: .8em"> Source: [Making Work Visible](https://itrevolution.com/book/making-work-visible/) </span>
-
 ### !end-callout
 
 
