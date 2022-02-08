@@ -1,4 +1,4 @@
-# Benefits To Making Work Visible
+# Benefits to Making Work Visible
 
 ## Learning Objectives
 
@@ -56,7 +56,7 @@ Using these four elements together they achieve a visual that is: accurate, mean
 
 Visualizing the flow of work improves team communication and understanding. By making work visible, we improve our work by engaging the human brain as it is designed, by allowing it to find meaningful patterns and structures perceived through sight.
 
-So, do we need to track everything? How do we implement?The answer to the first question - no.
+So, do we need to track everything? How do we implement? The answer to the first question - no.
 
 To answer the second question, let’s use a scenario.
 
@@ -64,7 +64,7 @@ A ten-minute task probably doesn’t need to be tracked unless one of the follow
 1. **Only one person knows how to do it (Thief: Unknown Dependencies)**
    * Making this visible can prompt needed cross-training
 1. **The work impacts other teams (Thief: Unknown Dependencies)**
-   * Creating a card on a Kanban board is a one or two minute task, posing a low level of overhead, that greatly improves cross-team communication
+   * Creating a card on a Kanban board is a one- or two-minute task, posing a low level of overhead, that greatly improves cross-team communication
 1. **Someone’s primary job function involves completing tasks lasting fifteen minutes or less (Thief: Too Much WIP)**
    * When tasks are fifteen minutes or less, they are difficult to track using Kanban, meaning that person’s work is invisible. This makes it too easy to over-task an individual.
 ### !challenge
@@ -175,7 +175,7 @@ What are the reasons that a ten-minute task should be tracked in your Kanban?
 ##### !end-answer
 
 #### !hint
-Is our goal to show that we are at 100% workload capacity
+Is our goal to show that we are at 100% workload capacity?
 #### !end-hint
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -347,7 +347,7 @@ Explain your answer to the previous question
 ## <span style="font-size:2em">4.</span> Prioritize effectively
 Remember how we said that Too Much WIP infiltrates all other thieves? People take on more WIP when they are unclear on priorities.
 
-So what are some ways to prioritize work:
+So, what are some ways to prioritize work:
 * **Highest paid person’s opinion (HiPPO)**: Each job is assigned a priority by the most senior person in charge
 * **Cost of Delay (CoD)**: A measure of the impact of time on the outcomes we want, a preview to our next section on Outcomes over Outputs
 * **First-in, First-out (FIFO)**: Simple as it sounds - first in, first worked. Note there is also a reverse, last in first out.
@@ -393,7 +393,7 @@ Measure and track your team’s flow of work -- track the work, not the people! 
 Create visuals that show:
 * Throughput (organized by type of work)
 * Flow time - once initiated how long it takes to complete
-* Common themes or issues that occured
+* Common themes or issues that occurred
 
 > <span style="font-family:script;font-size:2em;">Invest energy in collecting metrics that help you make decisions.</span>
 >
@@ -448,6 +448,19 @@ NOTE: If you already use a Kanban in your organization - please describe who use
 
 <!-- ======================= END CHALLENGE ======================= -->
 
+### !callout-success
+## Key Takeaways: 
+* At some point, every team will grow to the point that communication is a bottleneck. Making Work Visible through Kanbans or other tools helps to mitigate **and** provides the foundation for trend and data analysis to support improving workflow and communicating with leadership and stakeholders. 
+* Majority of individuals are visual learners. Use visuals to increase communication within your team **and** in external engagements. 
+* Tools are only effective if they are used by the entire team. Work to find what is most effective for your team, and continue to improve. Remember to evaluate tools and processes as your team grows and/or scope increases.
+### !end-callout
+
+## Resources
+* **Books:** 
+    * [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow_](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis
+    * [_Team Topologies_](https://teamtopologies.com/book)
+
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets -->
 
@@ -475,14 +488,3 @@ Remember, this is optional - this is a way for you to provide input while workin
 
 <!-- ======================= END CHALLENGE ======================= -->
 
-### !callout-success
-## Key Takeaways: 
-* At some point, every team will grow to the point that communication is a bottleneck. Making Work Visible through Kanbans or other tools helps to mitigate **and** provides the foundation for trend and data analysis to support improving workflow and communicating with leadership and stakeholders. 
-* Majority of individuals are visual learners. Use visuals to increase communication within your team **and** in external engagements. 
-* Tools are only effective if they are used by the entire team. Work to find what is most effective for your team, and continue to improve. Remember to evaluate tools and processes as your team grows and/or scope increases.
-### !end-callout
-
-## Resources
-* **Books:** 
-    * [_Making Work Visible: Exposing Time Theft to Optimize Work and Flow_](https://itrevolution.com/making-work-visible-by-dominica-degrandis/) by Dominica DeGrandis
-    * [_Team Topologies_](https://teamtopologies.com/book)
